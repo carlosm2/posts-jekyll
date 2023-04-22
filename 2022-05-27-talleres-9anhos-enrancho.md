@@ -197,9 +197,11 @@ este taller lo hizo gus, yo solo la gestión para FLISOL 2021
 
 [https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/](https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/)
 
+[*] Taller KeespassXC segunda parte:
+[https://ranchoelectronico.org/keepassxc-segunda-sesion/](https://ranchoelectronico.org/keepassxc-segunda-sesion/)
 
-## AutodefensaDigital - surtido rico
 
+## AutodefensaDigital 
 ---
 
 
@@ -222,7 +224,7 @@ este taller lo hizo gus, yo solo la gestión para FLISOL 2021
 [*] Talleres de autodefensa digital para personas no binaries
 [https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/](https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/)
 
-## Variado de otros temas
+## Otros talleres
 
 ---
 
@@ -248,6 +250,8 @@ este taller lo hizo gus, yo solo la gestión para FLISOL 2021
 [*] Introdución al Fediverso y redes sociales libres:
 [https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
 
+[*] Taller ooniprobe-cli en una raspberrypi:
+[https://ranchoelectronico.org/debian-day-2022/](https://ranchoelectronico.org/debian-day-2022/)
 
 
 
