@@ -219,6 +219,9 @@ este taller lo hizo gus, yo solo la gestión para FLISOL 2021
 
 [https://ranchoelectronico.org/flisolranchero2021/](https://ranchoelectronico.org/flisolranchero2021/)
 
+[*] Talleres de autodefensa digital para personas no binaries
+[https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/](https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/)
+
 ## Variado de otros temas
 
 ---
@@ -241,6 +244,11 @@ este taller lo hizo gus, yo solo la gestión para FLISOL 2021
 
 [*] WordPress
 [https://ranchoelectronico.org/trabajas-con-wordpress/](https://ranchoelectronico.org/trabajas-con-wordpress/)
+
+[*] Introdución al Fediverso y redes sociales libres:
+[https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
+
+
 
 
 ## texto en proceso, aun no esta terminao
