@@ -23,8 +23,6 @@ En este texto les comparto un poco sobre las colaboraciones voluntarias en **Tai
 
 Tails es un sistema operativo portátil que te protege de la vigilancia y la censura. [(mas información)](https://tails.boum.org/about/index.es.html)
 
-Hace 10 años en el evento: **Rectech** [(flyer)](https://pixelfed.de/i/web/post/515737952890857676), conoci a un compa del proyecto Tails que estaba en sus primeros pasos, despues de unos años me anime a colaborar, primero en Localización, luego en Beta Testing, y a veces me metia al IRC a aprender y contestar dudas.
-
 Colaboro desde el 2015
 
 Página donde explica las formas de poder colaborar:
