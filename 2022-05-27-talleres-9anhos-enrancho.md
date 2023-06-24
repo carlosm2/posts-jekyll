@@ -85,6 +85,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
  
 [https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/](https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/)
 
+[*] Introducción a Tails - Flisol Rancho 2018
+[https://ranchoelectronico.org/checa-el-programa-preliminar-del-flisol-2018/](https://ranchoelectronico.org/checa-el-programa-preliminar-del-flisol-2018/)
+
+[*] Cómo colaborar con Tails - Flisol 2016 HSRE
+[https://flisol.info/FLISOL2016/Mexico/obrera](https://flisol.info/FLISOL2016/Mexico/obrera)
+
 ## Cifrado Correos GPG/PGP
 
 ----
@@ -150,6 +156,9 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/](https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/)
 
+[*] Navegación mas segura con Software Libre
+[https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+
 ## Tor y VPN
 
 ----
@@ -171,11 +180,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/](https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/)
 
-[*] Servicios Onion: una cebolla por dia mantiene a la vigilancia lejos. 
-este taller lo hizo gus, yo solo la gestión para FLISOL 2021
-[https://ranchoelectronico.org/flisolranchero2021/](https://ranchoelectronico.org/flisolranchero2021/)
-
-[*] CryptoCumbión Tor (Nomas ayudé en la gestión, flyer)
+[*] CryptoCumbión Tor (Nomas ayudé en la gestión y el flyer)
 
 [https://ranchoelectronico.org/criptocumbion-en-el-rancho/](https://ranchoelectronico.org/criptocumbion-en-el-rancho/)
 
