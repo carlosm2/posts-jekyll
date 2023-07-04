@@ -61,7 +61,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 ----
 
 
-[*] Taller práctico de Tails: 3 sesiones
+[*] Taller práctico de Tails: Sesión 1 - Primeros pasos con Tails 
+
+[https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
+
+[*] Taller práctico de Tails: Sesión 2 - Herramientas de Tails 
+
+[https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
+
+[*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia 
  
 [https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
 
@@ -73,9 +81,13 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/3era-sesion-tails/](https://ranchoelectronico.org/3era-sesion-tails/)
 
-[*] Taller Tails de nuevo, pero ahora en linea:
+[*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat
 
-[https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/]( taller Tails de nuevo, pero ahora en linea)
+[https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
+
+[*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional
+
+[https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
 [*] Taller Tails en DebianDay:
 
