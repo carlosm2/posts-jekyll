@@ -69,7 +69,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
 
-[*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia 
+[*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia: 
  
 [https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
 
@@ -81,11 +81,11 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/3era-sesion-tails/](https://ranchoelectronico.org/3era-sesion-tails/)
 
-[*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat
+[*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat:
 
 [https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
-[*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional
+[*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional:
 
 [https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
@@ -107,15 +107,35 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 ----
 
-[*] Sesiones GPG – lab de autodefensa digital:
+[*] Sesiones GPG – lab de autodefensa digital: Instalación, configuración, primeros pasos:
 
 [https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
 
-[*] Correo cifrado usando GPG:
+[*] Sesiones GPG – lab de autodefensa digital: Servidores de llaves, red de confianza:
+
+[https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
+
+[*] Sesiones GPG – lab de autodefensa digital: Como funciona el algoritmo RSA:
+
+[https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
+
+[*] Correo cifrado usando GPG: Configuración y uso de Thunderbird: 
 
 [https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
 
-[*] Taller de cifrado de correos con GPG:
+[*] Correo cifrado usando GPG: Creación y firma de llaves:
+
+[https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
+
+[*] Correo cifrado usando GPG: Verificación y firmado de llaves, Cryptoparty
+
+[https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
+
+[*] Taller de cifrado de correos con GPG: Primera Sesión:
+
+[https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/)
+
+[*] Taller de cifrado de correos con GPG: Segunda Sesión:
 
 [https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/)
 
@@ -133,22 +153,31 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/](https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/)
 
-[*] 9na sesión AutoDefensaDigital – teléfonos móviles:
-
-[https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/](https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/)
-
 [*] 8va. AutoDefensaDigital en móviles:
 
 [https://ranchoelectronico.org/89-autodefensadigital-en-moviles/](https://ranchoelectronico.org/89-autodefensadigital-en-moviles/)
 
-[*] Intro a la autodefensadigital en teléfonos - 3era temporada:
+[*] 9na sesión AutoDefensaDigital – teléfonos móviles:
+
+[https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/](https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/)
+
+
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 20 Nov 2019
+
+[https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
+
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 27 Nov 2019
+
+[https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
+
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 4 de Diciembre 2019
 
 [https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
 [*] Autodefensadigital en teléfonos móviles – 2da temporada:
 
 [https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/](https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/)
- 
+
 
 ## Navegación web mas o menos segura
 
