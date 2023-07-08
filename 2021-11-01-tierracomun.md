@@ -22,8 +22,6 @@ categories: softwarelibre
 
 * Mastodon: [https://social.coop/@tierra_comun](https://social.coop/@tierra_comun)
 
-* Gitlab: [https://soporte.tierracomun.org/](https://soporte.tierracomun.org/)
-
 * Onion: [http://orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/](http://orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/)
 
 * Archive: [https://archive.org/details/@cooperativa_tierra_com_n](https://archive.org/details/@cooperativa_tierra_com_n)
@@ -39,6 +37,14 @@ categories: softwarelibre
 * Data Sovereignty and Alternative Development Models (en ingles) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
 
 * Proyecto de investigación en Open Collective: [https://opencollective.com/cooperativa-tierra-comun1](https://opencollective.com/cooperativa-tierra-comun1)
+
+* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
+
+* Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
+
+* Somos mencionadas en esta texto: Guía para seguir comunicándonos ante bloqueos de internet [https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf](https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf)
+
+* Somos mencionadas en esta texto: Soberanía Tecnológica, Volumen 2. [https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/](https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/)
 
 
 
