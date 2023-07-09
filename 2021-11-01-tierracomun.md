@@ -46,6 +46,7 @@ categories: softwarelibre
 
 * Somos mencionadas en esta texto: Soberanía Tecnológica, Volumen 2. [https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/](https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/)
 
+* Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 
 
 
