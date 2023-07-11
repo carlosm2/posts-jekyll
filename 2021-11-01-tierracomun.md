@@ -48,5 +48,9 @@ categories: softwarelibre
 
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 
+* Peace Brigades International -Seguridad para defender: [https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn](https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn)A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe
 
+* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
+
+* Cooperativa Tierra Común | Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
