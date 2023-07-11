@@ -54,3 +54,5 @@ categories: softwarelibre
 
 * Cooperativa Tierra Común | Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
+* Parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
+
