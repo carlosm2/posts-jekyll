@@ -208,14 +208,17 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://ranchoelectronico.org/autodefensadigital-onions-tor/](https://ranchoelectronico.org/autodefensadigital-onions-tor/)
 
-[*] AutodefensaDigital 5ta y 6ta sesión en linea, Tor, VPN:
+[*] AutodefensaDigital 5ta sesión en linea, Tor, VPN:
+
+[https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+
+[*] AutodefensaDigital 6ta sesión en linea, Tor, VPN, jitsi:
 
 [https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
 
 [*] Proxy Tor, modo fácil y difícil (con el compa emilio):
  
 [https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/](https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/)
-
 
 [*] Tor meetup ciudad de mexico:
 
@@ -251,7 +254,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 ---
 
 
-[*] Taller autodefensadigital – autocuidadodigital:
+[*] Taller autodefensadigital – autocuidadodigital para disidencias de genero:
               
 [https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
               
