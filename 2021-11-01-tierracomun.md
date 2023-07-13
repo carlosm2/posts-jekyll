@@ -56,3 +56,7 @@ categories: softwarelibre
 
 * Parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
 
+* Participación en Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
+
+
+
