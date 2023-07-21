@@ -21,7 +21,7 @@ En la búsqueda por incorporar nuevas cosas a los talleres probé un presentador
 
 {% highlight java %} Bus 001 Device 012: ID 3243:0131 NORWII Norwii Wireless Presenter {% endhighlight %}
 
-Pero no funcionaba con revealjs por lo que busqué en la documentación esta parte:
+Pero no funcionaba para avanzar las diapositivas con revealjs por lo que busqué en la documentación esta parte:
 
 [https://revealjs.com/config/](https://revealjs.com/config/)
 
