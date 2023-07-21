@@ -33,6 +33,8 @@ X-Mailman-Version: 2.1.29
 Precedence: list
 {% endhighlight %}
 
+-------------------------------------
+
 Hola a toda la comunidad HackMitin.
 Abrimos una nueva propuesta a todos ustedes.
 Esperamos les interese y la tomen como propia.
