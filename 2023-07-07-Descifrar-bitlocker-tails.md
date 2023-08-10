@@ -32,7 +32,7 @@ Tenia una instalación corrupta del sistema y necesitaba rescatar archivos y com
 
 **Paso 3** En nautilus (explorador de archivos) dar click en donde dice "Otras ubicaciones" para seleccionar nuestro disco duro cifrado que aparecerá con un icono de un candado.
 
-**Paso 4** Nos pedirá la contraseña numerica de Bitlocker, la tecleamos con los guiones incluidos, despues pedira la contraseña de administración que habilitamos al inicio. Y listo.
+**Paso 4** Nos pedirá la contraseña numerica de Bitlocker, la tecleamos con los **guiones incluidos**, despues pedira la contraseña de administración que habilitamos al inicio. Y listo.
 
 
 
