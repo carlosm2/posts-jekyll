@@ -58,5 +58,9 @@ categories: softwarelibre
 
 * Participación en Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
 
+* Tech Coops List: [https://tech-coops.xyz/](https://tech-coops.xyz/)
+
+* Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
+
 
 
