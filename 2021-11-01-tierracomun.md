@@ -52,7 +52,7 @@ categories: softwarelibre
 
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 
-* Cooperativa Tierra Común | Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
+* Cooperativa Tierra Común - Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
 * Parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
 
@@ -61,6 +61,8 @@ categories: softwarelibre
 * Tech Coops List: [https://tech-coops.xyz/](https://tech-coops.xyz/)
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
+
+* Parte de patio coop - [https://patio.coop/](https://patio.coop/)
 
 
 
