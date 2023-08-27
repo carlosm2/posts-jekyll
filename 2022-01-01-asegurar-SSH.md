@@ -20,7 +20,7 @@ categories: raspberrypi ssh
 ┈┈┈┈┈┈┈┈┈┈┈┈╲╱╲╱┈┈┈┈
    
 
-Una vez conectada la raspberry pi a nuestra red podemos buscarla con el comando:
+Una vez conectada la raspberry pi a nuestra red podemos buscarla con el comando **netdiscover**:
 
 [https://www.kali.org/tools/netdiscover/](https://www.kali.org/tools/netdiscover/)
 
@@ -50,11 +50,11 @@ ponemos nuestra contraseña del usuario y ya estamos dentro.
 
 pero es mas bacán accesar via llave ssh por eso vamos a agregar nuestra llave publica a la raspberrypi:
 {% highlight c++ %}
-ssh-copy-id -i id_rsa2.pub cacu@192.168.0.2
+ssh-copy-id -i id_rsa.pub cacu@192.168.0.2
 {% endhighlight %}
 lo que arroja los siguientes datos:
 {% highlight c++ %}
-/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "id_rsa2.pub"
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "id_rsa.pub"
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
 /usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
 cacu@192.168.0.2's password: 
