@@ -4,7 +4,7 @@ title:  "incremento de peticiones snowflake dic 2021"
 date:   2021-12-25 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
-# Análisis de comportamiento Snowflake
+# Análisis de comportamiento Tor Snowflake Diciembre 2021
 
 ---------------------                                                                    
 @                                                         #    #
