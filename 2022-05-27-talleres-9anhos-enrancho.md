@@ -2,7 +2,7 @@
 layout: post
 title:  "9 años de talleres en rancho electronico"
 date:   2022-04-27 12:32:00
-categories: softwarelibre, mexico, ranchoelectronico
+categories: softwarelibre mexico ranchoelectronico hackerspace
 ---
 
            __
