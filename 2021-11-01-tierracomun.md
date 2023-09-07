@@ -58,6 +58,8 @@ categories: softwarelibre
 
 * Participación en Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
 
+* Paricipación en el Encuentro de la Red Tierra Común y la Red Feminist AI Research en México [https://sursiendo.org/2022/12/encuentro-red-tierra-comun/](https://sursiendo.org/2022/12/encuentro-red-tierra-comun/)
+
 * Tech Coops List: [https://tech-coops.xyz/](https://tech-coops.xyz/)
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
