@@ -69,7 +69,7 @@ No me manden a lo oscuro a morir como un traidor
  **Invidious** [https://github.com/iv-org/invidious](https://github.com/iv-org/invidious) es un software que ayuda a ver/escuchar videos sin comerciales, rastreadores y sin javascript, en este caso usando el que esta hospedado por la colectiva snopyta.org
 
 
- audio/video
+ audio/video en otra versión:
 
 [https://vimeo.com/44610832](https://vimeo.com/44610832)
 
