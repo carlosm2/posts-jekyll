@@ -22,6 +22,7 @@ categories: softwarelibre tor snowflake proxy
 ,    ,    ,   ,  ,    ,   ,|            | || ,  ,  ,   ,   ,     ,  ,
 
 
+* Texto de diciembre del 2021
 
 Hace algunos meses levanté un *standalone proxy snowflake*
 
