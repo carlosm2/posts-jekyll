@@ -37,7 +37,7 @@ En especifico para el equipo de localización a Español:
 
 [https://tails.boum.org/contribute/how/translate/team/es/](https://tails.boum.org/contribute/how/translate/team/es/)
 
-Y la página donde se traduce la página web de Tails:
+Y la página donde se traduce/localiza la página web de Tails:
 
 [https://translate.tails.boum.org/](https://translate.tails.boum.org/)
 
