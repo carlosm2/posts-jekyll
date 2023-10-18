@@ -273,7 +273,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Talleres de autodefensa digital para personas no binaries
 [https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/](https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/)
 
-## Otros talleres
+## Otros talleres - surtido rico
 
 ---
 
