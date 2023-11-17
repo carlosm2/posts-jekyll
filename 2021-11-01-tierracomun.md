@@ -62,6 +62,8 @@ categories: softwarelibre
 
 * Tech Coops List: [https://tech-coops.xyz/](https://tech-coops.xyz/)
 
+* Entrevista a Omar Valencia de Tierra Común sobre Autoprotección Digital: [https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html](https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html)
+
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
 * Parte de patio coop - [https://patio.coop/](https://patio.coop/)
