@@ -19,11 +19,9 @@ Yb,         ,ad8"
 
 Hay maneras fáciles de extender la fecha de vencimiento de una llave **GPG** de manera amigable y no tan amigable.
 
-// **Desde **Thunderbird** [https://www.thunderbird.net/](https://www.thunderbird.net/) no hay una manera gráfica amigable de extender la caducidad de una llave con subllaves una vez que ya esta vencida, si queremos realizarlo aparecera este mensaje:
-*// 
- {% highlight ruby %}'This is a key with a complex structure, changing its expiry date isn't supported'{% endhighlight %}
+Desde **Thunderbird** [https://www.thunderbird.net/](https://www.thunderbird.net/) podemos hacerlo de manera mas amigable.
 
-Para poder seguir usando la llave vencida podemos extender su validez via terminal:
+Pero tambien podemos extender la validez de una llave vencida via terminal:
 
 Primero localizamos la llave en cuestion:
 
