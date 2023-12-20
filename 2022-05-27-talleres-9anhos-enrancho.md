@@ -296,8 +296,17 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] WordPress
 [https://ranchoelectronico.org/trabajas-con-wordpress/](https://ranchoelectronico.org/trabajas-con-wordpress/)
 
+[*] Laboratorio de Wordpress Básico
+[https://ranchoelectronico.org/laboratorio-de-wordpress-basico/](https://ranchoelectronico.org/laboratorio-de-wordpress-basico/)
+
 [*] Introdución al Fediverso y redes sociales libres:
 [https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
+
+[*] [Tecnologías libres] Jornada de Redes Sociales Libres
+[https://ranchoelectronico.org/tecnologias-libres1/](https://ranchoelectronico.org/tecnologias-libres1/)
+
+[*] Juguemos Compa
+[https://ranchoelectronico.org/juguemos-compa/](https://ranchoelectronico.org/juguemos-compa/)
 
 [*] Taller ooniprobe-cli en una raspberrypi:
 [https://ranchoelectronico.org/debian-day-2022/](https://ranchoelectronico.org/debian-day-2022/)
