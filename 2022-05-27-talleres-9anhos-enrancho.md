@@ -308,7 +308,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] [Tecnologías libres] Jornada de Redes Sociales Libres
 [https://ranchoelectronico.org/tecnologias-libres1/](https://ranchoelectronico.org/tecnologias-libres1/)
 
-[*] Juguemos Compa
+[*] Juguemos Compa (sinmiedo.co)
 [https://ranchoelectronico.org/juguemos-compa/](https://ranchoelectronico.org/juguemos-compa/)
 
 [*] Taller ooniprobe-cli en una raspberrypi:
