@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "asegurar acceso SSH a raspberrypi"
+title:  "Asegurar acceso SSH a raspberrypi"
 date:   2022-01-01 12:32:00
 categories: raspberrypi ssh
 ---
