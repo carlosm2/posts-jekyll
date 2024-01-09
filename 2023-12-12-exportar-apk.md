@@ -23,4 +23,22 @@ está oculta de forma predeterminada. Para que sea visible, habilita las Opcione
 Android Debug Bridge 
 {% highlight java %}apt install adb{% endhighlight %}
 
+## Conecta tu teléfono a la compu y validalo
+
+Se puede de varias formas pero regularmente yo lo hago en conexión directa USB,
+habilitar **Transferencia de archivos" desde el teléfono y luego verificar con:
+
+{% highlight java %}adb devices{% endhighlight %}
+
+con el comando anterior deberias ver listado tu telefóno:
+
+{% highlight java %}
+$ adb devices
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+List of devices attached
+f48ec6	device
+{% endhighlight %}
+
+
 
