@@ -40,5 +40,26 @@ List of devices attached
 f48ec6	device
 {% endhighlight %}
 
+## Buscar la aplicación instalada
+
+para listar las aplicaciones instaladas en el teléfono:
+{% highlight java %}
+adb shell pm list packages
+{% endhighlight %}
+
+si queremos buscar por ejemplo la aplicación "ubre"
+{% highlight java %}
+adb shell pm list packages | grep ubre
+{% endhighlight %}
+
+## Extraer la aplicación especifica
+
+una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos
+este comando:
+{% highlight java %}
+adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
+{% endhighlight %}
+con lo cual quedará con el nombre base.apk para ser instalado en otro teléfono android compatible.
+
 
 
