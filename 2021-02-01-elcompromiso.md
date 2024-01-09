@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "el compromiso - patricio hidalgo"
+title:  "El compromiso - patricio hidalgo"
 date:   2021-02-01 12:32:00
 categories: musica letras
 ---
@@ -69,7 +69,7 @@ No me manden a lo oscuro a morir como un traidor
  **Invidious** [https://github.com/iv-org/invidious](https://github.com/iv-org/invidious) es un software que ayuda a ver/escuchar videos sin comerciales, rastreadores y sin javascript, en este caso usando el que esta hospedado por la colectiva snopyta.org
 
 
- audio/video en otra versión:
+ audio/video
 
 [https://vimeo.com/44610832](https://vimeo.com/44610832)
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "invitacion a crear hackerspace 2013"
+title:  "Invitacion a crear hackerspace 2013"
 date:   2021-11-02 12:32:00
 categories: softwarelibre hackerspace mexico
 ---
 
-Carta enviada a listas de correo para invitar a crear un **Hackerspace** en ciudad de México
+Carta enviada a listas de correo para invitar a crear un Hackerspace en ciudad de México
 
 
                 /||\
@@ -32,8 +32,6 @@ X-BeenThere: hackmitin@listas.espora.org
 X-Mailman-Version: 2.1.29
 Precedence: list
 {% endhighlight %}
-
--------------------------------------
 
 Hola a toda la comunidad HackMitin.
 Abrimos una nueva propuesta a todos ustedes.

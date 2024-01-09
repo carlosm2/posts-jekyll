@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "habilitar captura de pantalla de keepassXC en macOS"
+title:  "Habilitar captura de pantalla de keepassXC en macOS"
 date:   2023-03-24 12:32:00
 categories: softwarelibre keeepassxc osx macos
 ---
 
     .__________________________.
     | .___________________. |==|
-    | |   [ Apol ]        | |  |
+    | |                   | |  |
     | |                   | |  |
     | |                   | |  |
     | |                   | |  |
@@ -15,7 +15,7 @@ categories: softwarelibre keeepassxc osx macos
     | |                   | |  |
     | |                   | | ,|
     | !___________________! |(c|
-    !_______________________!__!
+    !______________________ |__!
     |    ___ -=      ___ -= | ,|
     | ---[_]---   ---[_]--- |(c|
     ---------------------------- 
@@ -38,17 +38,17 @@ Hay un bloqueo de privacidad que he notado al hacer capturas de pantalla en Andr
 
 Esta es la instrucción para habilitar una aplicacion:
 
-{% highlight java %}open -n ./AppName.app --args -AppCommandLineArg{% endhighlight %}
+{% highlight java %}$ open -n ./AppName.app --args -AppCommandLineArg{% endhighlight %}
 
 entonces aplica para KeepassXC, abrir la terminal:
 
 cambiarse al directorio donde esta la aplicación, en este caso: 
 
-{% highlight java %}cd /Applications{% endhighlight %}
+{% highlight java %}$ cd /Applications{% endhighlight %}
 
 Y luego ejecutar:
 
-{% highlight java %}open -n ./KeePassXC.app --args allow-screencapture{% endhighlight %}
+{% highlight java %}$ open -n ./KeePassXC.app --args allow-screencapture{% endhighlight %}
 
 esto abrira keepassXC con la posibilidad de hacer capturas de pantalla.
 

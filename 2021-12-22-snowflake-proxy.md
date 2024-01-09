@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "instalación de proxy snowflake"
+title:  "Instalación de proxy snowflake"
 date:   2021-12-24 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
@@ -22,7 +22,6 @@ categories: softwarelibre tor snowflake proxy
 ,    ,    ,   ,  ,    ,   ,|            | || ,  ,  ,   ,   ,     ,  ,
 
 
-* Texto de diciembre del 2021
 
 Hace algunos meses levanté un *standalone proxy snowflake*
 
@@ -42,21 +41,21 @@ Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mu
  
 {% highlight c++ %}# instalar golang
  
- apt install golang
+ $ apt install golang
  
  # clonar codigo
  
- git clone https://git.torproject.org/pluggable-transports/snowflake.git
+ $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
  # levantar el snowflake proxy
  
- cd snowflake/proxy
- go build 
+ $ cd snowflake/proxy
+ $ go build 
  
  # ejecutar el proxy
  
- cd snowflake/proxy
- nohup ./proxy & {% endhighlight %}
+ $ cd snowflake/proxy
+ $ nohup ./proxy & {% endhighlight %}
    
  y listo, despues puedes revisar ese archivo *nohup.out* para ver que esta sucediendo con el proxy.
  

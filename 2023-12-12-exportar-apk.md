@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Exportar APK de un telefono a otro"
+title:  "Exportar APK de un teléfono a otro"
 date:   2023-12-12 12:32:00
-categories: androdi apk linux
+categories: android apk linux adb
 ---
 
-## Exportar un APK para migrarlo a otro telefono
+                                 
+     .              .   /      .'. .' 
+ -=  o  =-  .'   '              
+     |                           
+     |                      
+     |=====.                
+     |.---.|                
+     ||=o=||                
+     ||   ||                
+     ||   ||               
+     ||___||               
+     |[:::]|               
+     '-----'
+
+## Exportar un APK para migrarlo a otro teléfono
 
 Tenia la necesidad de instalar una aplicación de idiomas que ya no estaba disponible en la tienda oficial ni en la pagina del fabricante, 
 asi que tuve que exportarlo para poder seguir utilizandolo en un nuevo teléfono.
@@ -21,45 +35,42 @@ está oculta de forma predeterminada. Para que sea visible, habilita las Opcione
 ## Instalar adb
 
 Android Debug Bridge 
-{% highlight java %}apt install adb{% endhighlight %}
+{% highlight python %}$ apt install adb{% endhighlight %}
+
 
 ## Conecta tu teléfono a la compu y validalo
 
 Se puede de varias formas pero regularmente yo lo hago en conexión directa USB,
-habilitar **Transferencia de archivos" desde el teléfono y luego verificar con:
+habilitar **Transferencia de archivos** desde el teléfono y luego verificar con:
 
-{% highlight java %}adb devices{% endhighlight %}
+{% highlight python %}$ adb devices{% endhighlight %}
 
 con el comando anterior deberias ver listado tu telefóno:
 
-{% highlight java %}
+{% highlight python %}
 $ adb devices
-* daemon not running; starting now at tcp:5037
-* daemon started successfully
-List of devices attached
-f48ec6	device
+$ daemon not running; starting now at tcp:5037
+$ daemon started successfully
+$ List of devices attached
+$ f48ec6 device
 {% endhighlight %}
 
 ## Buscar la aplicación instalada
 
 para listar las aplicaciones instaladas en el teléfono:
-{% highlight java %}
-adb shell pm list packages
+{% highlight python %}
+$ adb shell pm list packages
 {% endhighlight %}
 
 si queremos buscar por ejemplo la aplicación "ubre"
-{% highlight java %}
-adb shell pm list packages | grep ubre
+{% highlight python %}
+$ adb shell pm list packages | grep ubre
 {% endhighlight %}
 
 ## Extraer la aplicación especifica
 
-una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos
-este comando:
-{% highlight java %}
-adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
+una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos este comando:
+{% highlight c++ %}
+$ adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
 {% endhighlight %}
 con lo cual quedará con el nombre base.apk para ser instalado en otro teléfono android compatible.
-
-
-

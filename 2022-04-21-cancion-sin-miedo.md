@@ -2,7 +2,7 @@
 layout: post
 title:  "cancion sin miedo - vivir quintana"
 date:   2022-04-21 12:32:00
-categories: musica, letra
+categories: musica letra
 ---
 
         
