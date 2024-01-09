@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "extender caducidad de llave GPG vencida"
+title:  "Extender caducidad de llave GPG vencida"
 date:   2022-03-17 12:32:00
 categories: gnupg openpgp cifrado
 ---
