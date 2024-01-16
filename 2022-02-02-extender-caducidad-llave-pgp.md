@@ -119,22 +119,3 @@ pub   rsa4096/0x5FDA7A75CE42E670 2016-03-17 [SCA] [caduca: 2023-03-22]
 uid                [  absoluta ] carlosm2 <carlosm2@riseup.net>
 sub   rsa4096/0x714AC1ACF83A13E9 2016-03-17 [E] [caduca: 2023-03-22]
 {% endhighlight %}
-
-
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

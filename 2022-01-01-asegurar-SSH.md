@@ -89,12 +89,3 @@ finalmente probamos el acceso con puerto cambiado:
 ssh cacu@192.168.0.2 -p 22445
 {% endhighlight %}
 
-
-
-
-
-
-
-
-
-
