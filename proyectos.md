@@ -15,11 +15,10 @@ permalink: /proyectos/
 
 
 Coloboro en varios proyectos enfocados en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
-
-en algun momento ire poniendo ligas de tales proyectos
          
 # Cooperativa Tierra Común
 
+* Tierra Com\u00fan Coop [https://tierracomun.coop](https://tierracomun.org/)
 * [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
 # Hackerspace Rancho Electrónico
@@ -67,3 +66,7 @@ Colaboré durante 9 años, aca algunas notas de este mismo blog sobre ese jale:
 * Guardian Project: [https://guardianproject.info/](https://guardianproject.info/)
 * Improving Usability of Tor on Smartphones in Latin America: [https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
+* 
+## Critical Digital Education for all - Jaaklac
+
+* [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/) 
