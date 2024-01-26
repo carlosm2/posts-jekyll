@@ -67,10 +67,16 @@ si queremos buscar por ejemplo la aplicación "ubre"
 $ adb shell pm list packages | grep ubre
 {% endhighlight %}
 
+## Encontrar la ruta de la aplicación
+
+{% highlight python %}
+adb shell pm list packages -f org.compania.aplicacion
+{% endhighlight %}
+
 ## Extraer la aplicación especifica
 
 una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos este comando:
 {% highlight c++ %}
 $ adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
 {% endhighlight %}
-con lo cual quedará con el nombre base.apk para ser instalado en otro teléfono android compatible.
+con lo cual quedará con el nombre base.apk para ser instalado en otro teléfono android compatible, no siempre funciona, pero ese respaldo nos puede servir para el mismo teléfono por si reinstalamos todo el sistema operativo.
