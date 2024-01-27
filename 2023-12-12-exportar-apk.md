@@ -70,7 +70,7 @@ $ adb shell pm list packages | grep ubre
 ## Encontrar la ruta de la aplicación
 
 {% highlight python %}
-adb shell pm list packages -f org.compania.aplicacion
+$ adb shell pm list packages -f org.compania.aplicacion
 {% endhighlight %}
 
 ## Extraer la aplicación especifica
