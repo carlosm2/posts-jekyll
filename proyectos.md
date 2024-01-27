@@ -69,4 +69,13 @@ Colaboré durante 9 años, aca algunas notas de este mismo blog sobre ese jale:
 * 
 ## Critical Digital Education for all - Jaaklac
 
-* [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/) 
+* [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
+
+## MayFirst Coop Member
+
+* Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
+* Discourse MayFirst [https://comment.mayfirst.org/](https://comment.mayfirst.org/)
+
+## Social Coop Member
+
+* Social.coop is a cooperative corner of the Fediverse [https://wiki.social.coop](https://wiki.social.coop)
