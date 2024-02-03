@@ -27,23 +27,23 @@ A few months ago I built a *standalone proxy snowflake*
 
 [https://snowflake.torproject.org/](https://snowflake.torproject.org/)
 
-en una Raspberry-pi 3 B+ 
+in a Raspberry-pi 3 B+ 
 
 [https://datasheets.raspberrypi.com/rpi3/raspberry-pi-3-b-plus-product-brief.pdf](https://datasheets.raspberrypi.com/rpi3/raspberry-pi-3-b-plus-product-brief.pdf)
 
-usando esta documentación:
+using this documentation:
 
 [https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/home](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/home)
 
-Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mucho uso sistemas Debian o basados en Debian), debes de seguir con los siguientes pasos:
+Basically, when you already have your functional operating system (I have been using Debian or Debian-based systems for a long time), you must continue with the following steps:
 
-## ❄ Instalación snowflake ❄
+## ❄ Snowflake Installation ❄
  
 {% highlight c++ %}# instalar golang
  
  $ apt install golang
  
- # clonar codigo
+ # code clone
  
  $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
