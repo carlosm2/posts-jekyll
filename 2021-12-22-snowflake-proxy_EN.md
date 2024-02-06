@@ -47,16 +47,16 @@ Basically, when you already have your functional operating system (I have been u
  
  $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
- # levantar el snowflake proxy
+ # build the software
  
  $ cd snowflake/proxy
  $ go build 
  
- # ejecutar el proxy
+ # execute the proxy
  
  $ cd snowflake/proxy
  $ nohup ./proxy & {% endhighlight %}
    
- y listo, despues puedes revisar ese archivo *nohup.out* para ver que esta sucediendo con el proxy.
+and that's it, then you can check that *nohup.out* file to see what is happening with the proxy.
  
 ❄
