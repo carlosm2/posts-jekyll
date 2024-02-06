@@ -43,7 +43,7 @@ Basically, when you already have your functional operating system (I have been u
  
  $ apt install golang
  
- # code clone
+ # Clone the code
  
  $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
