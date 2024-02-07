@@ -24,21 +24,21 @@ categories: android apk linux adb
 I needed to install a language application that was no longer available in the official store or on the manufacturer's website,
 so I had to export it so I could continue using it on a new phone.
 
-## Paso 1 - Habilita la depuración de adb en tu dispositivo
+## Step 1 – Enable adb debugging on your device
 
-A fin de usar **adb** con un dispositivo conectado a través de USB, debes habilitar Depuración por USB en la configuración del sistema del dispositivo, 
-que se encuentra en Opciones para desarrolladores. En Android 4.2 (nivel de API 17) y versiones posteriores, la pantalla Opciones para desarrolladores 
-está oculta de forma predeterminada. Para que sea visible, habilita las Opciones para desarrolladores.
+In order to use **adb** with a device connected via USB, you must enable USB Debugging in the device's system settings,
+found in "Developer Options". On Android 4.2 (API level 17) and later, the Developer Options screen
+It is hidden by default. To make it visible, enable Developer Options.
 [https://developer.android.com/studio/debug/dev-options?hl=es-419#enable](https://developer.android.com/studio/debug/dev-options?hl=es-419#enable)
 
 
-## Instalar adb
+## Install adb
 
 Android Debug Bridge 
 {% highlight python %}$ apt install adb{% endhighlight %}
 
 
-## Conecta tu teléfono a la compu y validalo
+## Connect your phone to the computer and validate it
 
 Se puede de varias formas pero regularmente yo lo hago en conexión directa USB,
 habilitar **Transferencia de archivos** desde el teléfono y luego verificar con:
