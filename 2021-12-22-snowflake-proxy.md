@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalación de proxy snowflake"
+title:  "Instalación de proxy snowflake (desactualizado)"
 date:   2021-12-24 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
