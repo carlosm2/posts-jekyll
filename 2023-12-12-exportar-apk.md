@@ -21,14 +21,13 @@ categories: android apk linux adb
 
 ## Exportar un APK para migrarlo a otro teléfono
 
-Tenia la necesidad de instalar una aplicación de idiomas que ya no estaba disponible en la tienda oficial ni en la pagina del fabricante, 
-asi que tuve que exportarlo para poder seguir utilizandolo en un nuevo teléfono.
+Tenia la necesidad de instalar una aplicación de idiomas que ya no estaba disponible en la tienda oficial (Play Store) ni en la pagina del fabricante, asi que tuve que exportarlo para poder seguir utilizandolo en un nuevo teléfono.
 
 ## Paso 1 - Habilita la depuración de adb en tu dispositivo
 
 A fin de usar **adb** con un dispositivo conectado a través de USB, debes habilitar Depuración por USB en la configuración del sistema del dispositivo, 
-que se encuentra en Opciones para desarrolladores. En Android 4.2 (nivel de API 17) y versiones posteriores, la pantalla Opciones para desarrolladores 
-está oculta de forma predeterminada. Para que sea visible, habilita las Opciones para desarrolladores.
+que se encuentra en "Opciones para desarrolladoras". En Android 4.2 (nivel de API 17) y versiones posteriores, la pantalla Opciones para desarrolladoras 
+está oculta de forma predeterminada. Para que sea visible, habilita las Opciones para desarrolladoras.
 [https://developer.android.com/studio/debug/dev-options?hl=es-419#enable](https://developer.android.com/studio/debug/dev-options?hl=es-419#enable)
 
 
@@ -75,7 +74,7 @@ $ adb shell pm list packages -f org.compania.aplicacion
 
 ## Extraer la aplicación especifica
 
-una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos este comando:
+Una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos este comando:
 {% highlight c++ %}
 $ adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
 {% endhighlight %}
