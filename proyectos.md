@@ -23,7 +23,7 @@ Coloboro en varios proyectos enfocados en #SoftwareLibre #SeguridadDIgital y #Au
 
 # Hackerspace Rancho Electrónico
 
-Cofundé y colaaboré durante 9 años:
+Cofundé y colaboré durante 9 años:
 * Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
