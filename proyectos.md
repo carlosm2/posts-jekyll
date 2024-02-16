@@ -18,14 +18,13 @@ Coloboro en varios proyectos enfocados en #SoftwareLibre #SeguridadDIgital y #Au
          
 # Cooperativa Tierra Común
 
-* Tierra Com\u00fan Coop [https://tierracomun.coop](https://tierracomun.org/)
+* Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
 * Alianzas, notas prensa, textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
 # Hackerspace Rancho Electrónico
 
-Colaboré durante 9 años, aca algunas notas de este mismo blog sobre ese jale:
-
-* Hackerspace Rancho Electrónico: https://ranchoelectronico.org/tag/autodefensadigital/
+Cofundé y colaaboré durante 9 años:
+* Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
 * DW Bobs 2015: “El premio, para hablar de lo que pasa en México”: [https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683](https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683)
@@ -68,6 +67,8 @@ Colaboré durante 9 años, aca algunas notas de este mismo blog sobre ese jale:
 
 * Guardian Project: [https://guardianproject.info/](https://guardianproject.info/)
 * Improving Usability of Tor on Smartphones in Latin America: [https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/)
+* Guardian Project at Tor's State of the Onion 2022:
+[https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
 * 
 ## Critical Digital Education for all - Jaaklac
