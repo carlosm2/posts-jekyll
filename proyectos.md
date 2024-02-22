@@ -14,7 +14,8 @@ permalink: /proyectos/
 ┈╰━━━━━━━━━━━╯┈
 
 
-Coloboro en varios proyectos enfocados en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
+Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
+I collaborate in several projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity and #CollectiveSelfCare
          
 # Cooperativa Tierra Común
 
