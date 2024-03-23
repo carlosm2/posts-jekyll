@@ -84,3 +84,9 @@ Cofundé y colaboré durante 9 años:
 ## Social Coop Member
 
 * Social.coop is a cooperative corner of the Fediverse [https://wiki.social.coop](https://wiki.social.coop)
+
+## Galerias
+
+* Wikimedia Commons: [https://commons.wikimedia.org/wiki/Special:Contributions/Cacum2](https://commons.wikimedia.org/wiki/Special:Contributions/Cacum2)
+
+* Pixelfed Fediverso: [https://pixelfed.de/cacu](https://pixelfed.de/cacu) 
