@@ -18,7 +18,7 @@ Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLib
 I collaborate in several projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity and #CollectiveSelfCare
          
 # Cooperativa Tierra Común
-
+Cofundé y colaboro desde hace 7 años:
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
 * Alianzas, notas prensa, textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
@@ -71,7 +71,7 @@ Cofundé y colaboré durante 9 años:
 * Guardian Project at Tor's State of the Onion 2022:
 [https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
-* 
+  
 ## Critical Digital Education for all - Jaaklac
 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
@@ -88,5 +88,5 @@ Cofundé y colaboré durante 9 años:
 ## Galerias
 
 * Wikimedia Commons: [https://commons.wikimedia.org/wiki/Special:Contributions/Cacum2](https://commons.wikimedia.org/wiki/Special:Contributions/Cacum2)
+* Pixelfed Fediverso: [https://pixelfed.de/cacu](https://pixelfed.de/cacu)
 
-* Pixelfed Fediverso: [https://pixelfed.de/cacu](https://pixelfed.de/cacu) 
