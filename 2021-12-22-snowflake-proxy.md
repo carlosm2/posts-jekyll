@@ -72,16 +72,21 @@ go version go1.22.1 linux/arm64
  
  $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
- ### levantar el snowflake proxy
+ ### Compilar el snowflake proxy
  
  $ cd snowflake/proxy
  $ go build 
  
- # ejecutar el proxy
+ ### ejecutar el proxy
  
  $ cd snowflake/proxy
  $ nohup ./proxy & {% endhighlight %}
-   
- y listo, despues puedes revisar ese archivo *nohup.out* para ver que esta sucediendo con el proxy.
+
+###
+Si deseas guardar la salida del proxy en un archivo de registro, por ejemplo, para ver su uso del proxy, puede usar:
+
+nohup ./proxy >snowflake.log 2>&1 &
+
+
  
 ❄
