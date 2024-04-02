@@ -54,6 +54,19 @@ Buscamos la versión para **LinuxARM64**
 y luego lo extraemos en /usr/local:
 
 sudo tar -xzvf go1.22.1.linux-arm64.tar.gz -C /usr/local
+
+establecemos la variable PATH
+
+echo export PATH=$HOME/go/bin:/usr/local/go/bin:$PATH >> ~/.profile
+
+guardamos los cambios
+
+source ~/.profile
+
+y verificamos la versión:
+
+cacu@minipi:~$ go version
+go version go1.22.1 linux/arm64
  
  ### clonar codigo
  
