@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalación de proxy snowflake (desactualizado)"
+title:  "Instalación de proxy snowflake"
 date:   2021-12-24 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
@@ -22,6 +22,8 @@ categories: softwarelibre tor snowflake proxy
 ,    ,    ,   ,  ,    ,   ,|            | || ,  ,  ,   ,   ,     ,  ,
 
 
+Escrito:  2021-12-24
+Actualizado: 2024-04-01
 
 Hace algunos meses levanté un *standalone proxy snowflake*
 
@@ -33,21 +35,31 @@ en una Raspberry-pi 3 B+
 
 usando esta documentación:
 
-[https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/home](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/home)
+[https://community.torproject.org/relay/setup/snowflake/standalone/source/](https://community.torproject.org/relay/setup/snowflake/standalone/source/)
 
 Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mucho uso sistemas Debian o basados en Debian), debes de seguir con los siguientes pasos:
 
 ## ❄ Instalación snowflake ❄
  
-{% highlight c++ %}# instalar golang
+### instalar golang 
+
+en el caso de Ubuntu Server 22.04 se necesita instalar la versión mas actual.
+
+Buscamos la versión para **LinuxARM64**
  
- $ apt install golang
+[https://go.dev/dl/](https://go.dev/dl/)
+
+ $ wget https://go.dev/dl/go1.22.1.linux-arm64.tar.gz
+
+y luego lo extraemos en /usr/local:
+
+sudo tar -xzvf go1.22.1.linux-arm64.tar.gz -C /usr/local
  
- # clonar codigo
+ ### clonar codigo
  
  $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
- # levantar el snowflake proxy
+ ### levantar el snowflake proxy
  
  $ cd snowflake/proxy
  $ go build 
