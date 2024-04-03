@@ -75,6 +75,7 @@ Cofundé y colaboré durante 9 años:
 ## Critical Digital Education for all - Jaaklac
 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
+* * [Campa\u00f1a Educaci\u00f3n Digital Cr\u00edtica para todes- JAAKLAC iniciativa ](https://jaaklac.org/es/educaciondigitalcritica/)
 
 ## MayFirst Coop Member
 
