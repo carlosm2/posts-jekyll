@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalación de proxy snowflake"
-date:   2021-12-24 12:32:00
+date:   2024-04-01 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
 ## ❄ Proxy Snowflake ❄
@@ -39,54 +39,56 @@ usando esta documentación:
 
 Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mucho uso sistemas Debian o basados en Debian), debes de seguir con los siguientes pasos:
 
-## ❄ Instalación snowflake ❄
+## \u2744 Instalaci\u00f3n snowflake \u2744
  
 ### instalar golang 
 
-en el caso de Ubuntu Server 22.04 se necesita instalar la versión mas actual.
-
-Buscamos la versión para **LinuxARM64**
+Buscamos la versi\u00f3n para **LinuxARM64**
  
 [https://go.dev/dl/](https://go.dev/dl/)
 
- $ wget https://go.dev/dl/go1.22.1.linux-arm64.tar.gz
+{% highlight ruby %}
+
+$ wget https://go.dev/dl/go1.22.1.linux-arm64.tar.gz
 
 y luego lo extraemos en /usr/local:
 
-sudo tar -xzvf go1.22.1.linux-arm64.tar.gz -C /usr/local
+$ sudo tar -xzvf go1.22.1.linux-arm64.tar.gz -C /usr/local
 
 establecemos la variable PATH
 
-echo export PATH=$HOME/go/bin:/usr/local/go/bin:$PATH >> ~/.profile
+$ echo export PATH=$HOME/go/bin:/usr/local/go/bin:$PATH >> ~/.profile
 
-guardamos los cambios
+y guardamos los cambios con:
 
-source ~/.profile
+$ source ~/.profile
 
-y verificamos la versión:
+y verificamos la versi\u00f3n:
 
-cacu@minipi:~$ go version
-go version go1.22.1 linux/arm64
+$ cacu@minipi:~$ go version
+$ go version go1.22.1 linux/arm64
  
- ### clonar codigo
+### clonar codigo
  
- $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
+$ git clone https://git.torproject.org/pluggable-transports/snowflake.git
  
- ### Compilar el snowflake proxy
+### Compilar el snowflake proxy
  
- $ cd snowflake/proxy
- $ go build 
+$ cd snowflake/proxy
+$ go build 
  
- ### ejecutar el proxy
+### ejecutar el proxy
  
- $ cd snowflake/proxy
- $ nohup ./proxy & {% endhighlight %}
+$ cd snowflake/proxy
+$ nohup ./proxy &
 
-###
+### Ver registros
+{% endhighlight %}
+ 
 Si deseas guardar la salida del proxy en un archivo de registro, por ejemplo, para ver su uso del proxy, puede usar:
 
-nohup ./proxy >snowflake.log 2>&1 &
+{% highlight ruby %}
+$ nohup ./proxy >snowflake.log 2>&1 &
+{% endhighlight %}
 
-
- 
 ❄
