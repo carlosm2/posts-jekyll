@@ -89,6 +89,12 @@ Si deseas guardar la salida del proxy en un archivo de registro, por ejemplo, pa
 
 {% highlight ruby %}
 $ nohup ./proxy >snowflake.log 2>&1 &
+
+para agregarlo al cron
+
+crontab -e
+
+@reboot nohup /home/cacu/snowflake/proxy/proxy > /home/cacu/snowflake/proxy/snowflake.log 2>&1 &
 {% endhighlight %}
 
 ❄
