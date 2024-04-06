@@ -39,7 +39,7 @@ usando esta documentación:
 
 Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mucho uso sistemas Debian o basados en Debian), debes de seguir con los siguientes pasos:
 
-## \u2744 Instalaci\u00f3n snowflake \u2744
+## Pasos para Instalación snowflake
  
 ### instalar golang 
 
@@ -90,8 +90,7 @@ Si deseas guardar la salida del proxy en un archivo de registro, por ejemplo, pa
 {% highlight ruby %}
 $ nohup ./proxy >snowflake.log 2>&1 &
 
-para agregarlo al cron
-
+### Agregarlo al cron
 crontab -e
 
 @reboot nohup /home/cacu/snowflake/proxy/proxy > /home/cacu/snowflake/proxy/snowflake.log 2>&1 &
