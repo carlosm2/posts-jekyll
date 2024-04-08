@@ -6,6 +6,12 @@ categories: privacidad softwarelibre guias
 ---
 
 ## Guias de Autocuidado Digital
-sitio onion y repositorio nextcloud en Mayfirst.coop
+
+Lista de guias actualizadas en español sobre autocuidado digital 
+
+Repositorio nextcloud en Mayfirst.coop:
 
 [https://share.mayfirst.org/apps/files/?dir=/materiales&fileid=18097372](https://share.mayfirst.org/apps/files/?dir=/materiales&fileid=18097372)
+
+Sitio Onion:
+
