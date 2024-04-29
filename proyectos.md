@@ -20,6 +20,9 @@ I collaborate in several projects / initiatives / collectives focused on #FreeSo
 # Cooperativa Tierra Común
 Cofundé y colaboro desde hace 7 años:
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
+* Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
+* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
+* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 * Alianzas, notas prensa, textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
 ## Tails
@@ -35,6 +38,7 @@ Cofundé y colaboro desde hace 7 años:
 * Tor Criptocumbion 2019: [https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/](https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/)
 * Tor Meetup 2018: [https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/](https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/)
 * Evaluation of the Global South Strategy:  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
+* Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 
 ## Guardian Project 
 
@@ -57,6 +61,10 @@ Cofundé y colaboro desde hace 7 años:
 ## Social Coop Member
 
 * Social.coop is a cooperative corner of the Fediverse [https://wiki.social.coop](https://wiki.social.coop)
+
+## Patio Cooperatives
+
+* Somos parte de **patio.coop** cooperativas de tecnología de todo el mundo - [https://patio.coop/](https://patio.coop/)
   
 # Hackerspace Rancho Electrónico
 
