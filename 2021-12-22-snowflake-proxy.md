@@ -96,4 +96,6 @@ crontab -e
 @reboot nohup /home/cacu/snowflake/proxy/proxy > /home/cacu/snowflake/proxy/snowflake.log 2>&1 &
 {% endhighlight %}
 
+Video sobre Instalación: [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
+
 ❄
