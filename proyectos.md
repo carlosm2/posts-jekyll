@@ -64,7 +64,7 @@ Cofundé y colaboro desde hace 7 años:
 
 ## Patio Cooperatives
 
-* Somos parte de **patio.coop** cooperativas de tecnología de todo el mundo - [https://patio.coop/](https://patio.coop/)
+* Somos parte de **patio.coop** cooperativas de tecnología de todo el mundo [https://patio.coop/](https://patio.coop/)
   
 ## Hackerspace Rancho Electrónico
 
