@@ -17,7 +17,7 @@ permalink: /proyectos/
 Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
 I collaborate in several projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity and #CollectiveSelfCare
          
-# Cooperativa Tierra Común
+## Cooperativa Tierra Común
 Cofundé y colaboro desde hace 7 años:
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
@@ -51,7 +51,7 @@ Cofundé y colaboro desde hace 7 años:
 ## Critical Digital Education for all - Jaaklac
 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
-* * [Campa\u00f1a Educaci\u00f3n Digital Cr\u00edtica para todes- JAAKLAC iniciativa ](https://jaaklac.org/es/educaciondigitalcritica/)
+* [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
 
 ## MayFirst Coop Member
 
@@ -66,7 +66,7 @@ Cofundé y colaboro desde hace 7 años:
 
 * Somos parte de **patio.coop** cooperativas de tecnología de todo el mundo - [https://patio.coop/](https://patio.coop/)
   
-# Hackerspace Rancho Electrónico
+## Hackerspace Rancho Electrónico
 
 Cofundé y colaboré durante 9 años:
 * Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
@@ -77,12 +77,12 @@ Cofundé y colaboré durante 9 años:
 * Los hackerspaces pueden ser mas que tecnologia y software libre - Mozfest 2022 [https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS](https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS)
 * Experiences in Sharing Digital Security Workshops in an Autonomous and Open Hackerspace in Mexico - HOPE 2020 Hackers On Planet Earth [https://xiii.hope.net/hope2020/talk/RRLPYT/](https://xiii.hope.net/hope2020/talk/RRLPYT/)
 
-# Hacklab Autónomo
+## Hacklab Autónomo
 
 * [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)
 * [https://hacklab.espora.org/hacklab.html](https://hacklab.espora.org/hacklab.html)
 
-# Hackmitin
+## Hackmitin
 
 * [https://es.wikipedia.org/wiki/Hackmeeting](https://es.wikipedia.org/wiki/Hackmeeting)
 * [https://alambique.org/hackmitin/hackmitin-wiki](https://alambique.org/hackmitin/hackmitin-wiki)
