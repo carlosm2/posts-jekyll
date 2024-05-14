@@ -47,7 +47,7 @@ y en esta página se traduce la interfase gráfica:
 
 y mi usuario en las plataformas de localización: 
 
-[https://translate.tails.boum.org/user/cacukin/](https://translate.tails.boum.org/user/cacukin/)
+[https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
 
 [https://hosted.weblate.org/user/carlosm2/](https://hosted.weblate.org/user/carlosm2/)
 
