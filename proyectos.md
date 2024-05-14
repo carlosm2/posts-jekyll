@@ -28,7 +28,7 @@ Cofundé y colaboro desde hace 7 años:
 ## Tails
 
 * Tails: [https://tails.net/](https://tails.net/)
-* Tails Weblate User: [https://translate.tails.boum.org/user/cacukin/](https://translate.tails.boum.org/user/cacukin/)
+* Tails Weblate User: [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
 * Tails Reveal: [https://cacu.tech/tails/](https://cacu.tech/tails/)
 * Mas notas sobre mi colaboración en Tails: [https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html](https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html)
 
