@@ -44,3 +44,4 @@ Export-CimInstance -ClassName StdRegProv -Namespace root\default -MethodName Exp
 
 {% endhighlight %}
 
+una vez respaldado el registro podemos editarlo para poder aumentar el tamaño por defecto del archivo PST
