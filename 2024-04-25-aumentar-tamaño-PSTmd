@@ -45,3 +45,20 @@ Export-CimInstance -ClassName StdRegProv -Namespace root\default -MethodName Exp
 {% endhighlight %}
 
 una vez respaldado el registro podemos editarlo para poder aumentar el tamaño por defecto del archivo PST
+en mi caso voy a editar el registro de Outlook 2016
+
+{% highlight ruby %}
+
+    HKEY_CURRENT_USER\Software\Policies\Microsoft\Office\16.0\Outlook\PST
+
+{% endhighlight %}
+
+Agregar un nuevo **DWORD** (32 Bit) Value con el nombre **MaxLargeFileSize** 
+Value Data: 102400 Decimal (100GB)
+
+Agregar un nuevo **DWORD** (32 Bit) Value con el nombre **WarnLargeFileSize** 
+Value Data: 97280 Decimal (95GB)
+
+y listo. 
+
+
