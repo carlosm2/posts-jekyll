@@ -66,7 +66,7 @@ lo descomprimimos en la carpeta actual:
 
 luego hacemos ejecutable el appimage con este comando:
 
-{% highlight php %}chmod a+x chmod a+x RAWRR/RAWRR-1.5.3.AppImage{% endhighlight %}
+{% highlight php %}chmod a+x RAWRR/RAWRR-1.5.3.AppImage{% endhighlight %}
 
 y finalmento lo ejecutamos:
 
