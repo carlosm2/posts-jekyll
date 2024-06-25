@@ -56,3 +56,5 @@ Categories=Utilities;
 {% endhighlight %} 
 
 y listo.
+
+Tambien recien publiqué un video en el Fediverso con los pasos: [https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr](https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr)
