@@ -2,7 +2,7 @@
 layout: post
 title:  "Nahuatl para generar contraseñas en KeepassXC"
 date:   2022-06-21 12:32:00
-categories: softwarelibre, nahuatl, keepassxc
+categories: softwarelibre nahuatl keepassxc
 ---
 
 
