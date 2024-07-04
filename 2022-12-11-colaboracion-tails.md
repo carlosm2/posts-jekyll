@@ -83,5 +83,5 @@ El código fuente de esa presentación:
 
 La presentación en sitio onion:
 
-[http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/slides/tails/](http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/slides/tails/)
+[http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/tails/index.html](http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/tails/index.html)
 
