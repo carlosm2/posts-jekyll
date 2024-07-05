@@ -6,6 +6,13 @@ categories: musica letras brasil
 ---
 ## Deus do Fogo da Justiça (Deusa do Êbano) - Virginia Rodrigues
 
+───▄▀▀▀▀▀───▄█▀▀▀█▄
+──▐▄▄▄▄▄▄▄▄██▌▀▄▀▐██
+──▐▒▒▒▒▒▒▒▒███▌▀▐███
+───▌▒▓▒▒▒▒▓▒██▌▀▐██
+───▌▓▐▀▀▀▀▌▓─▀▀▀▀▀
+
+
 Ê Deusa do Êbano
 Ê Deusa do Êbano
 
