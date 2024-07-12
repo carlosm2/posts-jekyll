@@ -23,13 +23,13 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 
 
 * [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
-* [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
-* [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
-* [art19_2020_infografia-ProtocoloSeguridad-1.pdf](art19_2020_infografia-ProtocoloSeguridad-1.pdf)
-* [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
-* [calmarno.pdf](calmarno.pdf)
-* [ciberherbolaria_seguridadigital.pdf](ciberherbolaria_seguridadigital.pdf)
-* [Codeando_fanzine_Anamhoo.pdf](Codeando_fanzine_Anamhoo.pdf)
+* [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](https://cacu.tech/art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
+* [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](https://cacu.tech/art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
+* [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
+* [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](https://cacu.tech/art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
+* [calmarno.pdf](https://cacu.tech/calmarno.pdf)
+* [ciberherbolaria_seguridadigital.pdf](https://cacu.tech/ciberherbolaria_seguridadigital.pdf)
+* [Codeando_fanzine_Anamhoo.pdf](https://cacu.tech/Codeando_fanzine_Anamhoo.pdf)
 Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf
 Colectivo-Disonancia-Videollamadas.pdf
 criptotarjeta_HSRE_autodefensadigital.cleaned.pdf
