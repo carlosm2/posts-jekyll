@@ -22,24 +22,24 @@ Repositorio nextcloud en Mayfirst.coop:
 Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3x5zbgvz7zegedhspdd2sgyd.onion/
 
 
-* [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
-* [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](https://cacu.tech/art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
-* [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](https://cacu.tech/art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
-* [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
-* [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](https://cacu.tech/art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
-* [calmarno.pdf](https://cacu.tech/calmarno.pdf)
-* [ciberherbolaria_seguridadigital.pdf](https://cacu.tech/ciberherbolaria_seguridadigital.pdf)
-* [Codeando_fanzine_Anamhoo.pdf](https://cacu.tech/Codeando_fanzine_Anamhoo.pdf)
-Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf
-Colectivo-Disonancia-Videollamadas.pdf
-criptotarjeta_HSRE_autodefensadigital.cleaned.pdf
-criptotarjeta_HSRE_defendamosprivacidad.cleaned.pdf
-criptotarjeta_HSRE_laseguridadsomostodxs.pdf
-criptotarjeta_HSRE_mineriadatos.cleaned.pdf
-criptotarjeta_HSRE_nodatar.cleaned.pdf
-criptotarjeta_HSRE_softwarelibre.cleaned.pdf
-criptotarjeta_HSRE_vigilancia_moviles.cleaned.pdf
-Cuadernillo3CuidadosDigitalesenInternet.pdf
+* [aguzate.pdf](https://cacu.tech/guias/guias/aguzate.pdf)
+* [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](https://cacu.tech/guias/art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
+* [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
+* [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/guias/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
+* [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
+* [calmarno.pdf](https://cacu.tech/guias/calmarno.pdf)
+* [ciberherbolaria_seguridadigital.pdf](https://cacu.tech/guias/ciberherbolaria_seguridadigital.pdf)
+* [Codeando_fanzine_Anamhoo.pdf](https://cacu.tech/guias/Codeando_fanzine_Anamhoo.pdf)
+* [Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf](https://cacu.tech/guias/Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf)
+* [Colectivo-Disonancia-Videollamadas.pdf](https://cacu.tech/guias/Colectivo-Disonancia-Videollamadas.pdf)
+* [criptotarjeta_HSRE_autodefensadigital.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_autodefensadigital.cleaned.pdf)
+* [criptotarjeta_HSRE_defendamosprivacidad.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_defendamosprivacidad.cleaned.pdf)
+* [criptotarjeta_HSRE_laseguridadsomostodxs.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_laseguridadsomostodxs.pdf)
+* [criptotarjeta_HSRE_mineriadatos.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_mineriadatos.cleaned.pdf)
+* [criptotarjeta_HSRE_nodatar.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_nodatar.cleaned.pdf)
+* [criptotarjeta_HSRE_softwarelibre.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_softwarelibre.cleaned.pdf)
+* [criptotarjeta_HSRE_vigilancia_moviles.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_vigilancia_moviles.cleaned.pdf)
+* [Cuadernillo3CuidadosDigitalesenInternet.pdf](https://cacu.tech/guias/Cuadernillo3CuidadosDigitalesenInternet.pdf)
 Cuando_confiar_en_un_programa_info.pdf
 CUIDADO COLECTIVO web.pdf
 curricula_Convite-23.pdf
