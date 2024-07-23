@@ -44,12 +44,12 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [CUIDADO COLECTIVO web.pdf](CUIDADO COLECTIVO web.pdf)
 * [curricula_Convite-23.pdf](curricula_Convite-23.pdf)
 * [Defensa Popular - Sin Miedo.pdf](Defensa Popular - Sin Miedo.pdf)
-doc_seguridad_internetbolivia.pdf
-es_howtheinternetworks.pdf
-esidigital.pdf
-ES_ProtegerIdentidades_Signal.pdf
-ES_ProtegerIdentidades_Youtube.pdf
-estrategias-para-una-busqueda-segura_1.pdf
+* [doc_seguridad_internetbolivia.pdf](doc_seguridad_internetbolivia.pdf)
+* [es_howtheinternetworks.pdf](es_howtheinternetworks.pdf)
+* [esidigital.pdf](esidigital.pdf)
+* [ES_ProtegerIdentidades_Signal.pdf](ES_ProtegerIdentidades_Signal.pdf)
+* [ES_ProtegerIdentidades_Youtube.pdf](ES_ProtegerIdentidades_Youtube.pdf)
+* [estrategias-para-una-busqueda-segura_1.pdf](estrategias-para-una-busqueda-segura_1.pdf)
 ES_VAE_GuiaDefensaMedioambiental_v1_07_2023.pdf
 Fanzine_necesito_privacidad.pdf
 filenames.txt
