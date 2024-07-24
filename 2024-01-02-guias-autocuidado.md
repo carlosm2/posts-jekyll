@@ -50,16 +50,16 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [ES_ProtegerIdentidades_Signal.pdf](ES_ProtegerIdentidades_Signal.pdf)
 * [ES_ProtegerIdentidades_Youtube.pdf](ES_ProtegerIdentidades_Youtube.pdf)
 * [estrategias-para-una-busqueda-segura_1.pdf](estrategias-para-una-busqueda-segura_1.pdf)
-ES_VAE_GuiaDefensaMedioambiental_v1_07_2023.pdf
-Fanzine_necesito_privacidad.pdf
-filenames.txt
-GDPFCEDYPD_2021_02.pdf
-genios-infografia-1.jpg
-genios-infografia3.jpg
-genios-infografia-4.jpg
-genios-infografia-5.jpg
-Google-Vigilancia-y-Saqueo_disonancia.pdf
-guia basica de autodefensa digital_para celus.pdf
+* [ES_VAE_GuiaDefensaMedioambiental_v1_07_2023.pdf](ES_VAE_GuiaDefensaMedioambiental_v1_07_2023.pdf
+)
+* [Fanzine_necesito_privacidad.pdf](Fanzine_necesito_privacidad.pdf)
+* [GDPFCEDYPD_2021_02.pdf](GDPFCEDYPD_2021_02.pdf)
+* [genios-infografia-1.jpg](genios-infografia-1.jpg)
+* [genios-infografia3.jpg](genios-infografia3.jpg)
+* [genios-infografia-4.jpg](genios-infografia-4.jpg)
+* [genios-infografia-5.jpg](genios-infografia-5.jpg)
+* [Google-Vigilancia-y-Saqueo_disonancia.pdf](Google-Vigilancia-y-Saqueo_disonancia.pdf)
+* [guia basica de autodefensa digital_para celus.pdf](guia basica de autodefensa digital_para celus.pdf)
 Guia-1_Después-de-la-ley.pdf
 Guía2_autocuidadoparainvestigaresqueacompananVG.pdf
 Guia-3_Despues-de-la-Ley.pdf
