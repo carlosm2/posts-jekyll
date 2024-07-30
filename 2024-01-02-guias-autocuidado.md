@@ -66,9 +66,9 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [GUIAADOLESCENTESREDUCIDA2.pdf](GUIAADOLESCENTESREDUCIDA2.pdf)
 * [guiaChecklistSD.pdf](guiaChecklistSD.pdf)
 * [guia_ciberbrigadistas_acompañamientomujeres.pdf](guia_ciberbrigadistas_acompañamientomujeres.pdf)
-Guia_de_proteccion_digital.pdf
-Guíaderesistenciadigitalentreamigas.pdf
-Guia_facil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf
+* [Guia_de_proteccion_digital.pdf](Guia_de_proteccion_digital.pdf)
+* [Guíaderesistenciadigitalentreamigas.pdf](Guíaderesistenciadigitalentreamigas.pdf)
+* [Guia_facil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf](Guia_facil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf)
 guia-final-indela.pdf
 guia_https_tc.pdf
 Guía-investigaracompanarcasosdeviolenciagenero.pdf
