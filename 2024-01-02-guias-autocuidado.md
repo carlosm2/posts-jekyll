@@ -69,16 +69,16 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [Guia_de_proteccion_digital.pdf](Guia_de_proteccion_digital.pdf)
 * [Guíaderesistenciadigitalentreamigas.pdf](Guíaderesistenciadigitalentreamigas.pdf)
 * [Guia_facil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf](Guia_facil_para_comunicarnos_y_conspirar_en_espacios_seguros_durante-3.pdf)
-guia-final-indela.pdf
-guia_https_tc.pdf
-Guía-investigaracompanarcasosdeviolenciagenero.pdf
-Guia_metodologica_violencia.pdf
-guia-practica-aplicacion-del-protocolo-busqueda-personas-desaparecidas.pdf
-Guia-seguridad-informática-IMdefensoras.pdf
-guia_tails_tc.pdf
-Guia-Vigilando-a-los-vigilantes.pdf
-Hackea-tu-Mente.pdf
-IMDefensoras-16Dias-Esp.pdf
+* [guia-final-indela.pdf](guia-final-indela.pdf)
+* [guia_https_tc.pdf](guia_https_tc.pdf)
+* [Guía-investigaracompanarcasosdeviolenciagenero.pdf](guia_https_tc.pdf)
+* [Guia_metodologica_violencia.pdf](guia_https_tc.pdf)
+* [guia-practica-aplicacion-del-protocolo-busqueda-personas-desaparecidas.pdf](guia_https_tc.pdf)
+* [Guia-seguridad-informática-IMdefensoras.pdf](Guia-seguridad-informática-IMdefensoras.pdf)
+* [guia_tails_tc.pdf](guia_tails_tc.pdf)
+* [Guia-Vigilando-a-los-vigilantes.pdf](Guia-Vigilando-a-los-vigilantes.pdf)
+* [Hackea-tu-Mente.pdf](Hackea-tu-Mente.pdf)
+* [IMDefensoras-16Dias-Esp.pdf](IMDefensoras-16Dias-Esp.pdf)
 INFOGRAFIA-WEB-GUIA-100-2-karisma.jpg
 Kit_contra_las_violencias_machistas_online_CAST.pdf
 kit-feminista.pdf
