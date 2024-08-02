@@ -90,7 +90,7 @@ Cofundé y colaboré durante 9 años:
 
 ## Github Gitlab
 
-* Gitlab Riseup: [https://0xacab.org/carlosm2](https://0xacab.org/carlosm2)
+* Gitlab Riseup: [https://0xacab.org/users/carlosm2/projects](https://0xacab.org/users/carlosm2/projects)
 * Github: [https://github.com/carlosm2](https://github.com/carlosm2)
 * Gitlab Alambique: [https://alambique.org/users/carlosm2/projects](https://alambique.org/users/carlosm2/projects)
   
