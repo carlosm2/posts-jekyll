@@ -79,12 +79,12 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [Guia-Vigilando-a-los-vigilantes.pdf](Guia-Vigilando-a-los-vigilantes.pdf)
 * [Hackea-tu-Mente.pdf](Hackea-tu-Mente.pdf)
 * [IMDefensoras-16Dias-Esp.pdf](IMDefensoras-16Dias-Esp.pdf)
-INFOGRAFIA-WEB-GUIA-100-2-karisma.jpg
-Kit_contra_las_violencias_machistas_online_CAST.pdf
-kit-feminista.pdf
-Kit_seguridad__karisma.pdf
-lampara.pdf
-laslukas.pdf
+* [INFOGRAFIA-WEB-GUIA-100-2-karisma.jpg](INFOGRAFIA-WEB-GUIA-100-2-karisma.jpg)
+* [Kit_contra_las_violencias_machistas_online_CAST.pdf](Kit_contra_las_violencias_machistas_online_CAST.pdf)
+* [kit-feminista.pdf](kit-feminista.pdf)
+* [Kit_seguridad__karisma.pdf](Kit_seguridad__karisma.pdf)
+* [lampara.pdf](lampara.pdf)
+* [laslukas.pdf](laslukas.pdf)
 lista.txt
 Manual Twitter_final_FEB2017.pdf
 manual-medios-independientes-1.pdf
