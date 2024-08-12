@@ -85,13 +85,13 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [lampara.pdf](lampara.pdf)
 * [laslukas.pdf](laslukas.pdf)
 lista.txt
-Manual Twitter_final_FEB2017.pdf
-manual-medios-independientes-1.pdf
-Manual-Pequenx-Vigiladx-Marzo-2024.pdf
-Manual_seguridad_Zoom_uam.pdf
-Mapeo-y-análisis-de-herramientas-de-seguridad-para-mujeres-2.pdf
-maquetacion-guia-periodistas-cap-1-2-3.pdf
-Materiales_DetoxDeDatosLatinx.pdf
+* [Manual Twitter_final_FEB2017.pdf](Manual Twitter_final_FEB2017.pdf)
+* [manual-medios-independientes-1.pdf](manual-medios-independientes-1.pdf)
+* [Manual-Pequenx-Vigiladx-Marzo-2024.pdf](Manual-Pequenx-Vigiladx-Marzo-2024.pdf)
+* [Manual_seguridad_Zoom_uam.pdf](Manual_seguridad_Zoom_uam.pdf)
+* [Mapeo-y-análisis-de-herramientas-de-seguridad-para-mujeres-2.pdf](Mapeo-y-análisis-de-herramientas-de-seguridad-para-mujeres-2.pdf)
+* [maquetacion-guia-periodistas-cap-1-2-3.pdf](maquetacion-guia-periodistas-cap-1-2-3.pdf)
+* [Materiales_DetoxDeDatosLatinx.pdf](Materiales_DetoxDeDatosLatinx.pdf)
 Medidas-de-proteccion-personales-guate.pdf
 MilpaDigital-15-color_firefoxcomplementos.pdf
 MilpaDigital-1-color_moviles.pdf
