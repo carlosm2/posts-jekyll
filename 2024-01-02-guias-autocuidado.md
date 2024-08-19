@@ -92,13 +92,13 @@ lista.txt
 * [Mapeo-y-análisis-de-herramientas-de-seguridad-para-mujeres-2.pdf](Mapeo-y-análisis-de-herramientas-de-seguridad-para-mujeres-2.pdf)
 * [maquetacion-guia-periodistas-cap-1-2-3.pdf](maquetacion-guia-periodistas-cap-1-2-3.pdf)
 * [Materiales_DetoxDeDatosLatinx.pdf](Materiales_DetoxDeDatosLatinx.pdf)
-Medidas-de-proteccion-personales-guate.pdf
-MilpaDigital-15-color_firefoxcomplementos.pdf
-MilpaDigital-1-color_moviles.pdf
-MilpaDigital-2-color_correos.pdf
-MilpaDigital-33-color_vpn.pdf
-MilpaDigital-36-color_obscuracam.pdf
-MilpaDigital-3-color_mumble.pdf
+* [Medidas-de-proteccion-personales-guate.pdf](Medidas-de-proteccion-personales-guate.pdf)
+* [MilpaDigital-15-color_firefoxcomplementos.pdf](MilpaDigital-15-color_firefoxcomplementos.pdf)
+* [MilpaDigital-1-color_moviles.pdf](MilpaDigital-1-color_moviles.pdf)
+* [MilpaDigital-2-color_correos.pdf](MilpaDigital-2-color_correos.pdf)
+* [MilpaDigital-33-color_vpn.pdf](MilpaDigital-2-color_correos.pdf)
+* [MilpaDigital-36-color_obscuracam.pdf](MilpaDigital-36-color_obscuracam.pdf)
+* [MilpaDigital-3-color_mumble.pdf](MilpaDigital-3-color_mumble.pdf)
 MilpaDigital-5-color_wire.pdf
 MilpaDigital-6-color_signal.pdf
 MilpaDigital-8-color_tor.pdf
