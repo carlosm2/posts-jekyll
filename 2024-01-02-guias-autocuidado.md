@@ -99,11 +99,11 @@ lista.txt
 * [MilpaDigital-33-color_vpn.pdf](MilpaDigital-2-color_correos.pdf)
 * [MilpaDigital-36-color_obscuracam.pdf](MilpaDigital-36-color_obscuracam.pdf)
 * [MilpaDigital-3-color_mumble.pdf](MilpaDigital-3-color_mumble.pdf)
-MilpaDigital-5-color_wire.pdf
-MilpaDigital-6-color_signal.pdf
-MilpaDigital-8-color_tor.pdf
-MilpaDigital-9-color_pishing.pdf
-Moverse_seguras_final_compressed.pdf
+* [MilpaDigital-5-color_wire.pdf](MilpaDigital-5-color_wire.pdf)
+* [MilpaDigital-6-color_signal.pdf](MilpaDigital-6-color_signal.pdf)
+* [MilpaDigital-8-color_tor.pdf](MilpaDigital-8-color_tor.pdf)
+* [MilpaDigital-9-color_pishing.pdf](MilpaDigital-9-color_pishing.pdf)
+* [Moverse_seguras_final_compressed.pdf](Moverse_seguras_final_compressed.pdf)
 Movilizacion_manual_abuso_policial.png.pdf
 ODB_DDP_Spanish_HighRes_Singles.pdf
 Practicasquesalvan-guia_karisma.pdf
