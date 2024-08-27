@@ -5,7 +5,7 @@ date:   2021-11-01 12:32:00
 categories: softwarelibre
 ---
 
-# algunos links de la cooperativa tierra común:
+# Cooperativa Tecnológica Tierra Común:
 
               v .   ._, |_  .,
            `-._\/  .  \ /    |/_
