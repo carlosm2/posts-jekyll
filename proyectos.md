@@ -16,14 +16,22 @@ permalink: /proyectos/
 
 Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
 I collaborate in several projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity and #CollectiveSelfCare
+
+## Github Gitlab
+
+* Gitlab Riseup: [https://0xacab.org/users/carlosm2/projects](https://0xacab.org/users/carlosm2/projects)
+* Github: [https://github.com/carlosm2](https://github.com/carlosm2)
+* Gitlab: [https://gitlab.com/users/carlosm2/projects](https://gitlab.com/users/carlosm2/projects)
+* Gitlab Alambique: [https://alambique.org/users/carlosm2/projects](https://alambique.org/users/carlosm2/projects)
          
 ## Cooperativa Tierra Común
 Cofundé y colaboro desde hace 7 años:
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
+* Open Tech Technology Fund - Rapid Response Partners [https://www.opentech.fund/funds/rapid-response-fund/](https://www.opentech.fund/funds/rapid-response-fund/)
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
 * Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
-* Alianzas, notas prensa, textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
+* Alianzas, notas prensa, otros textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
 ## Tails
 
@@ -87,12 +95,6 @@ Cofundé y colaboré durante 9 años:
 * [https://es.wikipedia.org/wiki/Hackmeeting](https://es.wikipedia.org/wiki/Hackmeeting)
 * [https://alambique.org/hackmitin/hackmitin-wiki](https://alambique.org/hackmitin/hackmitin-wiki)
 * [https://hackmitin.espora.org/](https://hackmitin.espora.org)
-
-## Github Gitlab
-
-* Gitlab Riseup: [https://0xacab.org/users/carlosm2/projects](https://0xacab.org/users/carlosm2/projects)
-* Github: [https://github.com/carlosm2](https://github.com/carlosm2)
-* Gitlab Alambique: [https://alambique.org/users/carlosm2/projects](https://alambique.org/users/carlosm2/projects)
   
 ## Galerias
 
