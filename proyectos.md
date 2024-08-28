@@ -48,7 +48,7 @@ Cofundé y colaboro desde hace 7 años:
 * Evaluation of the Global South Strategy:  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 
-## Guardian Project 
+## The Guardian Project 
 
 * Guardian Project: [https://guardianproject.info/](https://guardianproject.info/)
 * Improving Usability of Tor on Smartphones in Latin America: [https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/)
@@ -95,6 +95,10 @@ Cofundé y colaboré durante 9 años:
 * [https://es.wikipedia.org/wiki/Hackmeeting](https://es.wikipedia.org/wiki/Hackmeeting)
 * [https://alambique.org/hackmitin/hackmitin-wiki](https://alambique.org/hackmitin/hackmitin-wiki)
 * [https://hackmitin.espora.org/](https://hackmitin.espora.org)
+
+## Fichas de busqueda de personas desaparecidas
+
+I have created and manage two channels dedicated to sharing search profiles for missing persons: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
   
 ## Galerias
 
