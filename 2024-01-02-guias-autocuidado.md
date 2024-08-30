@@ -109,11 +109,11 @@ lista.txt
 * [Practicasquesalvan-guia_karisma.pdf](Practicasquesalvan-guia_karisma.pdf)
 * [Primeros Auxilios Legales - Sin Miedo.pdf](Primeros Auxilios Legales - Sin Miedo.pdf)
 * [que-no-quede-huella.pdf](que-no-quede-huella.pdf)
-Recomendaciones-de-seguridad-en-Redes-caseras-de-cara-al-teletrabajo.pdf
-redessociales_perspectivagenero.pdf
-Reporte-Gobierno-Espía-Final_r3d.pdf
-resistencia_digital_Smartphones.pdf
-Seguridad Digital - Sin Miedo.pdf
+* [Recomendaciones-de-seguridad-en-Redes-caseras-de-cara-al-teletrabajo.pdf](Recomendaciones-de-seguridad-en-Redes-caseras-de-cara-al-teletrabajo.pdf)
+* [redessociales_perspectivagenero.pdf](redessociales_perspectivagenero.pdf)
+* [Reporte-Gobierno-Espía-Final_r3d.pdf](Reporte-Gobierno-Espía-Final_r3d.pdf)
+* [resistencia_digital_Smartphones.pdf](resistencia_digital_Smartphones.pdf)
+* [Seguridad Digital - Sin Miedo.pdf](Seguridad Digital - Sin Miedo.pdf)
 Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf
 Spanish_safetag.pdf
 tails-leaflet-spanish.pdf
