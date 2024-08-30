@@ -55,6 +55,7 @@ Cofundé y colaboro desde hace 7 años:
 * Guardian Project at Tor's State of the Onion 2022:
 [https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
+* Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://privacylx.org/events/2024-05-25-tor-community/](https://privacylx.org/events/2024-05-25-tor-community/)
   
 ## Critical Digital Education for all - Jaaklac
 
