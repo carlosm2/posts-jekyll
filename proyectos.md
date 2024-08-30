@@ -47,6 +47,7 @@ Cofundé y colaboro desde hace 7 años:
 * Tor Meetup 2018: [https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/](https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/)
 * Evaluation of the Global South Strategy:  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
+* Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
 
 ## The Guardian Project 
 
