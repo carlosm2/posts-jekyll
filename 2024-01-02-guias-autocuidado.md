@@ -84,7 +84,6 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [Kit_seguridad__karisma.pdf](Kit_seguridad__karisma.pdf)
 * [lampara.pdf](lampara.pdf)
 * [laslukas.pdf](laslukas.pdf)
-lista.txt
 * [Manual Twitter_final_FEB2017.pdf](Manual Twitter_final_FEB2017.pdf)
 * [manual-medios-independientes-1.pdf](manual-medios-independientes-1.pdf)
 * [Manual-Pequenx-Vigiladx-Marzo-2024.pdf](Manual-Pequenx-Vigiladx-Marzo-2024.pdf)
@@ -127,8 +126,10 @@ ViolentometroGL-1-hiperderecho.pdf
 6.-CONF_Mensajeria-Instantanea.pdf
 6.-CONF_-Mensajeria-Instantanea-septiembre-2023.pdf
 7a.-CONF_-Cryptomator-septiembre-2023.pdf
-8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf
-9a.-CONF_-Tella-septiembre-2023.pptx.pdf
-2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf
-2207-ISG_final-es.pdf
+* [8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf](8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf)
+* [9a.-CONF_-Tella-septiembre-2023.pptx.pdf](9a.-CONF_-Tella-septiembre-2023.pptx.pdf)
+* [2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf](2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf)
+* [2207-ISG_final-es.pdf](2207-ISG_final-es.pdf)
+  lista.txt
+
 
