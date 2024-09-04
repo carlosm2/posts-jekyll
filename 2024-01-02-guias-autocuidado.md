@@ -121,11 +121,11 @@ ViolentometroGL-1-hiperderecho.pdf
 2c.-CONF_-2FA-con-Google-Authenticator-Gmail-RRSS-septiembre-2023.pdf
 3a.-CONF_-Navegación-Segura-septiembre-2023.pdf
 4_cena_desintoxicación_de_datos_presentación.pdf
-4.-CONF_-Gmail-septiembre-2023.pdf
-5a.-CONF_-Mailvelope-septiembre-2023.pdf
-6.-CONF_Mensajeria-Instantanea.pdf
-6.-CONF_-Mensajeria-Instantanea-septiembre-2023.pdf
-7a.-CONF_-Cryptomator-septiembre-2023.pdf
+* [4.-CONF_-Gmail-septiembre-2023.pdf](4.-CONF_-Gmail-septiembre-2023.pdf)
+* [5a.-CONF_-Mailvelope-septiembre-2023.pdf](5a.-CONF_-Mailvelope-septiembre-2023.pdf)
+* [6.-CONF_Mensajeria-Instantanea.pdf](6.-CONF_Mensajeria-Instantanea.pdf)
+* [6.-CONF_-Mensajeria-Instantanea-septiembre-2023.pdf](6.-CONF_-Mensajeria-Instantanea-septiembre-2023.pdf)
+* [7a.-CONF_-Cryptomator-septiembre-2023.pdf](7a.-CONF_-Cryptomator-septiembre-2023.pdf)
 * [8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf](8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf)
 * [9a.-CONF_-Tella-septiembre-2023.pptx.pdf](9a.-CONF_-Tella-septiembre-2023.pptx.pdf)
 * [2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf](2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf)
