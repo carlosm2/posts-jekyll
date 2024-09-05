@@ -114,13 +114,13 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [resistencia_digital_Smartphones.pdf](resistencia_digital_Smartphones.pdf)
 * [Seguridad Digital - Sin Miedo.pdf](Seguridad Digital - Sin Miedo.pdf)
 Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf
-Spanish_safetag.pdf
-tails-leaflet-spanish.pdf
-violencia-cartilla-una-hoja-firmado.pdf
-ViolentometroGL-1-hiperderecho.pdf
-2c.-CONF_-2FA-con-Google-Authenticator-Gmail-RRSS-septiembre-2023.pdf
-3a.-CONF_-Navegación-Segura-septiembre-2023.pdf
-4_cena_desintoxicación_de_datos_presentación.pdf
+* [Spanish_safetag.pdf](Spanish_safetag.pdf)
+* [tails-leaflet-spanish.pdf](tails-leaflet-spanish.pdf)
+* [violencia-cartilla-una-hoja-firmado.pdf](violencia-cartilla-una-hoja-firmado.pdf)
+* [ViolentometroGL-1-hiperderecho.pdf](ViolentometroGL-1-hiperderecho.pdf)
+* [2c.-CONF_-2FA-con-Google-Authenticator-Gmail-RRSS-septiembre-2023.pdf](2c.-CONF_-2FA-con-Google-Authenticator-Gmail-RRSS-septiembre-2023.pdf)
+* [3a.-CONF_-Navegación-Segura-septiembre-2023.pdf](3a.-CONF_-Navegación-Segura-septiembre-2023.pdf)
+* [4_cena_desintoxicación_de_datos_presentación.pdf](4_cena_desintoxicación_de_datos_presentación.pdf)
 * [4.-CONF_-Gmail-septiembre-2023.pdf](4.-CONF_-Gmail-septiembre-2023.pdf)
 * [5a.-CONF_-Mailvelope-septiembre-2023.pdf](5a.-CONF_-Mailvelope-septiembre-2023.pdf)
 * [6.-CONF_Mensajeria-Instantanea.pdf](6.-CONF_Mensajeria-Instantanea.pdf)
