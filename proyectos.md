@@ -40,7 +40,7 @@ Cofundé y colaboro desde hace 7 años:
 * Tails Reveal: [https://cacu.tech/tails/](https://cacu.tech/tails/)
 * Mas notas sobre mi colaboración en Tails: [https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html](https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html)
 
-## Tor
+## The Tor Project
 
 * Usuario Tor Forum: [https://forum.torproject.org/u/cacu](https://forum.torproject.org/u/cacu)
 * Tor Criptocumbion 2019: [https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/](https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/)
