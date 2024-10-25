@@ -129,8 +129,8 @@ Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf
 * [8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf](8.-CONF_-Cifrado-en-disco-VeraCrypt-BitLocker-FileVault-septiembre-2023.pdf)
 * [9a.-CONF_-Tella-septiembre-2023.pptx.pdf](9a.-CONF_-Tella-septiembre-2023.pptx.pdf)
 * [2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf](2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf)
-* [2207-ISG_final-es.pdf](2207-ISG_final-es.pdf)
-* [GUIA-1-ActivistasXSL.pdf](GUIA-1-ActivistasXSL.pdf)
-* [GUIA-2-ActivistasXSL.pdf](GUIA-2-ActivistasXSL.pdf)
+* [2207-ISG_final-es.pdf](https://cacu.tech/guias/2207-ISG_final-es.pdf)
+* [GUIA-1-ActivistasXSL.pdf](https://cacu.tech/guias/GUIA-1-ActivistasXSL.pdf)
+* [GUIA-2-ActivistasXSL.pdf](https://cacu.tech/guias/GUIA-2-ActivistasXSL.pdf)
 
 
