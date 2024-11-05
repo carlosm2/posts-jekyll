@@ -28,6 +28,8 @@ categories: softwarelibre autocuidadodigital raspberrypi spyware
 
 ## Tinycheck
 
+(Desactualizado)
+
 Traducción de la descripción:
 
 TinyCheck le permite capturar fácilmente las comunicaciones de la red desde un teléfono inteligente o cualquier dispositivo que pueda asociarse a un punto de acceso Wi-Fi para analizarlas rápidamente. Esto se puede usar para verificar si alguna comunicación sospechosa o maliciosa está saliendo desde un teléfono inteligente, mediante el uso de heurísticas o indicadores de compromiso (IoC) específicos.
