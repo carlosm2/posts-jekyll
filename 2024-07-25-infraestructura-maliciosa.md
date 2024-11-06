@@ -18,7 +18,7 @@ categories:
     `---''---`
 
 
-Gracias a una beca, tuve la oportunidad de adquirir conocimientos de manera estructurada y secuencial sobre herramientas, protocolos y medidas de seguridad para detectar infraestructuras maliciosas.
+Gracias a una beca [https://infuse.quest](https://infuse.quest) tuve la oportunidad de adquirir conocimientos de manera estructurada y secuencial sobre herramientas, protocolos y medidas de seguridad para detectar infraestructuras maliciosas.
 Conté con la guía de un mentor que facilitó el proceso, permitiéndome expresar mis dudas y aprender de alguien con experiencia en el tema. Regularmente, en otros espacios y temas, disfruto compartir lo que voy aprendiendo. 
 En este caso, una parte del programa al que apliqué requería precisamente eso: socializar el conocimiento recién adquirido.
 
