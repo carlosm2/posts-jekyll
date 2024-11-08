@@ -28,7 +28,7 @@ pedirá una contraseña:
 ░███▄███░░▀░▀░░░░░▀▀░░
 
 
-utiliza: 6789
+utiliza: **6789**
 
 Una vez usada esta contraseña temporal tendras la la opción para reinstalar todo el sistema de fabrica para poder generar un nuevo admin.
 
