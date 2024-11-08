@@ -4,15 +4,12 @@ title: /proyectos
 permalink: /proyectos/
 ---
 
- ┈╭━━━━━━━━━━━╮┈
-┈┃╭━━━╮┊╭━━━╮┃┈
-╭┫┃▇┈┃┊┃┈▇ ┃┣╮
-┃┃╰━━━╯┊╰━━━╯┃┃
-╰┫╭━╮╰━━━╯╭━╮┣╯
-┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈
-┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈
-┈╰━━━━━━━━━━━╯┈
-
+╥━━━━━━━━╭━━╮━━┳
+╢╭╮╭━━━━━┫┃▋▋━▅┣
+╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣
+╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣
+╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
+╨━━┗┛┗┛━━┗┛┗┛━━┻
 
 Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
 I collaborate on various projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity, and #CollectiveSelfCare
@@ -74,7 +71,7 @@ Cofundé y colaboro desde hace 7 años:
 
 ## Patio Cooperatives
 
-* Somos parte de **patio.coop** cooperativas de tecnología de todo el mundo [https://patio.coop/](https://patio.coop/)
+* Somos parte de patio.coop cooperativas de tecnología de todo el mundo [https://patio.coop/](https://patio.coop/)
   
 ## Hackerspace Rancho Electrónico
 
