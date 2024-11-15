@@ -31,7 +31,7 @@ categories: softwarelibre mexico ranchoelectronico hackerspace
 .
 
 
-Fueron nueve años que comparti talleres y organizando eventos en Hackerspace Rancho Electrónico junto a su comunidad. Y sobretodo conociendo y aprendiendo de banda chida. Encuentros, desencuentros, amistades, afinidades, problemas, tirar la basura, fiestas, desacuerdos, etc. etc, etc, etc, etc.
+Fueron nueve años que compartí talleres y colaboré organizando eventos en el Hackerspace Rancho Electrónico junto a su comunidad. Conociendo y aprendiendo de banda chida. Encuentros, desencuentros, amistades, afinidades, problemas, tirar la basura, fiestas, desacuerdos, conflictos, falta de comunicación, etc. Tengo pendiente escribir mas sobre este proceso colectivo.
 
 El primer evento publico que hicimos fue un FLISOL, el 27 de Abril del 2013:
 
