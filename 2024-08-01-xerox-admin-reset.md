@@ -30,7 +30,7 @@ pedirá una contraseña:
 
 utiliza: **6789**
 
-Una vez usada esta contraseña temporal tendras la la opción para reinstalar todo el sistema de fabrica para poder generar un nuevo admin.
+Una vez usada esta contraseña temporal tendras la la opción para reinstalar todo el sistema de fabrica y al reinicio la contraseña será el numero de serie del dispositivo.
 
 La nueva contraseña del administración será el numero de serie de la impresora
 
