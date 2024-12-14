@@ -61,4 +61,13 @@ categories: fediverso freesoftware hackerspace softwarelibre
 * Edubuntu https://ubuntu.social/@edubuntu
 * Rocky Linux https://fosstodon.org/@rockylinux
 
+## Free Software Projects
+
+
+
+* SecureDrop https://social.freedom.press/@securedrop
+* Zetlr https://fosstodon.org/@zettlr
+* Tella - Document & Protect https://infosec.exchange/@tella
+
+
 
