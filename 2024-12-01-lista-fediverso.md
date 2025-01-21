@@ -62,11 +62,60 @@ categories: fediverso freesoftware hackerspace softwarelibre
 * Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
 * Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
 
+## Cooperatives
 
+
+* May First Movement Technology https://social.coop/@mayfirst
+	una lista de cooperativas y organizaciones de software libre presentes en el #fediverso, contribuciones bienvenidas
+
+List of cooperatives and free software organizations on the #fediverse, contributions welcome
+
+## Cooperatives
+
+* May First Movement Technology https://social.coop/@mayfirst
+* coopnews https://social.coop/@coopnews
+* Patio Coops https://social.coop/@patio
+* CoopNews https://social.coop/@coopnews
+* Tierra Comun coop https://social.coop/@tierra_comun
+* Tierra Comun coop https://social.coop/@tierra_comun
+* Sutty https://todon.nl/@sutty
+* Olatukoop https://mastodon.eus/@Olatukoop
+* Olatukoop https://mastodon.eus/@Olatukoop
+* Autonomic Co-op https://sunbeam.city/@autonomic
+* Talaios kooperatiba https://mastodon.eus/@Talaioskoop
+* KoopFabrika https://mastodon.eus/@koopfabrika
+* Koop57 Euskal Herria https://mastodon.eus/@koop57eh
+* Coòpolis https://mastodon.economiasocial.org/@coopolis
+* Ponent Coopera https://mastodon.economiasocial.org/@ponentcoopera
+* Jamgo, cooperativa tecnològica https://mastodon.social/@jamgo
+* Talaios kooperatiba https://mastodon.eus/@Talaioskoop
+* KoopFabrika https://mastodon.eus/@koopfabrika
+* Koop57 Euskal Herria https://mastodon.eus/@koop57eh
+* Coòpolis https://mastodon.economiasocial.org/@coopolis
+* Ponent Coopera https://mastodon.economiasocial.org/@ponentcoopera
+* Jamgo, cooperativa tecnològica https://mastodon.social/@jamgo
+* Olatukoop https://mastodon.eus/@Olatukoop	
+* Cooperativa femProcomuns https://mastodon.economiasocial.org/@femprocomuns
+* Grassroots Economic Organizing https://social.coop/@GEO_Collective
+* CoopCycle https://mastodon.social/@coopcycle
+* Cooperativa Gafarrons https://mastodon.economiasocial.org/@GafarronsCoop 
+* TRADUCOOP https://social.coop/@traducoop
+* Co-op Cloud https://social.coop/@coopcloud
+* Institut Coop https://mstdn.ca/@institutcoop
+* Autonomic Co-op https://sunbeam.city/@autonomic
+* Cambá https://mastodon.online/@cambacoop
+* Cooperativa femProcomuns https://mastodon.economiasocial.org/@femprocomuns
+* Grassroots Economic Organizing https://social.coop/@GEO_Collective
+* CoopCycle https://mastodon.social/@coopcycle
+* Cooperativa Gafarrons https://mastodon.economiasocial.org/@GafarronsCoop 
+* TRADUCOOP https://social.coop/@traducoop
+* Co-op Cloud https://social.coop/@coopcloud
+* Institut Coop https://mstdn.ca/@institutcoop
+* Autonomic Co-op https://sunbeam.city/@autonomic
+* Cambá https://mastodon.online/@cambacoop
+* Nubo Coop https://hostux.social/@nubo_coop
 
 ## Free Software Projects
-
-
 
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
