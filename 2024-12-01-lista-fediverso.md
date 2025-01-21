@@ -64,14 +64,6 @@ categories: fediverso freesoftware hackerspace softwarelibre
 
 ## Cooperatives
 
-
-* May First Movement Technology https://social.coop/@mayfirst
-	una lista de cooperativas y organizaciones de software libre presentes en el #fediverso, contribuciones bienvenidas
-
-List of cooperatives and free software organizations on the #fediverse, contributions welcome
-
-## Cooperatives
-
 * May First Movement Technology https://social.coop/@mayfirst
 * coopnews https://social.coop/@coopnews
 * Patio Coops https://social.coop/@patio
