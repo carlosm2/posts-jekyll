@@ -112,6 +112,13 @@ categories: fediverso freesoftware hackerspace softwarelibre
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
 * Tella - Document & Protect https://infosec.exchange/@tella
+* The Tor Project https://mastodon.social/@torproject
+* Rocket.Chat https://fosstodon.org/@RocketChat
+* Libera Chat https://fosstodon.org/@liberachat
+* Zulip https://fosstodon.org/@zulip
+* Free Software Foundation https://hostux.social/@fsf
+* Framework https://fosstodon.org/@frameworkcomputer
+* Briar Project https://fosstodon.org/@briar
 
 
 
