@@ -119,6 +119,10 @@ categories: fediverso freesoftware hackerspace softwarelibre
 * Free Software Foundation https://hostux.social/@fsf
 * Framework https://fosstodon.org/@frameworkcomputer
 * Briar Project https://fosstodon.org/@briar
+* Cwtch https://fosstodon.org/@cwtch
+* Suricata https://infosec.exchange/@suricata
+* NetBlocks https://mastodon.social/@netblocks
+* Gajim https://fosstodon.org/@gajim
 
 
 
