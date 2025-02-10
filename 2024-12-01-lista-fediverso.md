@@ -123,6 +123,23 @@ categories: fediverso freesoftware hackerspace softwarelibre
 * Suricata https://infosec.exchange/@suricata
 * NetBlocks https://mastodon.social/@netblocks
 * Gajim https://fosstodon.org/@gajim
+* Mastodon https://mastodon.social/@Mastodon
+* Python for Data Science https://mastodon.social/@Python4DataScience
+* FediForum https://mastodon.social/@fediforum
+* Public Knowledge Project https://mastodon.social/@PublicKnowledgeProject
+* Creative Commons https://mastodon.social/@creativecommons
+* Invest in Open Infrastructure https://indieweb.social/@investinopen
+* Center for Open Science https://fosstodon.org/@CenterforOpenScience
+* Open Future Foundation https://eupolicy.social/@openfuture
+* The Citizen Lab https://mastodon.social/@citizenlab
+* IFEX https://mastodon.ngo/@ifex
+* Mozilla https://mastodon.social/@mozillaofficial
+* PET Symposium https://infosec.exchange/@PET_Symposium
+* SecureDrop https://social.freedom.press/@securedrop
+* Inkscape https://mastodon.art/@inkscape
+* Libre Graphics Meeting https://post.lurk.org/@lgm
+* The Open Source Hardware Association (OSHWA) https://mastodon.social/@oshwassociation
+
 
 
 
