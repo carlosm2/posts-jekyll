@@ -64,14 +64,13 @@ categories: fediverso freesoftware hackerspace softwarelibre
 
 ## Cooperatives
 
+
+* Tierra Comun coop https://social.coop/@tierra_comun
 * May First Movement Technology https://social.coop/@mayfirst
 * coopnews https://social.coop/@coopnews
 * Patio Coops https://social.coop/@patio
 * CoopNews https://social.coop/@coopnews
-* Tierra Comun coop https://social.coop/@tierra_comun
-* Tierra Comun coop https://social.coop/@tierra_comun
 * Sutty https://todon.nl/@sutty
-* Olatukoop https://mastodon.eus/@Olatukoop
 * Olatukoop https://mastodon.eus/@Olatukoop
 * Autonomic Co-op https://sunbeam.city/@autonomic
 * Talaios kooperatiba https://mastodon.eus/@Talaioskoop
