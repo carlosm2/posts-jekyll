@@ -42,7 +42,7 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [criptotarjeta_HSRE_vigilancia_moviles.cleaned.pdf](https://cacu.tech/guias/criptotarjeta_HSRE_vigilancia_moviles.cleaned.pdf)
 * [Cuadernillo3CuidadosDigitalesenInternet.pdf](https://cacu.tech/guias/Cuadernillo3CuidadosDigitalesenInternet.pdf)
 * [Cuando_confiar_en_un_programa_info.pdf](https://cacu.tech/guias/Cuando_confiar_en_un_programa_info.pdf)
-* [CUIDADO COLECTIVO web.pdf](CUIDADO COLECTIVO web.pdf)
+* [CUIDADOCOLECTIVOweb.pdf](https://cacu.tech/guias/CUIDADOCOLECTIVOweb.pdf)
 * [curricula_Convite-23.pdf](https://cacu.tech/guias/curricula_Convite-23.pdf)
 * [Defensa Popular - Sin Miedo.pdf](https://cacu.tech/guias/Defensa Popular - Sin Miedo.pdf)
 * [doc_seguridad_internetbolivia.pdf](https://cacu.tech/guias/doc_seguridad_internetbolivia.pdf)
