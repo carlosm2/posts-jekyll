@@ -30,6 +30,15 @@ Cofundé y colaboro desde hace 7 años:
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 * Alianzas, notas prensa, otros textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
+## The Guardian Project 
+
+* Guardian Project: [https://guardianproject.info/](https://guardianproject.info/)
+* Improving Usability of Tor on Smartphones in Latin America: [https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/)
+* Guardian Project at Tor's State of the Onion 2022:
+[https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
+* Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
+* Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://privacylx.org/events/2024-05-25-tor-community/](https://privacylx.org/events/2024-05-25-tor-community/)
+
 ## Tails
 
 * Tails: [https://tails.net/](https://tails.net/)
@@ -46,19 +55,12 @@ Cofundé y colaboro desde hace 7 años:
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
 
-## The Guardian Project 
-
-* Guardian Project: [https://guardianproject.info/](https://guardianproject.info/)
-* Improving Usability of Tor on Smartphones in Latin America: [https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/](https://guardianproject.info/2023/06/02/improving-usability-of-tor-on-smartphones-in-latin-america/)
-* Guardian Project at Tor's State of the Onion 2022:
-[https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
-* Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
-* Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://privacylx.org/events/2024-05-25-tor-community/](https://privacylx.org/events/2024-05-25-tor-community/)
   
 ## Critical Digital Education for all - Jaaklac
 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
 * [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
+* [Lingua Café Voice: a panorama on language justice in the digital age.](Lingua Café Voice: a panorama on language justice in the digital age.)
 
 ## MayFirst Coop Member
 
