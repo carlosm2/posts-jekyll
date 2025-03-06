@@ -100,6 +100,17 @@ Cofundé y colaboré durante 9 años:
 ## Fichas de busqueda de personas desaparecidas
 
 I have created and manage two channels dedicated to sharing search profiles for missing persons: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
+
+## Publications
+
+* WebRTC Its not Magic – Guide to WebRTC financed by Derechos Digitales and Article 19
+Co author [https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf](https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf)
+* Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It
+Co author: [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
+* CriptoCards – Digital Defense Material financed by WebWeWant
+Co author - [https://criptorally.ranchoelectronico.org](https://criptorally.ranchoelectronico.org)
+* Cyber-Women - Digital Security Curricula
+Consultancy, Review - [https://cyber-women.com](https://cyber-women.com/)
   
 ## Galerias
 
