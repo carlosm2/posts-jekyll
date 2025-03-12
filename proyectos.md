@@ -104,6 +104,24 @@ Cofundé y colaboré durante 9 años:
 
 I have created and manage two channels dedicated to sharing search profiles for missing persons: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
 
+## Localization / Translation projects Free Software and Privacy
+
+* Tails https://translate.tails.boum.org/user/cacukin/ since 2015
+* Tor Project: https://hosted.weblate.org/user/carlosm2/, https://app.transifex.com/user/profile/cacu/
+* Riseup: https://github.com/carlosm2/riseup_help
+* Guardian Project: https://hosted.weblate.org/projects/guardianproject/
+* GlobaLeaks: https://app.transifex.com/otf/globaleaks/dashboard/
+* Bitmask: https://app.transifex.com/otf/bitmask/dashboard/
+* Briar: https://app.transifex.com/otf/briar/languages/
+* Scrambled Exif: https://app.transifex.com/juanitobananas/scrambled-exif/dashboard/
+* OnionShare: https://hosted.weblate.org/projects/onionshare/
+* KeepassXC: https://app.transifex.com/keepassxc/keepassxc/dashboard/
+* OONI: https://app.transifex.com/otf/ooni-explorer/dashboard/
+* K-9 Mail: https://www.transifex.com/k-9/k9mail/dashboard/
+* Security without Borders: https://app.transifex.com/security-without-borders/
+* OpenPGP Keys: https://app.transifex.com/otf/hagrid/dashboard/
+* Wordlist for KeepassXC in nahuatl (indigenous language) https://github.com/carlosm2/lista-nahuatl
+
 ## Publications
 
 * WebRTC Its not Magic – Guide to WebRTC financed by Derechos Digitales and Article 19
