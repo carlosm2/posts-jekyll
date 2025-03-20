@@ -38,6 +38,7 @@ Cofundé y colaboro desde hace 7 años:
 [https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
 * Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://privacylx.org/events/2024-05-25-tor-community/](https://privacylx.org/events/2024-05-25-tor-community/)
+* Feria de Lenguas Indígenas Digitales 2025 [https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/](https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/)
 
 ## Tails
 
