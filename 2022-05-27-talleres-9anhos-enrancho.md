@@ -88,7 +88,6 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional:
 
 [https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
-
 [*] Taller Tails en DebianDay:
 
 [https://ranchoelectronico.org/dia-debian-2014/](https://ranchoelectronico.org/dia-debian-2014/)
@@ -159,8 +158,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] 9na sesión AutoDefensaDigital – teléfonos móviles:
 
-[https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/](https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/)
-
+[https://web.archive.org/web/20250321013224/https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/](https://web.archive.org/web/20250321013224/https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/)
 
 [*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 20 Nov 2019
 
@@ -247,7 +245,8 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/](https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/)
 
 [*] Taller KeespassXC segunda parte:
-[https://ranchoelectronico.org/keepassxc-segunda-sesion/](https://ranchoelectronico.org/keepassxc-segunda-sesion/)
+
+[https://web.archive.org/web/20250321014505/https://ranchoelectronico.org/keepassxc-segunda-sesion/](https://web.archive.org/web/20250321014505/https://ranchoelectronico.org/keepassxc-segunda-sesion/)
 
 
 ## AutodefensaDigital 
