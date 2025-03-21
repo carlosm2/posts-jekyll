@@ -83,11 +83,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat:
 
-[https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
+[https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
 [*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional:
 
 [https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
+
 [*] Taller Tails en DebianDay:
 
 [https://ranchoelectronico.org/dia-debian-2014/](https://ranchoelectronico.org/dia-debian-2014/)
