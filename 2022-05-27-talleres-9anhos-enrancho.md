@@ -79,7 +79,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] 3era sesión Tails:
 
-[https://ranchoelectronico.org/3era-sesion-tails/](https://ranchoelectronico.org/3era-sesion-tails/)
+[https://web.archive.org/web/20250321013201/https://ranchoelectronico.org/3era-sesion-tails/](https://web.archive.org/web/20250321013201/https://ranchoelectronico.org/3era-sesion-tails/)
 
 [*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat:
 
@@ -256,7 +256,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller autodefensadigital – autocuidadodigital para disidencias de genero:
               
-[https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
+[https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
               
 [*] Taller Seguridad Digital - Hacklab Autónomo parte I: 
 
