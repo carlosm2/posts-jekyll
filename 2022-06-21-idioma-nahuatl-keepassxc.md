@@ -76,4 +76,9 @@ Estan disponibles en:
 
 [https://github.com/carlosm2/lista-nahuatl#pasos-para-habilitar-el-idioma-nahuatl-en-keepassxc-en-sistema-windows](https://github.com/carlosm2/lista-nahuatl#pasos-para-habilitar-el-idioma-nahuatl-en-keepassxc-en-sistema-windows)
 
+## Video
+
+Agregar Nahuatl al generador de contraseñas de KeepassXC
+
+[https://fediverse.tv/w/m1GYXX3q8H7CVZYhPwVXea](https://fediverse.tv/w/m1GYXX3q8H7CVZYhPwVXea)
 
