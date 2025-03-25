@@ -35,7 +35,7 @@ Fueron nueve años que compartí talleres y colaboré organizando eventos en el 
 
 El primer evento publico que hicimos fue un FLISOL, el 27 de Abril del 2013:
 
-[https://ranchoelectronico.org/7/](https://ranchoelectronico.org/7/)
+[https://web.archive.org/web/20250325212737/https://ranchoelectronico.org/7/](https://web.archive.org/web/20250325212737/https://ranchoelectronico.org/7/)
 
 Si ven el cartel aun no teniamos nombre, por eso dice solamente: "En el nuevo Hackerspace de la Ciudad Monstruo"
 
