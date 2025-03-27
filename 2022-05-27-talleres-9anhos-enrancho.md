@@ -63,19 +63,19 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller práctico de Tails: Sesión 1 - Primeros pasos con Tails 
 
-[https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
+[https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
 [*] Taller práctico de Tails: Sesión 2 - Herramientas de Tails 
 
-[https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
+[https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
 [*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia: 
  
-[https://ranchoelectronico.org/taller-practico-de-tails/](https://ranchoelectronico.org/taller-practico-de-tails/)
+[https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
 [*] Colaboremos en la traducción de Tails:
 
-[https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/](https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/)
+[https://web.archive.org/web/20241213044755/https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/](https://web.archive.org/web/20241213044755/https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/)
 
 [*] 3era sesión Tails:
 
