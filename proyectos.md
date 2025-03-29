@@ -11,22 +11,25 @@ permalink: /proyectos/
 ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
 ╨━━┗┛┗┛━━┗┛┗┛━━┻
 
-Coloboro en varios proyectos /iniciativas / colectivas enfocadas en #SoftwareLibre #SeguridadDIgital y #AutocuidadoColectivo
-I collaborate on various projects / initiatives / collectives focused on #FreeSoftware #DIgitalSecurity, and #CollectiveSelfCare
+Colaboro en varios proyectos, iniciativas y colectivas enfocados en #SoftwareLibre, #SeguridadDigital y #AutocuidadoColectivo.
+I collaborate on various projects, initiatives, and collectives focused on #FreeSoftware, #DigitalSecurity, and #CollectiveSelfCare.
 
 ## Github Gitlab
 
-* Gitlab Riseup: [https://0xacab.org/users/carlosm2/projects](https://0xacab.org/users/carlosm2/projects)
+* Gitlab 0xacab: [https://0xacab.org/users/carlosm2/projects](https://0xacab.org/users/carlosm2/projects)
 * Github: [https://github.com/carlosm2](https://github.com/carlosm2)
 * Gitlab: [https://gitlab.com/users/carlosm2/projects](https://gitlab.com/users/carlosm2/projects)
 * Gitlab Alambique: [https://alambique.org/users/carlosm2/projects](https://alambique.org/users/carlosm2/projects)
          
 ## Cooperativa Tierra Común
-Cofundé y colaboro desde hace 7 años:
+
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
 * Open Tech Technology Fund - Rapid Response Partners [https://www.opentech.fund/funds/rapid-response-fund/](https://www.opentech.fund/funds/rapid-response-fund/)
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
+* Knowledge Dialogue: Interview with the Tierra Común cooperative (en ingles): [https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt](https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt)
+* Data Sovereignty and Alternative Development Models (en ingles) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
 * Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
+* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 * Alianzas, notas prensa, otros textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
