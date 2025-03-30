@@ -71,7 +71,7 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
 * Pasos Instalación snowflake: [https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html](https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html)
-* Video peertube: Instalar Tor snowflake proxy en servidor Ubuntu 22.04 [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
+* Peertube Video: Instalar Tor snowflake proxy en servidor Ubuntu 22.04 [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
 
 ## Open Observatory of Network Interference
 
