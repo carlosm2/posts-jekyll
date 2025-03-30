@@ -52,11 +52,11 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
   [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
   [https://hosted.weblate.org/user/carlosm2/]/(https://hosted.weblate.org/user/carlosm2/)
 * Algunos reportes de Tails sobre mi colaboración en outreach, training, testing:
-       [https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/](https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/)
-       [https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/](https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/)
-       [https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/](https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/)
-       [https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/](https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/)
-       [https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/](https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/)
+* [https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/](https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/)
+* [https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/](https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/)
+* [https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/](https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/)
+* [https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/](https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/)
+* [https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/](https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/)
 * Video peertube sobre actualización via clonación: [https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq](https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq)
 * Mas notas sobre mi colaboración en Tails: [https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html](https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html)
 
@@ -66,30 +66,23 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Tor Criptocumbion 2019: [https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/](https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/)
 * Tor Meetup 2018: [https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/](https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/)
 * Evaluation of the Global South Strategy:Algunos reportes de Tails sobre mi colaboración en outreach, training, testing:
-
-https://tails.boum.org/news/report_2019_04/
-
-https://tails.boum.org/news/report_2019_07/
-
-https://tails.boum.org/news/report_2020_06/
-
-https://tails.boum.org/news/report_2018_04/
-
-https://tails.boum.org/news/report_2017_10/  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
+[https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
+* Pasos Instalación snowflake: [https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html](https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html)
+* Video peertube: Instalar Tor snowflake proxy en servidor Ubuntu 22.04 [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
 
+## MayFirst Coop Member
+
+* Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
+* Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)
   
 ## Critical Digital Education for all - Jaaklac
 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
 * [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
-* [Lingua Café Voice: a panorama on language justice in the digital age.](Lingua Café Voice: a panorama on language justice in the digital age.)
+* [Lingua Café Voice: a panorama on language justice in the digital age 2024.](https://open.spotify.com/episode/4hbl04WrF6idb07ZiGx4Ed)
 
-## MayFirst Coop Member
-
-* Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
-* Discourse MayFirst [https://comment.mayfirst.org/](https://comment.mayfirst.org/)
 
 ## Social Coop Member
 
@@ -97,7 +90,7 @@ https://tails.boum.org/news/report_2017_10/  [https://blog.torproject.org/furthe
 
 ## Patio Cooperatives
 
-* Somos parte de patio.coop cooperativas de tecnología de todo el mundo [https://patio.coop/](https://patio.coop/)
+* Somos parte de Patio.coop, una red de cooperativas tecnológicas de todo el mundo. / We are part of Patio.coop, a network of technology cooperatives from around the world [https://patio.coop/](https://patio.coop/)
   
 ## Hackerspace Rancho Electrónico
 
