@@ -40,17 +40,24 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Guardian Project at Tor's State of the Onion 2022:
 [https://youtu.be/A6tq0dtlWYk?feature=shared&t=320](https://youtu.be/A6tq0dtlWYk?feature=shared&t=320)
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
-* Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://privacylx.org/events/2024-05-25-tor-community/](https://privacylx.org/events/2024-05-25-tor-community/)
+* Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/](https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/)
 * Feria de Lenguas Indígenas Digitales 2025 [https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/](https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/)
 
 ## Tails
 
 * Tails: [https://tails.net/](https://tails.net/)
-* Tails Weblate User: [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
+* Tails Weblate User: [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/)
 * Tails Reveal: [https://cacu.tech/tails/](https://cacu.tech/tails/)
 * Localización / Localization:
   [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
   [https://hosted.weblate.org/user/carlosm2/]/(https://hosted.weblate.org/user/carlosm2/)
+* Algunos reportes de Tails sobre mi colaboración en outreach, training, testing:
+       [https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/](https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/)
+       [https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/](https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/)
+       [https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/](https://web.archive.org/web/20240415031215/https://tails.net/news/report_2020_06/)
+       [https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/](https://web.archive.org/web/20250325031433/https://tails.net/news/report_2018_04/)
+       [https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/](https://web.archive.org/web/20250330014821/https://tails.net/news/report_2017_10/)
+* Video peertube sobre actualización via clonación: [https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq](https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq)
 * Mas notas sobre mi colaboración en Tails: [https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html](https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html)
 
 ## The Tor Project
@@ -58,7 +65,17 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Usuario Tor Forum: [https://forum.torproject.org/u/cacu](https://forum.torproject.org/u/cacu)
 * Tor Criptocumbion 2019: [https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/](https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/)
 * Tor Meetup 2018: [https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/](https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/)
-* Evaluation of the Global South Strategy:  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
+* Evaluation of the Global South Strategy:Algunos reportes de Tails sobre mi colaboración en outreach, training, testing:
+
+https://tails.boum.org/news/report_2019_04/
+
+https://tails.boum.org/news/report_2019_07/
+
+https://tails.boum.org/news/report_2020_06/
+
+https://tails.boum.org/news/report_2018_04/
+
+https://tails.boum.org/news/report_2017_10/  [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
 
