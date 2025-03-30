@@ -75,14 +75,7 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 ## MayFirst Coop Member
 
 * Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
-* Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)
-  
-## Critical Digital Education for all - Jaaklac
-
-* [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
-* [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
-* [Lingua Café Voice: a panorama on language justice in the digital age 2024.](https://open.spotify.com/episode/4hbl04WrF6idb07ZiGx4Ed)
-
+* Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)  
 
 ## Social Coop Member
 
@@ -91,6 +84,12 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 ## Patio Cooperatives
 
 * Somos parte de Patio.coop, una red de cooperativas tecnológicas de todo el mundo. / We are part of Patio.coop, a network of technology cooperatives from around the world [https://patio.coop/](https://patio.coop/)
+
+## Critical Digital Education for all - Jaaklac
+
+* [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
+* [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
+* [Lingua Café Voice: a panorama on language justice in the digital age 2024.](https://open.spotify.com/episode/4hbl04WrF6idb07ZiGx4Ed)
   
 ## Hackerspace Rancho Electrónico
 
@@ -120,21 +119,21 @@ I have created and manage two channels dedicated to sharing search profiles for 
 
 ## Localization / Translation projects Free Software and Privacy
 
-* Tails https://translate.tails.boum.org/user/cacukin/ since 2015
-* Tor Project: https://hosted.weblate.org/user/carlosm2/, https://app.transifex.com/user/profile/cacu/
-* Riseup: https://github.com/carlosm2/riseup_help
-* Guardian Project: https://hosted.weblate.org/projects/guardianproject/
-* GlobaLeaks: https://app.transifex.com/otf/globaleaks/dashboard/
-* Bitmask: https://app.transifex.com/otf/bitmask/dashboard/
-* Briar: https://app.transifex.com/otf/briar/languages/
-* Scrambled Exif: https://app.transifex.com/juanitobananas/scrambled-exif/dashboard/
-* OnionShare: https://hosted.weblate.org/projects/onionshare/
-* KeepassXC: https://app.transifex.com/keepassxc/keepassxc/dashboard/
-* OONI: https://app.transifex.com/otf/ooni-explorer/dashboard/
-* K-9 Mail: https://www.transifex.com/k-9/k9mail/dashboard/
-* Security without Borders: https://app.transifex.com/security-without-borders/
-* OpenPGP Keys: https://app.transifex.com/otf/hagrid/dashboard/
-* Wordlist for KeepassXC in nahuatl (indigenous language) https://github.com/carlosm2/lista-nahuatl
+* Tails [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/) since 2015
+* Tor Project: [https://app.transifex.com/user/profile/cacu/](https://app.transifex.com/user/profile/cacu/)
+* Riseup: [https://github.com/carlosm2/riseup_help](https://github.com/carlosm2/riseup_help)
+* Guardian Project: [https://hosted.weblate.org/projects/guardianproject/](https://hosted.weblate.org/projects/guardianproject/)
+* GlobaLeaks: [https://explore.transifex.com/otf/globaleaks/](https://explore.transifex.com/otf/globaleaks/)
+* Bitmask: [https://app.transifex.com/otf/bitmask/dashboard/](https://app.transifex.com/otf/bitmask/dashboard/)
+* Briar: [https://app.transifex.com/otf/briar/languages/](https://app.transifex.com/otf/briar/languages/)
+* Scrambled Exif: [https://app.transifex.com/juanitobananas/scrambled-exif/dashboard/](https://app.transifex.com/juanitobananas/scrambled-exif/dashboard/)
+* OnionShare: [https://hosted.weblate.org/projects/onionshare/](https://hosted.weblate.org/projects/onionshare/)
+* KeepassXC: [https://app.transifex.com/keepassxc/keepassxc/dashboard/](https://app.transifex.com/keepassxc/keepassxc/dashboard/)
+* OONI: [https://app.transifex.com/otf/ooni-explorer/dashboard/](https://app.transifex.com/otf/ooni-explorer/dashboard/)
+* K-9 Mail: [https://www.transifex.com/k-9/k9mail/dashboard/](https://www.transifex.com/k-9/k9mail/dashboard/)
+* Security without Borders: [https://app.transifex.com/security-without-borders/](https://app.transifex.com/security-without-borders/)
+* OpenPGP Keys: [https://app.transifex.com/otf/hagrid/dashboard/](https://app.transifex.com/otf/hagrid/dashboard/)
+* Wordlist for KeepassXC in nahuatl (indigenous language) [https://github.com/carlosm2/lista-nahuatl](https://github.com/carlosm2/lista-nahuatl)
 
 ## Publications
 
@@ -151,4 +150,5 @@ Consultancy, Review - [https://cyber-women.com](https://cyber-women.com/)
 
 * Wikimedia Commons: [https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Cacum2&ilshowall=1](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Cacum2&ilshowall=1)
 * Pixelfed Fediverso: [https://pixelfed.de/cacu](https://pixelfed.de/cacu)
+* Pixelfed Milpamerica: [https://milpamerica.org/cacu](https://milpamerica.org/cacu)
 
