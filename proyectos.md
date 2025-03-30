@@ -30,7 +30,7 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Data Sovereignty and Alternative Development Models (en ingles) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
 * Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
-* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
+* Digital Security for Journalists site: [https://autodefensa.tierracomun.org/](https://autodefensa.tierracomun.org/)
 * Alianzas, notas prensa, otros textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
 
 ## The Guardian Project 
@@ -42,6 +42,7 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
 * Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/](https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/)
 * Feria de Lenguas Indígenas Digitales 2025 [https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/](https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/)
+* Peertube video on likebutter.app: [https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD](https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD)
 
 ## Tails
 
@@ -71,6 +72,14 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
 * Pasos Instalación snowflake: [https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html](https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html)
 * Video peertube: Instalar Tor snowflake proxy en servidor Ubuntu 22.04 [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
+
+## Open Observatory of Network Interference
+
+* Citizen Lab List contributor: [https://github.com/citizenlab/test-lists](https://github.com/citizenlab/test-lists)
+* Localization OONI: [https://app.transifex.com/otf/ooni-explorer/dashboard/](https://app.transifex.com/otf/ooni-explorer/dashboard/)
+* ooniprobe-cli Workshop Debian Day 2022: [https://web.archive.org/web/20250330050434/https://ranchoelectronico.org/debian-day-2022/](https://web.archive.org/web/20250330050434/https://ranchoelectronico.org/debian-day-2022/)
+* I manage ooniprobe-cli on two Raspberry Pis to collect measurements. [https://ooni.org/install/cli](https://ooni.org/install/cli)
+* Peertube video on installing ooniprobe-cli on a raspberrypi 3b+ [https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC](https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC)
 
 ## MayFirst Coop Member
 
