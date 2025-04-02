@@ -115,7 +115,7 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [resistencia_digital_Smartphones.pdf](https://cacu.tech/guias/resistencia_digital_Smartphones.pdf)
 * [Seguridad Digital - Sin Miedo.pdf](Seguridad Digital - Sin Miedo.pdf)
 * [Spanish_safetag.pdf](https://cacu.tech/guias/Spanish_safetag.pdf)
-Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf
+* [Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf](https://cacu.tech/Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf)
 * [tails-leaflet-spanish.pdf](https://cacu.tech/guias/tails-leaflet-spanish.pdf)
 * [violencia-cartilla-una-hoja-firmado.pdf](https://cacu.tech/guias/violencia-cartilla-una-hoja-firmado.pdf)
 * [ViolentometroGL-1-hiperderecho.pdf](https://cacu.tech/guias/ViolentometroGL-1-hiperderecho.pdf)
