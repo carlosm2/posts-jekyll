@@ -91,14 +91,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller Tails en DebianDay:
 
-[https://ranchoelectronico.org/dia-debian-2014/](https://ranchoelectronico.org/dia-debian-2014/)
+[https://web.archive.org/web/20250402232433/https://ranchoelectronico.org/dia-debian-2014/](https://web.archive.org/web/20250402232433/https://ranchoelectronico.org/dia-debian-2014/)
 
 [*] Tails testing 4.x – debian day 2019:
  
-[https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/](https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/)
+[https://web.archive.org/web/20250402232507/https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/](https://web.archive.org/web/20250402232507/https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/)
 
 [*] Introducción a Tails - Flisol Rancho 2018
-[https://ranchoelectronico.org/checa-el-programa-preliminar-del-flisol-2018/](https://ranchoelectronico.org/checa-el-programa-preliminar-del-flisol-2018/)
+
+[https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F](https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F)
 
 [*] Cómo colaborar con Tails - Flisol 2016 HSRE
 [https://flisol.info/FLISOL2016/Mexico/obrera](https://flisol.info/FLISOL2016/Mexico/obrera)
