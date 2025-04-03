@@ -67,7 +67,7 @@ Evento para **Traduccion**, localización de Tails en México:
 
 Evento para Tails **Testing** – debian day 2019:
 
-[https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/]()
+[https://web.archive.org/web/20250402232507/https%3A%2F%2Franchoelectronico.org%2Ftails-testing-4-x-debian-day-2019%2F](https://web.archive.org/web/20250402232507/https%3A%2F%2Franchoelectronico.org%2Ftails-testing-4-x-debian-day-2019%2F)
 
 **Traducción** de la 4.5 para sponsor 1:
 
@@ -79,7 +79,7 @@ Evento para Tails **Testing** – debian day 2019:
 
 El código fuente de esa presentación:
 
-[https://alambique.org/carlosm2/tails](https://alambique.org/carlosm2/tails)
+[https://0xacab.org/carlosm2/tails-reveal](https://0xacab.org/carlosm2/tails-reveal)
 
 La presentación en sitio onion:
 
