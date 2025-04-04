@@ -63,7 +63,7 @@ Algunos **reportes** de Tails sobre mi colaboración en outreach, training, test
 
 Evento para **Traduccion**, localización de Tails en México:
 
-[https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/](https://ranchoelectronico.org/colaboremos-en-la-traduccion-de-tails/)
+[https://web.archive.org/web/20250327022653/https%3A%2F%2Franchoelectronico.org%2Fcolaboremos-en-la-traduccion-de-tails%2F](https://web.archive.org/web/20250327022653/https%3A%2F%2Franchoelectronico.org%2Fcolaboremos-en-la-traduccion-de-tails%2F)
 
 Evento para Tails **Testing** – debian day 2019:
 
