@@ -113,7 +113,7 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [redessociales_perspectivagenero.pdf](https://cacu.tech/guias/redessociales_perspectivagenero.pdf)
 * [Reporte-Gobierno-Espía-Final_r3d.pdf](https://cacu.tech/guias/Reporte-Gobierno-Espía-Final_r3d.pdf)
 * [resistencia_digital_Smartphones.pdf](https://cacu.tech/guias/resistencia_digital_Smartphones.pdf)
-* [SeguridadDigital-Sin Miedo.pdf](Seguridad Digital-SinMiedo.pdf)
+* [SeguridadDigital-SinMiedo.pdf](SeguridadDigital-SinMiedo.pdf)
 * [Spanish_safetag.pdf](https://cacu.tech/guias/Spanish_safetag.pdf)
 * [Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf](https://cacu.tech/Seguridad-Digital-Conceptos-y-Herramientas-Básicas-Mayo-2020.pdf)
 * [tails-leaflet-spanish.pdf](https://cacu.tech/guias/tails-leaflet-spanish.pdf)
