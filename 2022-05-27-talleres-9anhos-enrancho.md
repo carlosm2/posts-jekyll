@@ -110,19 +110,19 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Sesiones GPG – lab de autodefensa digital: Instalación, configuración, primeros pasos:
 
-[https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
+[https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
 
 [*] Sesiones GPG – lab de autodefensa digital: Servidores de llaves, red de confianza:
 
-[https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
+[https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
 
 [*] Sesiones GPG – lab de autodefensa digital: Como funciona el algoritmo RSA:
 
-[https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
+[https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
 
 [*] Correo cifrado usando GPG: Configuración y uso de Thunderbird: 
 
-[https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
+[https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
 
 [*] Correo cifrado usando GPG: Creación y firma de llaves:
 
