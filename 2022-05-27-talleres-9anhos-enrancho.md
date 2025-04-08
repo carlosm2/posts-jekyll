@@ -272,7 +272,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://ranchoelectronico.org/flisolranchero2021/](https://ranchoelectronico.org/flisolranchero2021/)
 
 [*] Talleres de autodefensa digital para personas no binaries
-[https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/](https://ranchoelectronico.org/talleres-de-autodefensa-nobinarixs/)
+[https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
 
 [*] Taller Seguridad Digital en Tejemedios 2013:
 [https://ranchoelectronico.org/tejemedios-262728julio/](https://ranchoelectronico.org/tejemedios-262728julio/)
@@ -315,9 +315,8 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Taller ooniprobe-cli en una raspberrypi:
 [https://ranchoelectronico.org/debian-day-2022/](https://ranchoelectronico.org/debian-day-2022/)
 
-
-
-## texto en proceso, aun no esta terminao
+[*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet
+[https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
 
 
 
