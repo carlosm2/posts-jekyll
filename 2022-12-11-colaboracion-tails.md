@@ -21,11 +21,11 @@ Colaboro desde el 2015
 
 Página donde explica las formas de poder colaborar:
 
-[https://tails.boum.org/contribute/index.es.html](https://tails.boum.org/contribute/index.es.html)
+[https://tails.net/contribute/index.es.html](https://tails.net/contribute/index.es.html)
 
 Página donde explica como contribuir en **localización**:
 
-[https://tails.boum.org/contribute/how/translate/](https://tails.boum.org/contribute/how/translate/)
+[https://tails.net/contribute/how/translate/](https://tails.net/contribute/how/translate/)
 
 En especifico para el equipo de localización a Español:
 
