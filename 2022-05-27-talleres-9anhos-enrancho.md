@@ -102,7 +102,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F](https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F)
 
 [*] Cómo colaborar con Tails - Flisol 2016 HSRE
-[https://flisol.info/FLISOL2016/Mexico/obrera](https://flisol.info/FLISOL2016/Mexico/obrera)
+[https://web.archive.org/web/20250408170404/https://flisol.info/FLISOL2016/Mexico/obrera](https://web.archive.org/web/20250408170404/https://flisol.info/FLISOL2016/Mexico/obrera)
 
 ## Cifrado Correos GPG/PGP
 
@@ -126,23 +126,23 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Correo cifrado usando GPG: Creación y firma de llaves:
 
-[https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
+[https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
 
 [*] Correo cifrado usando GPG: Verificación y firmado de llaves, Cryptoparty
 
-[https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
+[https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/](https://web.archive.org/web/20250408011123/https://ranchoelectronico.org/correo-cifrado-usando-gpg/)
 
 [*] Taller de cifrado de correos con GPG: Primera Sesión:
 
-[https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/)
+[https://web.archive.org/web/20250408170517/https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](√)
 
 [*] Taller de cifrado de correos con GPG: Segunda Sesión:
 
-[https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/)
+[https://web.archive.org/web/20250408170517/https://ranchoelectronico.org/taller-de-cifrado-de-correos-con-gpg/](√)
 
 [*] Autodefensa digital – rsa – mutt – softwarelibre (con ayuda de N):
  
-[https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/](https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/)
+[https://web.archive.org/web/20250408171712/https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/](https://web.archive.org/web/20250408171712/https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/)
 
 
 
