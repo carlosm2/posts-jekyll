@@ -318,6 +318,9 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet
 [https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
 
+[*] Flisol 2021 - Experiencias compartiendo talleres de seguridad digital con Software Libre
+[https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html](https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html)
+
 
 
 
