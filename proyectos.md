@@ -106,11 +106,13 @@ Cofundé y colaboré durante 9 años:
 * Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
-* DW Bobs 2015: “El premio, para hablar de lo que pasa en México”: [https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683](https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683)
+* DW Bobs 2015: “El premio, para hablar de lo que pasa en México”:
+[https://web.archive.org/web/20250410162448/https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683](https://web.archive.org/web/20250410162448/https://www.dw.com/es/bobs-2015-el-premio-para-hablar-de-lo-que-pasa-en-m%C3%A9xico/a-18427683)
 * Podcast Mirando al Sur: El rancho electrónico: [https://soundcloud.com/encajeazul/rancho-electronico](https://soundcloud.com/encajeazul/rancho-electronico)
-* Los hackerspaces pueden ser mas que tecnologia y software libre - Mozfest 2022 [https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS](https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS)
-* Experiences in Sharing Digital Security Workshops in an Autonomous and Open Hackerspace in Mexico - HOPE 2020 Hackers On Planet Earth [https://xiii.hope.net/hope2020/talk/RRLPYT/](https://xiii.hope.net/hope2020/talk/RRLPYT/)
-
+* Los hackerspaces pueden ser mas que tecnologia y software libre - Mozfest 2022
+[https://web.archive.org/web/20250410162923/https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS](https://web.archive.org/web/20250410162923/https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS)
+* Experiences in Sharing Digital Security Workshops in an Autonomous and Open Hackerspace in Mexico - HOPE 2020 Hackers On Planet Earth
+[https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/](https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/)
 ## Hacklab Autónomo
 
 * [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)
