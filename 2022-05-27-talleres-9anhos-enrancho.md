@@ -43,7 +43,7 @@ En ese evento con mi compa chiwy comparti un tallercito de redes sociales libres
 
 El segundo evento fue un Taller de Seguridad Digital que hice con mi colectivo anterior, el **hacklab autónomo** [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)y esta es la liga del taller:
 
-[https://ranchoelectronico.org/tallerseguridadigital/](https://ranchoelectronico.org/tallerseguridadigital/)
+[https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/](https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/)
 
 Por si no topan el espacio de aquellos años, este mero era:
 
