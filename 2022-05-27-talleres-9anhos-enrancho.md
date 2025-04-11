@@ -178,10 +178,13 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
-[*] Autodefensadigital en teléfonos móviles – 2da temporada:
+[*] Autodefensadigital en teléfonos móviles – 2da temporada 26 nov 2019:
 
-[https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/](https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/)
+[https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/](https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/)
 
+[*] Autodefensadigital en teléfonos móviles – 2da temporada 23 dic 2019:
+
+[https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/](https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/)
 
 ## Navegación web mas o menos segura
 
