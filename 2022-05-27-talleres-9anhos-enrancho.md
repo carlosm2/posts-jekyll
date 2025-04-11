@@ -150,13 +150,17 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 ----
 
-[*] Introducción a la autodefensadigital en teléfonos móviles:
+[*] Introducción a la autodefensadigital en teléfonos móviles como parte del Autogestival 2017 / Colaboración Mayfirst Coop:
 
-[https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/](https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/)
+[https://web.archive.org/web/20250411171929/https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/](https://web.archive.org/web/20250411171929/https://ranchoelectronico.org/introduccion-a-la-autodefensadigital-en-telefonos-moviles/)
 
-[*] 8va. AutoDefensaDigital en móviles:
+[*] 8va. AutoDefensaDigital en móviles 22 junio 2020:
 
-[https://ranchoelectronico.org/89-autodefensadigital-en-moviles/](https://ranchoelectronico.org/89-autodefensadigital-en-moviles/)
+[https://web.archive.org/web/20250411174432/https://ranchoelectronico.org/89-autodefensadigital-en-moviles/](https://web.archive.org/web/20250411174432/https://ranchoelectronico.org/89-autodefensadigital-en-moviles/)
+
+[*] 8va. AutoDefensaDigital en móviles 29 junio 2020:
+
+[https://web.archive.org/web/20250411174432/https://ranchoelectronico.org/89-autodefensadigital-en-moviles/](https://web.archive.org/web/20250411174432/https://ranchoelectronico.org/89-autodefensadigital-en-moviles/)
 
 [*] 9na sesión AutoDefensaDigital – teléfonos móviles:
 
@@ -164,15 +168,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 20 Nov 2019
 
-[https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
+[https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
 [*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 27 Nov 2019
 
-[https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
+[https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
 [*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 4 de Diciembre 2019
 
-[https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
+[https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
 [*] Autodefensadigital en teléfonos móviles – 2da temporada:
 
