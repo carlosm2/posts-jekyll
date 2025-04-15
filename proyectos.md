@@ -84,6 +84,7 @@ I collaborate on various projects, initiatives, and collectives focused on #Free
 ## MayFirst Coop Member
 
 * Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
+* Board Member: [https://mayfirst.coop/en/who/](https://mayfirst.coop/en/who/)
 * Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)  
 
 ## Social Coop Member
