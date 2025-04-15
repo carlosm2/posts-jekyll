@@ -213,7 +213,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] AutodefensaDigital – onions – Tor (con el compa gus):
 
-[https://ranchoelectronico.org/autodefensadigital-onions-tor/](https://ranchoelectronico.org/autodefensadigital-onions-tor/)
+[https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/](https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/)
 
 [*] AutodefensaDigital 5ta sesión en linea, Tor, VPN:
 
