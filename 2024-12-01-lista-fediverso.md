@@ -5,6 +5,8 @@ date:   2024-12-o1 12:32:00
 categories: fediverso freesoftware hackerspace softwarelibre
 ---
 
+Una recopilación de cuentas de proyectos de Software Libre en el Fediverso
+An index of Free and Open Source Software projects on the Fediverse
 
 ## Free Sofware Distros
 
