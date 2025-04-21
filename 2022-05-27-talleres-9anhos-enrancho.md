@@ -202,7 +202,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] AutodefensaDigital – algunas alternativas a google para la acción
 
-[https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/](https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/)
+[https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/](https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/)
 
 [*] Navegación mas segura con Software Libre
 [https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
