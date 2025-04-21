@@ -192,12 +192,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] AutodefensaDigital: Navegación web un poco más segura:
 
-[https://ranchoelectronico.org/autodefensadigital-navegacion-web/](https://ranchoelectronico.org/autodefensadigital-navegacion-web/)
+[https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/](https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/)
 
 
 [*] AutodefensaDigital: Navegación web un poco más segura II
                     
-[https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/](https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/)
+[https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/](https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/)
           
 
 [*] AutodefensaDigital – algunas alternativas a google para la acción
