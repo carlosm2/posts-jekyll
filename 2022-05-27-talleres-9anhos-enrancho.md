@@ -217,15 +217,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] AutodefensaDigital 5ta sesión en linea, Tor, VPN:
 
-[https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+[https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
 
 [*] AutodefensaDigital 6ta sesión en linea, Tor, VPN, jitsi:
 
-[https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+[https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
 
 [*] Proxy Tor, modo fácil y difícil (con el compa emilio):
  
-[https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/](https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/)
+[https://web.archive.org/web/20250422171412/https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/](https://web.archive.org/web/20250422171412/https://ranchoelectronico.org/proxy-tor-modo-facil-y-dificil/)
 
 [*] Tor meetup ciudad de mexico:
 
