@@ -268,7 +268,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
               
 [*] Taller Seguridad Digital - Hacklab Autónomo parte I: 
 
-[https://ranchoelectronico.org/tallerseguridadigital/](https://ranchoelectronico.org/tallerseguridadigital/)
+[https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/](https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/)
               
 [*] Taller Seguridad Digital - Hacklab Autónomo parte II:
 
