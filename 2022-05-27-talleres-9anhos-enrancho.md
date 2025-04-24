@@ -229,11 +229,11 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Tor meetup ciudad de mexico:
 
-[https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/](https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/)
+[https://web.archive.org/web/20250424035518/https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/](https://web.archive.org/web/20250424035518/https://ranchoelectronico.org/tor-meetup-ciudad-de-mexico/)
 
 [*] CryptoCumbión Tor (Nomas ayudé en la gestión y el flyer)
 
-[https://ranchoelectronico.org/criptocumbion-en-el-rancho/](https://ranchoelectronico.org/criptocumbion-en-el-rancho/)
+[https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/](https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/)
 
 
 
@@ -243,11 +243,11 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller KeepassXC en Flisol 2020:
 
-[https://ranchoelectronico.org/flisol-ranchere-acatlan-2020/](https://ranchoelectronico.org/flisol-ranchere-acatlan-2020/)
+[https://web.archive.org/web/20250424040017/https://ranchoelectronico.org/flisol-ranchere-acatlan-2020/](https://web.archive.org/web/20250424040017/https://ranchoelectronico.org/flisol-ranchere-acatlan-2020/)
 
 [*] AutodefensaDigital – Contraseñas y Keepassxc (en linea):
           
-[https://ranchoelectronico.org/autodefensadigital-contrasenas-y-keepassxc-en-linea/](https://ranchoelectronico.org/autodefensadigital-contrasenas-y-keepassxc-en-linea/)
+[https://web.archive.org/web/20250424040324/https://ranchoelectronico.org/autodefensadigital-contrasenas-y-keepassxc-en-linea/](https://web.archive.org/web/20250424040324/https://ranchoelectronico.org/autodefensadigital-contrasenas-y-keepassxc-en-linea/)
 
 [*] Lab de autodefensadigital – contraseñas – KeePassXC:
 
