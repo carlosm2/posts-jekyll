@@ -272,17 +272,17 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
               
 [*] Taller Seguridad Digital - Hacklab Autónomo parte II:
 
-[https://ranchoelectronico.org/seguridad-digital-taller2/](https://ranchoelectronico.org/seguridad-digital-taller2/)
+[https://web.archive.org/web/20250425172859/https://ranchoelectronico.org/seguridad-digital-taller2/](https://web.archive.org/web/20250425172859/https://ranchoelectronico.org/seguridad-digital-taller2/)
 
 [*] Experiencias compartiendo talleres de seguridad digital con Software Libre - FLISOL 2021:
 
-[https://ranchoelectronico.org/flisolranchero2021/](https://ranchoelectronico.org/flisolranchero2021/)
+[https://web.archive.org/web/20250425173037/https://ranchoelectronico.org/flisolranchero2021/](https://web.archive.org/web/20250425173037/https://ranchoelectronico.org/flisolranchero2021/)
 
 [*] Talleres de autodefensa digital para personas no binaries
 [https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
 
 [*] Taller Seguridad Digital en Tejemedios 2013:
-[https://ranchoelectronico.org/tejemedios-262728julio/](https://ranchoelectronico.org/tejemedios-262728julio/)
+[https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/](https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/)
 
 ## Otros talleres - surtido rico
 
