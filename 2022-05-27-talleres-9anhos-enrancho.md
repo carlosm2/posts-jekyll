@@ -204,8 +204,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/](https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/)
 
-[*] Navegación mas segura con Software Libre
-[https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 19 mayo 2020
+[https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F](https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F)
+
+
+[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 26 mayo 2020
+[https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F](https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F)
 
 ## Tor y VPN
 
@@ -251,7 +255,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Lab de autodefensadigital – contraseñas – KeePassXC:
 
-[https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/](https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/)
+[https://web.archive.org/web/20250428212020/https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/](https://web.archive.org/web/20250428212020/https://ranchoelectronico.org/lab-de-autodefensa-contrasenas-keepassxc/)
 
 [*] Taller KeespassXC segunda parte:
 
@@ -290,7 +294,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Talleres libres: internet:
 
-[https://ranchoelectronico.org/talleres-libres-internet/](https://ranchoelectronico.org/talleres-libres-internet/)
+[https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/](https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/)
 
 [*] Taller introductorio a joomla:
 
