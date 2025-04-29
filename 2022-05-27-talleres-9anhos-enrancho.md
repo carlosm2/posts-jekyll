@@ -298,7 +298,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] Taller introductorio a joomla:
 
-[https://ranchoelectronico.org/taller-introductorio-a-joomla/](https://ranchoelectronico.org/taller-introductorio-a-joomla/)
+[https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F](https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F)
 
 [*] Presentaciones con revealjs:
 
