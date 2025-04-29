@@ -300,13 +300,16 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F](https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F)
 
-[*] Presentaciones con revealjs:
+[*] Presentaciones con revealjs 2018:
 
-[https://ranchoelectronico.org/presentaciones-con-revealjs/](https://ranchoelectronico.org/presentaciones-con-revealjs/)
+[https://web.archive.org/web/20240706025451/https://ranchoelectronico.org/presentaciones-con-revealjs/](https://web.archive.org/web/20240706025451/https://ranchoelectronico.org/presentaciones-con-revealjs/)
+
+[*] Taller de revealjs 2017:
+[https://web.archive.org/web/20250429164437/https%3A%2F%2Franchoelectronico.org%2Ftaller-de-reveal-js%2F](https://web.archive.org/web/20250429164437/https%3A%2F%2Franchoelectronico.org%2Ftaller-de-reveal-js%2F)
 
 [*] Descubramos juntxs gitlab:
 
-[https://ranchoelectronico.org/descubramos-juntxs-gitlab/](https://ranchoelectronico.org/descubramos-juntxs-gitlab/)
+[https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/](https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/)
 
 [*] WordPress
 [https://ranchoelectronico.org/trabajas-con-wordpress/](https://ranchoelectronico.org/trabajas-con-wordpress/)
