@@ -312,13 +312,13 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/](https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/)
 
 [*] WordPress
-[https://ranchoelectronico.org/trabajas-con-wordpress/](https://ranchoelectronico.org/trabajas-con-wordpress/)
+[https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/](https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/)
 
 [*] Laboratorio de Wordpress Básico
-[https://ranchoelectronico.org/laboratorio-de-wordpress-basico/](https://ranchoelectronico.org/laboratorio-de-wordpress-basico/)
+[https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/](https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/)
 
 [*] Introdución al Fediverso y redes sociales libres:
-[https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
+[https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
 
 [*] [Tecnologías libres] Jornada de Redes Sociales Libres
 [https://ranchoelectronico.org/tecnologias-libres1/](https://ranchoelectronico.org/tecnologias-libres1/)
