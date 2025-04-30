@@ -240,7 +240,6 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/](https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/)
 
 
-
 ## Contraseñas
 
 ---
@@ -305,37 +304,38 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://web.archive.org/web/20240706025451/https://ranchoelectronico.org/presentaciones-con-revealjs/](https://web.archive.org/web/20240706025451/https://ranchoelectronico.org/presentaciones-con-revealjs/)
 
 [*] Taller de revealjs 2017:
+
 [https://web.archive.org/web/20250429164437/https%3A%2F%2Franchoelectronico.org%2Ftaller-de-reveal-js%2F](https://web.archive.org/web/20250429164437/https%3A%2F%2Franchoelectronico.org%2Ftaller-de-reveal-js%2F)
 
 [*] Descubramos juntxs gitlab:
 
 [https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/](https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/)
 
-[*] WordPress
+[*] WordPress Taller:
+
 [https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/](https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/)
 
-[*] Laboratorio de Wordpress Básico
+[*] Laboratorio de Wordpress Básico:
+
 [https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/](https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/)
 
 [*] Introdución al Fediverso y redes sociales libres:
+
 [https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
 
-[*] [Tecnologías libres] Jornada de Redes Sociales Libres
-[https://ranchoelectronico.org/tecnologias-libres1/](https://ranchoelectronico.org/tecnologias-libres1/)
+[*] [Tecnologías libres] Jornada de Redes Sociales Libres:
 
-[*] Juguemos Compa (sinmiedo.co)
-[https://ranchoelectronico.org/juguemos-compa/](https://ranchoelectronico.org/juguemos-compa/)
+[https://web.archive.org/web/20250430043315/https%3A%2F%2Franchoelectronico.org%2Ftecnologias-libres1%2F](https://web.archive.org/web/20250430043315/https%3A%2F%2Franchoelectronico.org%2Ftecnologias-libres1%2F)
 
 [*] Taller ooniprobe-cli en una raspberrypi:
-[https://ranchoelectronico.org/debian-day-2022/](https://ranchoelectronico.org/debian-day-2022/)
+
+[https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F](https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F)
 
 [*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet
 [https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
 
 [*] Flisol 2021 - Experiencias compartiendo talleres de seguridad digital con Software Libre
 [https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html](https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html)
-
-
 
 
 
