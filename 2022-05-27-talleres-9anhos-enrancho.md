@@ -319,6 +319,22 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/](https://web.archive.org/web/20250429222256/https://ranchoelectronico.org/laboratorio-de-wordpress-basico/)
 
+[*] Sesiones Web Intermedio - Instalación y configuración de entorno Linux Apache MySQL Php:
+
+[https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/](https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/)
+
+[*] Sesiones Web Intermedio - Sesión de trabajo WordPress – Intermedio:
+
+[https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/](https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/)
+
+[*] Sesiones Web Intermedio - Introducción y muestra de diversos CRM:
+
+[https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/](https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/)
+
+[*] Sesiones Web Intermedio -Sesión de trabajo Joomla – Intermedio:
+
+[https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/](https://web.archive.org/web/20250430200057/https://ranchoelectronico.org/sesiones-web-intermedio-septiembre/)
+
 [*] Introdución al Fediverso y redes sociales libres:
 
 [https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/](https://web.archive.org/web/20250408215521/https://ranchoelectronico.org/intro-a-las-redes-sociales-federadas/)
