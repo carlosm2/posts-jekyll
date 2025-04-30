@@ -287,6 +287,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Taller Seguridad Digital en Tejemedios 2013:
 [https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/](https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/)
 
+[*] Jornada de  Seguridad Digital: Criptopunks:
+
+[https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/](https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/)
+
+[*] Introducción al software libre - Instituto de Ecologia UNAM:
+
+[https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/](https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/)
+
+
 ## Otros talleres - surtido rico
 
 ---
