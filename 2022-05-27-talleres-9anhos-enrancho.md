@@ -61,15 +61,15 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 ----
 
 
-[*] Taller práctico de Tails: Sesión 1 - Primeros pasos con Tails 
+[*] Taller práctico de Tails: Sesión 1 - Primeros pasos con Tails - 4 Julio 2016:
 
 [https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
-[*] Taller práctico de Tails: Sesión 2 - Herramientas de Tails 
+[*] Taller práctico de Tails: Sesión 2 - Herramientas de Tails - 11 julio 2016:
 
 [https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
-[*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia: 
+[*] Taller práctico de Tails: Sesión 3 - Configuración de persistencia - 18 julio 2016: 
  
 [https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/](https://web.archive.org/web/20240724154123/https://ranchoelectronico.org/taller-practico-de-tails/)
 
@@ -97,11 +97,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
  
 [https://web.archive.org/web/20250402232507/https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/](https://web.archive.org/web/20250402232507/https://ranchoelectronico.org/tails-testing-4-x-debian-day-2019/)
 
-[*] Introducción a Tails - Flisol Rancho 2018
+[*] Introducción a Tails - Flisol Rancho 2018:
 
 [https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F](https://web.archive.org/web/20250402235415/https%3A%2F%2Franchoelectronico.org%2Fcheca-el-programa-preliminar-del-flisol-2018%2F)
 
-[*] Cómo colaborar con Tails - Flisol 2016 HSRE
+[*] Cómo colaborar con Tails - Flisol 2016 HSRE:
+
 [https://web.archive.org/web/20250408170404/https://flisol.info/FLISOL2016/Mexico/obrera](https://web.archive.org/web/20250408170404/https://flisol.info/FLISOL2016/Mexico/obrera)
 
 ## Cifrado Correos GPG/PGP
