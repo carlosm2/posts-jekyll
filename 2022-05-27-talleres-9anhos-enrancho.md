@@ -240,7 +240,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [*] CryptoCumbión Tor (Nomas ayudé en la gestión y el flyer)
 
-[https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/](https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/criptocumbion-en-el-rancho/)
+[https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/cumbion-en-el-rancho/](https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/cumbion-en-el-rancho/)
 
 
 ## Contraseñas
@@ -290,9 +290,13 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Taller Seguridad Digital en Tejemedios 2013:
 [https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/](https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/)
 
-[*] Jornada de  Seguridad Digital: Criptopunks:
+[*] Jornada de  Seguridad Digital: punks:
 
-[https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/](https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/)
+[https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-punks/](https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/)
+
+[*] Criptofiesta / Cryptoparty 2016:
+
+[https://web.archive.org/web/20250506172242/https://ranchoelectronico.org/cryptofiesta/](https://web.archive.org/web/20250506172242/https://ranchoelectronico.org/cryptofiesta/)
 
 [*] Introducción al software libre - Instituto de Ecologia UNAM:
 
