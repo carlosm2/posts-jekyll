@@ -201,15 +201,17 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/](https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/)
           
 
-[*] AutodefensaDigital – algunas alternativas a google para la acción
+[*] AutodefensaDigital – algunas alternativas a google para la acción:
 
 [https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/](https://web.archive.org/web/20250421211938/https://ranchoelectronico.org/autodefensadigital-algunas-alternativas-a-google/)
 
-[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 19 mayo 2020
+[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 19 mayo 2020:
+
 [https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F](https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F)
 
 
-[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 26 mayo 2020
+[*] Navegación mas segura con Software Libre - AutodefensaDigital 5ta y 6ta sesión en linea - 26 mayo 2020:
+
 [https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F](https://web.archive.org/web/20250422170635/https%3A%2F%2Franchoelectronico.org%2Fautodefensadigital-5ta-y-6ta-sesion-en-linea%2F)
 
 ## Tor y VPN
@@ -265,7 +267,6 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 ## AutodefensaDigital 
 ---
 
-
 [*] Taller autodefensadigital – autocuidadodigital para disidencias de genero:
               
 [https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
@@ -282,7 +283,8 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250425173037/https://ranchoelectronico.org/flisolranchero2021/](https://web.archive.org/web/20250425173037/https://ranchoelectronico.org/flisolranchero2021/)
 
-[*] Talleres de autodefensa digital para personas no binaries
+[*] Talleres de autodefensa digital para personas no binaries:
+
 [https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250408212203/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
 
 [*] Taller Seguridad Digital en Tejemedios 2013:
@@ -357,10 +359,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F](https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F)
 
-[*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet
+[*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet:
+
 [https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
 
-[*] Flisol 2021 - Experiencias compartiendo talleres de seguridad digital con Software Libre
+[*] Flisol 2021 - Experiencias compartiendo talleres de seguridad digital con Software Libre:
+
 [https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html](https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html)
 
 
