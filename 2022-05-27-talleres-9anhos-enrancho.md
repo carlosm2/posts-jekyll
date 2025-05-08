@@ -187,11 +187,20 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/](https://web.archive.org/web/20250411181614/https://ranchoelectronico.org/autodefensadigital-en-telefonos-2da-temporada/)
 
+
 ## Navegación web mas o menos segura
 
 ----
 
-[*] AutodefensaDigital: Navegación web un poco más segura:
+[*] Navegación mas o menos segura, Enero 30, 2017:
+
+[https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/](https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/)
+
+[*] Navegación y comunicación mas o menos segura, Febrero 13, 2017:
+
+[https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/](https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/)
+
+[*] AutodefensaDigital 3a: Navegación web un poco más segura:
 
 [https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/](https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/)
 
@@ -267,6 +276,10 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 ## AutodefensaDigital 
 ---
 
+[*] Introducción a la seguridad digital, Enero 16, 2017:
+
+[https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
+
 [*] Taller autodefensadigital – autocuidadodigital para disidencias de genero:
               
 [https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
@@ -298,14 +311,18 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250506172242/https://ranchoelectronico.org/cryptofiesta/](https://web.archive.org/web/20250506172242/https://ranchoelectronico.org/cryptofiesta/)
 
-[*] Introducción al software libre - Instituto de Ecologia UNAM:
-
-[https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/](https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/)
-
 
 ## Otros talleres - surtido rico
 
 ---
+
+[*] Introducción al software libre - Instituto de Ecologia UNAM:
+
+[https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/](https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/)
+
+[*]  Cifrado de dispositivos de almacenamiento, Enero 30, 2017:
+
+[https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
 
 [*] Talleres libres: internet:
 
