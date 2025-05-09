@@ -117,6 +117,10 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
 
+[*]  sesiones de autodefensa digital 2da - cifrado correos – segunda temporada lunes 6 marzo 2017: 
+
+[https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/](https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/)
+
 [*] Sesiones GPG – lab de autodefensa digital: Como funciona el algoritmo RSA:
 
 [https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/](https://web.archive.org/web/20250408010525/https://ranchoelectronico.org/sesiones-gpg-lab-de-autodefensa-digital/)
@@ -200,6 +204,10 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/](https://web.archive.org/web/20250507134754/https://ranchoelectronico.org/sesiones-de-autodefensa-digital/)
 
+[*]  sesiones de autodefensa digital 2da- navegacion mas segura – segunda temporada 27 febrero 2017:
+
+[https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/](https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/)
+
 [*] AutodefensaDigital 3a: Navegación web un poco más segura:
 
 [https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/](https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/)
@@ -251,6 +259,10 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/cumbion-en-el-rancho/](https://web.archive.org/web/20250424035433/https://ranchoelectronico.org/cumbion-en-el-rancho/)
 
+[*] sesiones de autodefensa digital 2da - navegacion mas segura – 13 marzo 2017:
+
+[https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/](https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/)
+
 
 ## Contraseñas
 
@@ -279,6 +291,10 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Introducción a la seguridad digital, Enero 16, 2017:
 
 [https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/](https://web.archive.org/web/20250321012715/https://ranchoelectronico.org/taller-autodefensadigital-autocuidadodigital/)
+
+[*] sesiones de autodefensa digital 2da temporada – 27 marzo 2017:
+
+[https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/](https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/)
 
 [*] Taller autodefensadigital – autocuidadodigital para disidencias de genero:
               
