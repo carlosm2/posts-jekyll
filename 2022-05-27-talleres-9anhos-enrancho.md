@@ -235,13 +235,13 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 ----
 
-[*] AutodefensaDigital – onions – Tor (con el compa gus):
-
-[https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/](https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/)
-
 [*] AutodefensaDigital 5ta sesión en linea, Tor, VPN:
 
 [https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/](https://web.archive.org/web/20250422170635/https://ranchoelectronico.org/autodefensadigital-5ta-y-6ta-sesion-en-linea/)
+
+[*] AutodefensaDigital – onions – Tor (con el compa gus):
+
+[https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/](https://web.archive.org/web/20250415020523/https://ranchoelectronico.org/autodefensadigital-onions-tor/)
 
 [*] AutodefensaDigital 6ta sesión en linea, Tor, VPN, jitsi:
 
@@ -319,7 +319,7 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 [*] Taller Seguridad Digital en Tejemedios 2013:
 [https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/](https://web.archive.org/web/20250425173324/https://ranchoelectronico.org/tejemedios-262728julio/)
 
-[*] Jornada de  Seguridad Digital: punks:
+[*] Jornada de  Seguridad Digital: cryptopunks:
 
 [https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-punks/](https://web.archive.org/web/20250430173811/https://ranchoelectronico.org/seguridad-digital-criptopunks/)
 
@@ -396,20 +396,11 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F](https://web.archive.org/web/20250330050434/https%3A%2F%2Franchoelectronico.org%2Fdebian-day-2022%2F)
 
-[*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet:
-
-[https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
 
 [*] Flisol 2021 - Experiencias compartiendo talleres de seguridad digital con Software Libre:
 
 [https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html](https://web.archive.org/web/20250408220352/https://mutabit.com/repos.fossil/minipedia/uv/wikis/Flisol/flisol-rancho-mx.html)
 
+[*] Presentación: Guía para seguir comunicándonos ante bloqueos de internet - el ultimo evento que ayude a hacer en HSRE, es decir hice los carteles, coordiné la actividad, publique en twitter, mastodon, telegram, barrí y trapie el espacio, me aseguré de cerrar las puertas, recoger el espacio, atender a las invitadas:
 
-
- 
- 
-
-
-
-
-
+[https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/](https://web.archive.org/web/20250408213727/https://ranchoelectronico.org/presentacion-guia-para-seguir-comunicandonos-ante-bloqueos-de-internet/)
