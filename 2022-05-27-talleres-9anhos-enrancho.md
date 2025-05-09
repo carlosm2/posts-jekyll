@@ -208,12 +208,12 @@ Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi q
 
 [https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/](https://web.archive.org/web/20250508045615/https://ranchoelectronico.org/sesiones-de-autodefensadigital-2temporada-2017/)
 
-[*] AutodefensaDigital 3a: Navegación web un poco más segura:
+[*] AutodefensaDigital 3a: Navegación web un poco más segura - 21 abril 2020:
 
 [https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/](https://web.archive.org/web/20250421173631/https://ranchoelectronico.org/autodefensadigital-navegacion-web/)
 
 
-[*] AutodefensaDigital: Navegación web un poco más segura II
+[*] AutodefensaDigital: Navegación web un poco más segura II - 5 mayo 2020:
                     
 [https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/](https://web.archive.org/web/20250421182608/https://ranchoelectronico.org/autodefensadigital-navegacion-web-un-poco-mas-segura-ii/)
           
