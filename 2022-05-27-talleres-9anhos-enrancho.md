@@ -31,7 +31,7 @@ categories: softwarelibre mexico ranchoelectronico hackerspace
 .
 
 
-Fueron nueve años que compartí talleres y colaboré organizando eventos en el Hackerspace Rancho Electrónico junto a su comunidad. Conociendo y aprendiendo de banda chida. Encuentros, desencuentros, amistades, afinidades, problemas, tirar la basura, fiestas, desacuerdos, conflictos, falta de comunicación, etc. Tengo pendiente escribir mas sobre este proceso colectivo.
+Recuento de los talleres que comparti en el Hackerspace Rancho Electrónico, desde su [fundación](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html) hasta cuando acabo el contrato de renta en noviembre 2022.
 
 El primer evento publico que hicimos fue un FLISOL, el 27 de Abril del 2013:
 
@@ -50,10 +50,6 @@ Por si no topan el espacio de aquellos años, este mero era:
 [https://cacu.tech/img/DSC_0128.jpg](https://cacu.tech/img/DSC_0128.jpg)
 [https://cacu.tech/img/espacio-comun.jpg](https://cacu.tech/img/espacio_comun.jpg)
 [https://cacu.tech/img/20130817.jpg](https://cacu.tech/img/20130817.jpg)
-
-Ya después fueron varios pequeños intentos por aprender en colectivo, socializar lo poco que iba aprendiendo y que compas que estan en los mismos caminos presentaran sus proyectos enfocados en la Seguridad Digital, Cuidado Colectivo, Autocuidado.
-
-Para fines chambisticos tuve que hacer un recopilatorio de estos talleres, asi que mas o menos ahi van por temas:
 
 
 ## Tails
