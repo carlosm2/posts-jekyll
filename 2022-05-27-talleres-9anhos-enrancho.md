@@ -51,6 +51,7 @@ Por si no topan el espacio de aquellos años, este mero era:
 [https://cacu.tech/img/espacio-comun.jpg](https://cacu.tech/img/espacio_comun.jpg)
 [https://cacu.tech/img/20130817.jpg](https://cacu.tech/img/20130817.jpg)
 
+va entonces un recuento de talleres donde fui el tallerista u organizador principal:
 
 ## Tails
 
