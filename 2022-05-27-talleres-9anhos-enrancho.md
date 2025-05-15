@@ -329,6 +329,10 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 ---
 
+[*] Taller de apoyo en traducción de riseup.net:
+
+[https://ranchoelectronico.org/apoyo-mutuo-laboratorio-de-autodefensa-digital/](https://ranchoelectronico.org/apoyo-mutuo-laboratorio-de-autodefensa-digital/)
+
 [*] Introducción al software libre - Instituto de Ecologia UNAM:
 
 [https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/](https://web.archive.org/web/20250430211225/https://ranchoelectronico.org/jornada-inst-eco-unam-130913/)
