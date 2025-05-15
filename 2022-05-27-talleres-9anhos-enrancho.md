@@ -146,6 +146,10 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
  
 [https://web.archive.org/web/20250408171712/https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/](https://web.archive.org/web/20250408171712/https://ranchoelectronico.org/autodefensa-digital-rsa-mutt-softwarelibre/)
 
+[*]  aprendamos juntxs a cifrar correos con GPG:
+
+[https://web.archive.org/web/20250515160319/https%3A%2F%2Franchoelectronico.org%2Faprendamos-juntas-a-cifrar-correos-con-gpg%2F](https://web.archive.org/web/20250515160319/https%3A%2F%2Franchoelectronico.org%2Faprendamos-juntas-a-cifrar-correos-con-gpg%2F)
+
 
 
 ## AutodefensaDigital con teléfonos móviles
