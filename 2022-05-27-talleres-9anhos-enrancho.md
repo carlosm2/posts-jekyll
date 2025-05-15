@@ -357,6 +357,10 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 [https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/](https://web.archive.org/web/20250429220120/https://ranchoelectronico.org/descubramos-juntxs-gitlab/)
 
+[*]   Charla sobre FLOK – Buen Conocer 2016: Gestion, Flyer, Redes sociales, limpieza del espacio:
+
+[https://web.archive.org/web/20250515035555/https://ranchoelectronico.org/charla-sobre-flok-buen-conocer/](https://web.archive.org/web/20250515035555/https://ranchoelectronico.org/charla-sobre-flok-buen-conocer/)
+
 [*] WordPress Taller:
 
 [https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/](https://web.archive.org/web/20250429220737/https://ranchoelectronico.org/trabajas-con-wordpress/)
