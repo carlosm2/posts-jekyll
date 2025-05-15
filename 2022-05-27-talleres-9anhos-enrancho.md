@@ -345,6 +345,10 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 [https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/](https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/)
 
+[*] Nochechita ranchera - software libre en una cooperativa:
+
+[https://web.archive.org/web/20250515154651/https://ranchoelectronico.org/nochecita/](https://web.archive.org/web/20250515154651/https://ranchoelectronico.org/nochecita/)
+
 [*] Taller introductorio a joomla:
 
 [https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F](https://web.archive.org/web/20250429162828/https%3A%2F%2Franchoelectronico.org%2Ftaller-introductorio-a-joomla%2F)
