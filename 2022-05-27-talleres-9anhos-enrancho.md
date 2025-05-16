@@ -78,11 +78,11 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 [https://web.archive.org/web/20250321013201/https://ranchoelectronico.org/3era-sesion-tails/](https://web.archive.org/web/20250321013201/https://ranchoelectronico.org/3era-sesion-tails/)
 
-[*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat: 14 julio 2020
+[*] Taller Tails de nuevo, pero ahora en linea: Que es Tails, Onionshare, Mat: 14 julio 2020:
 
 [https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
-[*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional: 21 julio 2020
+[*] Taller Tails de nuevo, pero ahora en linea: Persistencia, Software Adicional: 21 julio 2020:
 
 [https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/](https://web.archive.org/web/20250321021314/https://ranchoelectronico.org/taller-tails-de-nuevo-pero-ahora-en-linea/)
 
@@ -172,15 +172,15 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 [https://web.archive.org/web/20250321013224/https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/](https://web.archive.org/web/20250321013224/https://ranchoelectronico.org/9na-sesion-autodefensadigital-telefonos-moviles/)
 
-[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 20 Nov 2019
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 20 Nov 2019:
 
 [https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
-[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 27 Nov 2019
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 27 Nov 2019:
 
 [https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
-[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 4 de Diciembre 2019
+[*] Intro a la autodefensadigital en teléfonos - 3era temporada: Miércoles 4 de Diciembre 2019:
 
 [https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/](https://web.archive.org/web/20250411175556/https://ranchoelectronico.org/intro-a-la-autodefensadigital-en-telefonos-3era-temporada/)
 
