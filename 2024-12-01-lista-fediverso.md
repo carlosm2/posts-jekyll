@@ -11,6 +11,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 ## Free Sofware Distros
 
 * Debian https://framapiaf.org/@debian
+* Mobian https://fosstodon.org/@mobian
 * Qubes OS https://mastodon.social/@QubesOS
 * Canonical Ubuntu https://ubuntu.social/@ubuntu
 * Ubuntu Studio https://mastodon.art/@ubuntustudio
@@ -110,6 +111,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Free Software Projects
 
+* F-Droid https://floss.social/@fdroidorg
+* Codeberg https://social.anoxinon.de/@Codeberg
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
 * Tella - Document & Protect https://infosec.exchange/@tella
@@ -143,6 +146,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Librecast https://chaos.social/@librecast
 * KDE https://floss.social/@kde
 * PINE64 EU https://fosstodon.org/@pine64eu
+* UBports https://mastodon.social/@ubports
+* 
 
 
 
