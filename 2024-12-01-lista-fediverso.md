@@ -140,6 +140,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Inkscape https://mastodon.art/@inkscape
 * Libre Graphics Meeting https://post.lurk.org/@lgm
 * The Open Source Hardware Association (OSHWA) https://mastodon.social/@oshwassociation
+* Librecast https://chaos.social/@librecast
+* KDE https://floss.social/@kde
+* PINE64 EU https://fosstodon.org/@pine64eu
 
 
 
