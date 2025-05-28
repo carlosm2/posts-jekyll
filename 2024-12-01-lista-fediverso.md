@@ -111,7 +111,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Free Software Projects
 
+* Guardian Project: https://social.librem.one/@guardianproject 
 * F-Droid https://floss.social/@fdroidorg
+* The Tor Project: https://mastodon.social/@torproject
 * Codeberg https://social.anoxinon.de/@Codeberg
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
