@@ -67,7 +67,6 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Cooperatives
 
-
 * Tierra Comun coop https://social.coop/@tierra_comun
 * May First Movement Technology https://social.coop/@mayfirst
 * coopnews https://social.coop/@coopnews
@@ -108,6 +107,10 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Autonomic Co-op https://sunbeam.city/@autonomic
 * Cambá https://mastodon.online/@cambacoop
 * Nubo Coop https://hostux.social/@nubo_coop
+* Ateneu CoopCamp https://mastodon.social/@ateneucoopcamp
+* Xarxa Ateneus Cooperatius XAC https://mastodon.social/@AteneusCoopCat
+* La Manufacture coopérative https://mastodon.social/@manucoop
+* Biocoop Les 7 Épis https://mastodon.social/@BiocoopLes7Epis
 
 ## Free Software Projects
 
@@ -118,7 +121,6 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
 * Tella - Document & Protect https://infosec.exchange/@tella
-* The Tor Project https://mastodon.social/@torproject
 * Rocket.Chat https://fosstodon.org/@RocketChat
 * Libera Chat https://fosstodon.org/@liberachat
 * Zulip https://fosstodon.org/@zulip
@@ -149,6 +151,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * KDE https://floss.social/@kde
 * PINE64 EU https://fosstodon.org/@pine64eu
 * UBports https://mastodon.social/@ubports
+* LibreWolf https://chaos.social/@librewolf
 * 
 
 
