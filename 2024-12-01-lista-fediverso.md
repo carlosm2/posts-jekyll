@@ -64,6 +64,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Hacklabor https://chaos.social/@hacklabor
 * Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
 * Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
+* Hackfun https://rebel.ar/@hackfun
+* Yaal Coop https://toot.aquilenet.fr/@yaal
+* Catalyst Cooperative https://mastodon.energy/@catalystcoop
 
 ## Cooperatives
 
@@ -110,7 +113,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Ateneu CoopCamp https://mastodon.social/@ateneucoopcamp
 * Xarxa Ateneus Cooperatius XAC https://mastodon.social/@AteneusCoopCat
 * La Manufacture coopérative https://mastodon.social/@manucoop
-* Biocoop Les 7 Épis https://mastodon.social/@BiocoopLes7Epis
+* TeleCoop https://framapiaf.org/@telecoop
+* SILICOOP https://mastodon.tetaneutral.net/@silicoop
 
 ## Free Software Projects
 
@@ -152,7 +156,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * PINE64 EU https://fosstodon.org/@pine64eu
 * UBports https://mastodon.social/@ubports
 * LibreWolf https://chaos.social/@librewolf
-* 
+* CryptPad https://social.xwiki.com/@CryptPad
 
 
 
