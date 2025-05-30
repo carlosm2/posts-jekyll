@@ -115,6 +115,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * La Manufacture coopérative https://mastodon.social/@manucoop
 * TeleCoop https://framapiaf.org/@telecoop
 * SILICOOP https://mastodon.tetaneutral.net/@silicoop
+* Les-Tilleuls.coop https://mastodon.online/@cooptilleuls
+* La Turbine.coop https://piaille.fr/@TurbineCoop
+* Ouvaton Coop https://mastodon.ouvaton.coop/@ouvaton
 
 ## Free Software Projects
 
@@ -122,6 +125,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * F-Droid https://floss.social/@fdroidorg
 * The Tor Project: https://mastodon.social/@torproject
 * Codeberg https://social.anoxinon.de/@Codeberg
+* Nextcloud https://mastodon.xyz/@nextcloud
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
 * Tella - Document & Protect https://infosec.exchange/@tella
