@@ -24,15 +24,15 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 
 
 * [aguzate.pdf](https://cacu.tech/guias/guias/aguzate.pdf)
-* guia-de-autocidado.pdf
-* 03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf
-* formas-de-acoso-digital.pdf
-* 01_Guia-de-acompanamiento.pdf
-* Manual_Adolescencias.pdf
-* quehacerantesituacionesincrss.png
-* GUIA-2-ActivistasXSL.pdf
-* GUIA-1-ActivistasXSL.pdf
-guiapracticaviolenciagenerodigital.pdf
+* [guia-de-autocidado.pdf]guia-de-autocidado.pdf
+* [03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf]03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf
+* [formas-de-acoso-digital.pdf]formas-de-acoso-digital.pdf
+* [01_Guia-de-acompanamiento.pdf]01_Guia-de-acompanamiento.pdf
+* [Manual_Adolescencias.pdf]Manual_Adolescencias.pdf]
+* [quehacerantesituacionesincrss.png]quehacerantesituacionesincrss.png
+* [GUIA-2-ActivistasXSL.pdf]GUIA-2-ActivistasXSL.pdf]
+* [GUIA-1-ActivistasXSL.pdf]GUIA-1-ActivistasXSL.pdf
+* [guiapracticaviolenciagenerodigital.pdf]guiapracticaviolenciagenerodigital.pdf
 * [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](https://cacu.tech/guias/art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
 * [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
 * [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/guias/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
