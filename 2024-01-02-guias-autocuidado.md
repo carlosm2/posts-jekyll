@@ -140,5 +140,3 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [9a.-CONF_-Tella-septiembre-2023.pptx.pdf](https://cacu.tech/guias/9a.-CONF_-Tella-septiembre-2023.pptx.pdf)
 * [2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf](https://cacu.tech/guias/2021_GUIA_EVIDENCIASDIGITALES_TEL+WITNESS.pdf)
 * [2207-ISG_final-es.pdf](https://cacu.tech/guias/2207-ISG_final-es.pdf)
-* [GUIA-1-ActivistasXSL.pdf](https://cacu.tech/guias/GUIA-1-ActivistasXSL.pdf)
-* [GUIA-2-ActivistasXSL.pdf](https://cacu.tech/guias/GUIA-2-ActivistasXSL.pdf)
