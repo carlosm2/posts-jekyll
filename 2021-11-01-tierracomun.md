@@ -2,10 +2,10 @@
 layout: post
 title:  "notas de tierra común"
 date:   2021-11-01 12:32:00
-categories: softwarelibre
+categories: softwarelibre cooperativa mexico
 ---
 
-# Cooperativa Tecnológica Tierra Común:
+# Notas sobre la Cooperativa Tecnológica Tierra Común:
 
               v .   ._, |_  .,
            `-._\/  .  \ /    |/_
@@ -66,7 +66,4 @@ categories: softwarelibre
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
-* Parte de patio coop - [https://patio.coop/](https://patio.coop/)
-
-
-
+* Somos parte de patio coop - [https://patio.coop/](https://patio.coop/)
