@@ -26,7 +26,7 @@ categories: softwarelibre cooperativa mexico
 
 * Archive: [https://archive.org/details/@cooperativa_tierra_com_n](https://archive.org/details/@cooperativa_tierra_com_n)
 
-##  Algunas notas sobre la cooperativa:
+##  Algunas notas y entrevista sobre la cooperativa TC:
 
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
 
