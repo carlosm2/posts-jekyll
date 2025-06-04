@@ -44,27 +44,24 @@ categories: softwarelibre cooperativa
 
 * We are mentioned in this text: Technological Sovereignty, Volume 2. [https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/](https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/)
 
-* Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
+* We are Tor Project Training partners: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 
-* Peace Brigades International -Seguridad para defender: [https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn](https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn)
+* Peace Brigades International - Mexico: [https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn](https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn)
 
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 
-* Cooperativa Tierra Común - Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
+* Cooperativa Tierra Común - Invitation to Pink Wednesday: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
-* Parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
+* We are part of the Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
 
-* Participación en Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
+* Participation in the Rethinking the Internet Cycle: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
 
-* Paricipación en el Encuentro de la Red Tierra Común y la Red Feminist AI Research en México [https://sursiendo.org/2022/12/encuentro-red-tierra-comun/](https://sursiendo.org/2022/12/encuentro-red-tierra-comun/)
+* Participation in the Meeting of the Tierra Común Network and the Feminist AI Research Network in Mexico: [https://sursiendo.org/2022/12/encuentro-red-tierra-comun/](https://sursiendo.org/2022/12/encuentro-red-tierra-comun/)
 
 * Tech Coops List: [https://tech-coops.xyz/](https://tech-coops.xyz/)
 
-* Entrevista a Omar Valencia de Tierra Común sobre Autoprotección Digital: [https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html](https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html)
+* Interview with Omar Valencia of Tierra Común on Digital Self-Protection: [https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html](https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html)
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
-* Parte de patio coop - [https://patio.coop/](https://patio.coop/)
-
-
-
+* We are part of Patio Coop - [https://patio.coop/](https://patio.coop/)
