@@ -54,9 +54,9 @@ categories: softwarelibre cooperativa mexico
 
 * Cooperativa Tierra Común - Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
-* Parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
+* Somos parte del Platform Cooperativism Consortium: [https://directory.platform.coop/organizations/1820](https://directory.platform.coop/organizations/1820)
 
-* Participación en Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
+* Participación en el Ciclo Repensar Internet: [https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet](https://www.centroculturadigital.mx/actividad/ciclo-repensar-internet)
 
 * Paricipación en el Encuentro de la Red Tierra Común y la Red Feminist AI Research en México [https://sursiendo.org/2022/12/encuentro-red-tierra-comun/](https://sursiendo.org/2022/12/encuentro-red-tierra-comun/)
 
@@ -66,4 +66,4 @@ categories: softwarelibre cooperativa mexico
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
-* Somos parte de patio coop - [https://patio.coop/](https://patio.coop/)
+* Somos parte de Patio Coop - [https://patio.coop/](https://patio.coop/)
