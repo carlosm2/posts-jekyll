@@ -24,20 +24,21 @@ categories: softwarelibre tor snowflake proxy
 
 ---------------------
 
-En mi archivo de salida de *snowflake proxy* se veía un incremento en actividad y no solo ahí sino también en el consumo de recursos de todo el sistema operativo.
+In my *snowflake proxy* output file I saw an increase in activity, not only there but also in the resource consumption of the entire operating system.
 
 {% highlight c++ %}
 
-# filtrar resultados con datos de tráfico:
+# filter results with traffic data:
 
 less nohup.out | grep --color=always "Traffic throughput"
 
-# mandar los datos obtenidos a un archivo:
+# send the obtained data to a file:
 
 less nohup.out | grep --color=always "Traffic throughput" > trafico.txt
 
 {% endhighlight %}
-Esto me daba los datos de las conexiones activas y sus días-horas, pero también muchos otros datos como la cantidad de kbs transferidos, pero quería únicamente saber la cantidad de conexiones en el día y su incremento durante el tiempo de mi muestra de **107 dias**.
+
+This gave me the data on active connections and their days-hours, but also a lot of other data like the amount of kbs transferred, but I only wanted to know the number of connections per day and their increase during my sample time of **107 days**.
 
 {% highlight c++ %}
 
