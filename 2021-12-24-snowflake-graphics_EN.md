@@ -42,32 +42,32 @@ This gave me the data on active connections and their days-hours, but also a lot
 
 {% highlight c++ %}
 
-# obtener solo las primeras dos columnas:
+# get only the first two columns::
 
 cut -d: -f '1 2' trafico.txt
 
-# enviar esas dos columnas a un archivo:
+# send those two columns to a file:
 
 cut -d: -f '1 2' trafico.txt >> filtrado.txt
 
-## poner una coma despues de la primera columna de mis datos:
+## put a comma after the first column of my data:
 
 sed 's/ /, /g' filtrado.txt >> filtradoconcomas.txt
 
 {% endhighlight %}
 
-ya con datos separados por comas ya se pueden graficar, pero soy teletubi en esos conceptos asi que uso esta versión web que utiliza **D3.js** 
+Now with data separated by commas you can graph them, but I'm a newbie in those concepts so I use this web version that uses **D3.js** 
 
 [https://github.com/densitydesign/raw](https://github.com/densitydesign/raw)
 
 [https://rawgraphs.io/](https://rawgraphs.io/)
 
-con los datos obtuve estas gráficas:
+With the data I obtained these graphs:
 
 [https://cacu.tech/snowflake/snowflakeconleche.png](https://cacu.tech/snowflake/snowflakeconleche.png)
 
 [https://cacu.tech/snowflake/aumento.png](https://cacu.tech/snowflake/aumento.png)
 
-que muestran el incremento de en promedio **20** peticiones al dia a **280**. 
+showing the increase from an average of **20** requests per day to **280**. 
 
 
