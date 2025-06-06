@@ -40,12 +40,12 @@ Android Debug Bridge
 
 ## Connect your phone to the computer and validate it
 
-Se puede de varias formas pero regularmente yo lo hago en conexión directa USB,
-habilitar **Transferencia de archivos** desde el teléfono y luego verificar con:
+It can be done in several ways but I usually do it with a direct USB connection,
+enable **File Transfer** from the phone and then check with:
 
 {% highlight python %}$ adb devices{% endhighlight %}
 
-con el comando anterior deberias ver listado tu telefóno:
+With the previous command you should see your phone listed:
 
 {% highlight python %}
 $ adb devices
@@ -55,9 +55,9 @@ $ List of devices attached
 $ f48ec6 device
 {% endhighlight %}
 
-## Buscar la aplicación instalada
+## Find the installed application
 
-para listar las aplicaciones instaladas en el teléfono:
+To list the applications installed on the phone:
 {% highlight python %}
 $ adb shell pm list packages
 {% endhighlight %}
