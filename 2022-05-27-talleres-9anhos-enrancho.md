@@ -31,7 +31,7 @@ categories: softwarelibre mexico ranchoelectronico hackerspace
 .
 
 
-Recuento de los talleres que comparti en el Hackerspace Rancho Electrónico, desde su [fundación](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html) hasta cuando acabo el contrato de renta en noviembre 2022.
+Recuento de los talleres que comparti en el Hackerspace Rancho Electrónico, desde su [fundación](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html) hasta cuando acabo el contrato de renta en noviembre 2022. Dejó de existir despues de varios problemas internos, medio año despues un pequeño grupo volvió a abrir otro espacio fisico.
 
 El primer evento publico que hicimos fue un FLISOL, el 27 de Abril del 2013:
 
