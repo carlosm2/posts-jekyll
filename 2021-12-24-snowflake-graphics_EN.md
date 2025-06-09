@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Snowflake Requests Increase December 2021"
+title:  "Snowflake Requests Increase December 2021 (EN)"
 date:   2021-12-24 12:32:00
 categories: softwarelibre tor snowflake proxy
 ---
