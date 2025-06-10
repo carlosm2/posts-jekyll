@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "tierra común coop notes [EN]"
+title:  "tierra común coop notes (EN)"
 date:   2021-11-02 12:32:00
 categories: softwarelibre cooperativa
 ---
