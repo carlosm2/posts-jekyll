@@ -21,19 +21,19 @@ categories: softwarelibre bash sed
 
 ## Arrange word list with sed bash
 
-Para formatear una lista en nahuatl que necesitaba para usarlo en KeepassXC:
+To format a list in Nahuatl I needed to use it in KeepassXC:
 
 [https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html](https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html)
 
-tuve que buscar una lista
+I had to look for a list
 
-Afortunadamente tengo amiguis que estan interesades en idiomas originarios y que le mueven a la compu, entonces le pregunté a un par de los que seguro podria obtener respuestas, ya ubicaba varios diccionarios pero queria una lista de palabras que fuera mas o menos fácil de limpiar para tener los datos de forma que se puedan usar por KeepassXC.
+Fortunately, I have friends who are interested in native languages ​​and who are computer-savvy, so I asked a couple of people who I was sure would be able to provide me with answers. I had already found several dictionaries, but I wanted a word list that was relatively easy to clean so I could have the data in a form that could be used by KeepassXC.
 
-Para descargar la lista original puedes visitar este sitio:
+To download the original list you can visit this site:
 
 [https://aulex.org/nah-es/](https://aulex.org/nah-es/) 
 
-que te dará este archivo:
+which will give you this file:
 
 {% highlight perl %}nah-es.htm{% endhighlight %}
 
