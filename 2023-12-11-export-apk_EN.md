@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Export APK for migration"
+title:  "Export APK for migration (EN)"
 date:   2023-12-11 12:31:00
 categories: android apk linux adb
 ---
@@ -67,16 +67,16 @@ si queremos buscar por ejemplo la aplicación "ubre"
 $ adb shell pm list packages | grep ubre
 {% endhighlight %}
 
-## Encontrar la ruta de la aplicación
+## Find the application path
 
 {% highlight python %}
 $ adb shell pm list packages -f org.compania.aplicacion
 {% endhighlight %}
 
-## Extraer la aplicación especifica
+## Extract the specific application
 
-una vez encontrada la ruta de la aplicación que queremos respaldar o extraer del teléfono usamos este comando:
+Once we have found the path to the application we want to back up or extract from the phone, we use this command:
 {% highlight c++ %}
 $ adb pull /data/app/~~randomdata==/com.compania.tracker-Nqrandom_nOhw==/base.apk
 {% endhighlight %}
-con lo cual quedará con el nombre base.apk para ser instalado en otro teléfono android compatible, no siempre funciona, pero ese respaldo nos puede servir para el mismo teléfono por si reinstalamos todo el sistema operativo.
+which will leave it with the name base.apk to be installed on another compatible Android phone, it doesn't always work, but that backup can be useful for the same phone in case we reinstall the entire operating system.
