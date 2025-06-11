@@ -37,16 +37,16 @@ which will give you this file:
 
 {% highlight perl %}nah-es.htm{% endhighlight %}
 
-Luego hay que filtrarla, acomodarla, el buen petrohs me pasó este comando:
+Then you have to filter it, arrange it, the good friend ´petrohs´ gave me this command:
 
 {% highlight perl %}cat nah-es.htm | grep '<p><span class=dict>' 
 | sed -e "s/<p><span class=dict>//" -e "s/:.*//"{% endhighlight %}
 
-quedó casi perfecto pero luego vi que la lista tenia unos numeros, porque hay palabras que se repiten porque pueden tener diversos significados, tambien estaban signos de interrogación y admiración, esos los quite con esto:
+It was almost perfect, but then I saw that the list had some numbers, because there are words that are repeated because they can have different meanings, there were also question marks and exclamation points, I removed those with this:
 
 {% highlight perl %}cat nah-es.txt | sed 's/[12!¡¿? \-]//g' nah-es.txt > nahuatl-lista.txt{% endhighlight %}
 
-ya con los datos pulidos procedi a subirlo a github e hice un Pull Request para subirlo a algunos sitios que usan esas listas en otros idiomas.
+With the data polished, I proceeded to upload it to GitHub and made a Pull Request to upload it to some sites that use these lists in other languages.
 
 [https://github.com/carlosm2/lista-nahuatl](https://github.com/carlosm2/lista-nahuatl)
 
