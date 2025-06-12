@@ -118,6 +118,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Les-Tilleuls.coop https://mastodon.online/@cooptilleuls
 * La Turbine.coop https://piaille.fr/@TurbineCoop
 * Ouvaton Coop https://mastodon.ouvaton.coop/@ouvaton
+* Village One Cooperative https://toot.village.one/@VillageOneCoop
+* Hypha Worker Co-op https://cosocial.ca/@hyphacoop
 
 ## Free Software Projects
 
@@ -161,7 +163,3 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * UBports https://mastodon.social/@ubports
 * LibreWolf https://chaos.social/@librewolf
 * CryptPad https://social.xwiki.com/@CryptPad
-
-
-
-
