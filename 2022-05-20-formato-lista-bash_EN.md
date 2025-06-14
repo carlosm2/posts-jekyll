@@ -50,5 +50,5 @@ With the data polished, I proceeded to upload it to GitHub and made a Pull Reque
 
 [https://github.com/carlosm2/lista-nahuatl](https://github.com/carlosm2/lista-nahuatl)
 
-Agradezco a Don Petrohs [https://github.com/petrohs](https://github.com/petrohs) ayudarme a formatear la lista.
+I thank Don Petrohs [https://github.com/petrohs](https://github.com/petrohs) for helping me format the list.
 
