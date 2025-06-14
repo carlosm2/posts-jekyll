@@ -37,7 +37,7 @@ que te dará este archivo:
 
 {% highlight perl %}nah-es.htm{% endhighlight %}
 
-Luego hay que filtrarla, acomodarla, el buen petrohs me pasó este comando:
+Luego hay que filtrarla y acomodarla, el buen petrohs me pasó este comando:
 
 {% highlight perl %}cat nah-es.htm | grep '<p><span class=dict>' 
 | sed -e "s/<p><span class=dict>//" -e "s/:.*//"{% endhighlight %}
@@ -50,5 +50,5 @@ ya con los datos pulidos procedi a subirlo a github e hice un Pull Request para 
 
 [https://github.com/carlosm2/lista-nahuatl](https://github.com/carlosm2/lista-nahuatl)
 
-Agradezco a Don Petrohs [https://github.com/petrohs](https://github.com/petrohs) ayudarme a formatear la lista.
+Agradezco a Don Petrohs [https://github.com/petrohs](https://github.com/petrohs) el ayudarme a formatear la lista.
 
