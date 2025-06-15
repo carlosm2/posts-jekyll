@@ -48,10 +48,10 @@ I collaborate and have collaborated on various projects and collectives focused 
 
 * Tails: [https://tails.net/](https://tails.net/)
 * Tails Weblate User: [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/)
-* Tails Reveal: [https://cacu.tech/tails/](https://cacu.tech/tails/)
+* Tails Reveal Slides: [https://cacu.tech/tails/](https://cacu.tech/tails/)
 * Localización / Localization:
   [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
-  [https://hosted.weblate.org/user/carlosm2/]/(https://hosted.weblate.org/user/carlosm2/)
+  [https://hosted.weblate.org/user/carlosm2/](https://hosted.weblate.org/user/carlosm2/)
 * Algunos reportes de Tails sobre mi colaboración en outreach, training, testing:
 * [https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/](https://web.archive.org/web/20250330013349/https://tails.net/news/report_2019_04/)
 * [https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/](https://web.archive.org/web/20250330013452/https://tails.net/news/report_2019_07/)
