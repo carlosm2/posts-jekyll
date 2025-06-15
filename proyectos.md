@@ -11,8 +11,8 @@ permalink: /proyectos/
 ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
 ╨━━┗┛┗┛━━┗┛┗┛━━┻
 
-Colaboro en varios proyectos, iniciativas y colectivas enfocados en #SoftwareLibre, #SeguridadDigital y #AutocuidadoColectivo.
-I collaborate on various projects, initiatives, and collectives focused on #FreeSoftware, #DigitalSecurity, and #CollectiveSelfCare.
+Colaboro y he colaborado en varios proyectos y colectivas enfocados en #SoftwareLibre, #SeguridadDigital, #AutocuidadoColectivo y #JusticiaClimatica.
+I collaborate and have collaborated on various projects and collectives focused on Free/Libre Software, Digital Security, Collective Care, and Climate Justice.
 
 ## Github Gitlab
 
