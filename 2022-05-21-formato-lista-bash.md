@@ -21,7 +21,7 @@ categories: softwarelibre bash sed
 
 ## Acomodar lista de palabras con sed bash
 
-Para formatear una lista en nahuatl que necesitaba para usarlo en KeepassXC:
+Pasos para dar formato a una lista en nahuatl que necesitaba para ser usada en KeepassXC:
 
 [https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html](https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html)
 
