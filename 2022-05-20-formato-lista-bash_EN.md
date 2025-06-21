@@ -21,7 +21,7 @@ categories: softwarelibre bash sed
 
 ## Arrange word list with sed bash
 
-To format a list in Nahuatl I needed to use it in KeepassXC:
+To format a list in Nahuatl, I had to use KeepassXC.
 
 [https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html](https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html)
 
