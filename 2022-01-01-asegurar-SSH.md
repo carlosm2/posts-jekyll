@@ -7,7 +7,7 @@ categories: raspberrypi ssh
 
 # Asegurar conexión SSH de una raspberrry pi
 
-(aunque aplica para cualquier servidora)
+(aunque aplica para cualquier servidor)
 
    
    ┈┈┈╱▏┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈
@@ -41,6 +41,7 @@ ssh cacu@192.168.0.2 -o PasswordAuthentication=yes
 {% endhighlight %}
   
 aparecerá este mensaje de advertencia:
+
 {% highlight c++ %}
 The authenticity of host '192.168.0.2 (192.168.0.2)' can't be established.
 ECDSA key fingerprint is SHA256:xxxxxx.
