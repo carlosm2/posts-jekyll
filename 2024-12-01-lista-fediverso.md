@@ -65,8 +65,6 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
 * Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
 * Hackfun https://rebel.ar/@hackfun
-* Yaal Coop https://toot.aquilenet.fr/@yaal
-* Catalyst Cooperative https://mastodon.energy/@catalystcoop
 
 ## Cooperatives
 
@@ -120,6 +118,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Ouvaton Coop https://mastodon.ouvaton.coop/@ouvaton
 * Village One Cooperative https://toot.village.one/@VillageOneCoop
 * Hypha Worker Co-op https://cosocial.ca/@hyphacoop
+* Yaal Coop https://toot.aquilenet.fr/@yaal
+* Catalyst Cooperative https://mastodon.energy/@catalystcoop
 
 ## Free Software Projects
 
