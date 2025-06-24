@@ -46,11 +46,8 @@ change to the directory where the application is located, in this case:
 
 {% highlight java %}$ cd /Applications{% endhighlight %}
 
-Y luego ejecutar:
+and then run:
 
 {% highlight java %}$ open -n ./KeePassXC.app --args allow-screencapture{% endhighlight %}
 
-esto abrira keepassXC con la posibilidad de hacer capturas de pantalla.
-
-
-
+this will open keepassXC with the ability to take screenshots.
