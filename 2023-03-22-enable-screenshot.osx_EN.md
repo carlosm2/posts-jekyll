@@ -2,7 +2,7 @@
 layout: post
 title:  "Enable screenshot for KeepassXC on macOS"
 date:   2023-03-22 12:32:00
-categories: softwarelibre keeepassxc osx macos
+categories: privacy keeepassxc osx macos
 ---
 
     .__________________________.
@@ -32,17 +32,17 @@ In the case of macOS it is used:
 
 ## Screenshot Lock
 
-Hay un bloqueo de privacidad que he notado al hacer capturas de pantalla en Android y macOS en aplicaciones enfocadas en la seguridad, privacidad como KeepassXC [https://keepassxc.org/](https://keepassxc.org/) y FreeOTP [https://freeotp.github.io/](https://freeotp.github.io/) que no te permiten guardar la captura de pantalla con los datos, tambien pasa cuando se esta usando un software de visualización remota [https://es.wikipedia.org/wiki/VNC](https://es.wikipedia.org/wiki/VNC). 
+There’s a privacy lock I’ve noticed when taking screenshots on Android and macOS in security-focused, privacy-focused apps like KeepassXC: [https://keepassxc.org/](https://keepassxc.org/) and FreeOTP [https://freeotp.github.io/](https://freeotp.github.io/) that you are not allowed to save the screenshot with the data, also happens when a remote viewing software is being used [https://es.wikipedia.org/wiki/VNC](https://es.wikipedia.org/wiki/VNC). 
 
-## Habilitar en macOS
+## Enable this on macOS
 
-Esta es la instrucción para habilitar una aplicacion:
+This is the instruction to enable an app:
 
 {% highlight java %}$ open -n ./AppName.app --args -AppCommandLineArg{% endhighlight %}
 
-entonces aplica para KeepassXC, abrir la terminal:
+then apply for KeepassXC, open the terminal:
 
-cambiarse al directorio donde esta la aplicación, en este caso: 
+change to the directory where the application is located, in this case:
 
 {% highlight java %}$ cd /Applications{% endhighlight %}
 
