@@ -24,7 +24,7 @@ categories: softwarelibre keeepassxc osx macos
 
 ## Capturas de pantalla
 
-Para hacer tutoriales, documentación, que es una de las cosas que frecuentemente hago necesito hacer capturas de pantalla, en mi sistema base (Debian Bullseye) utilizo el software integrado en gnome screenshot: [https://gitlab.gnome.org/GNOME/gnome-screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot) y para animaciones mp4 y gif uso Peek: [https://github.com/phw/peek](https://github.com/phw/peek).
+Para hacer tutoriale y documentación, que son una de las cosas que frecuentemente hago necesito hacer capturas de pantalla en mi sistema base (Debian 12) utilizo el software integrado en gnome screenshot: [https://gitlab.gnome.org/GNOME/gnome-screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot) y para animaciones mp4 y gif uso Peek: [https://github.com/phw/peek](https://github.com/phw/peek).
 
 En el caso de macOS se utiliza:
 
@@ -34,7 +34,7 @@ En el caso de macOS se utiliza:
 
 Hay un bloqueo de privacidad que he notado al hacer capturas de pantalla en Android y macOS en aplicaciones enfocadas en la seguridad, privacidad como KeepassXC [https://keepassxc.org/](https://keepassxc.org/) y FreeOTP [https://freeotp.github.io/](https://freeotp.github.io/) que no te permiten guardar la captura de pantalla con los datos, tambien pasa cuando se esta usando un software de visualización remota [https://es.wikipedia.org/wiki/VNC](https://es.wikipedia.org/wiki/VNC). 
 
-## Habilitar en macOS
+## Habilitar captura de pantalla de un elemento privado en macOS
 
 Esta es la instrucción para habilitar una aplicacion:
 
