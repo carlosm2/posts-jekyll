@@ -34,7 +34,7 @@ In the case of macOS it is used:
 
 There’s a privacy lock I’ve noticed when taking screenshots on Android and macOS in security-focused, privacy-focused apps like KeepassXC: [https://keepassxc.org/](https://keepassxc.org/) and FreeOTP [https://freeotp.github.io/](https://freeotp.github.io/) that you are not allowed to save the screenshot with the data, also happens when a remote viewing software is being used [https://es.wikipedia.org/wiki/VNC](https://es.wikipedia.org/wiki/VNC). 
 
-## Enable this on macOS
+## Enable Screenshot of a Private Item on macOS
 
 This is the instruction to enable an app:
 
