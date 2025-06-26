@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enable screenshot for KeepassXC on macOS"
+title:  "Enable screenshot for KeepassXC on macOS (EN)"
 date:   2023-03-22 12:32:00
 categories: privacy keeepassxc osx macos
 ---
