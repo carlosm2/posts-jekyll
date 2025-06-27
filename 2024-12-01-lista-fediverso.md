@@ -119,6 +119,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Village One Cooperative https://toot.village.one/@VillageOneCoop
 * Hypha Worker Co-op https://cosocial.ca/@hyphacoop
 * Yaal Coop https://toot.aquilenet.fr/@yaal
+* Som Energia Mallorca https://mastodon.economiasocial.org/@SomEnergiaMallorca
 * Catalyst Cooperative https://mastodon.energy/@catalystcoop
 
 ## Free Software Projects
