@@ -2,7 +2,7 @@
 layout: post
 title:  "Extender caducidad de llave GPG vencida"
 date:   2022-03-17 12:32:00
-categories: gnupg openpgp cifrado
+categories: gnupg openpgp cifrado pgp
 ---
 
  ad8888888888ba
@@ -33,7 +33,7 @@ pub   rsa4096/0x5FDA7A75CE42E670 2016-03-17 [SCA] [caducó: 2022-03-17]
 uid                [  caducada ] carlosm2 <carlosm2@riseup.net>
 {% endhighlight %}
 
-con ese comando anterior podemos ver el ID de nuestra llave para editarlo, tambien podemos ver en este ejemplo que la llave tiene estatus de **caducada**.
+con el comando anterior podemos ver el ID de nuestra llave para editarlo, tambien podemos ver en este ejemplo que la llave tiene estatus de **caducada**.
 
 ahora editamos la llave con:
 
