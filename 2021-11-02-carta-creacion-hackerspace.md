@@ -84,6 +84,6 @@ Juan Lucas Lassaga 115, Col. Obrera, México, D. F.
 http://www.cibernetx.com/eventos/sedes-de-eventos/147-cooperativa-crater-invertido
 
 HackLab Autónomo
-Iva, Jaime, Carlosm2, Chiwy, Pirra, Ventolinmono
+Iva, Jaime, Carlosm2 (cacu), Chiwy, Pirra, Ventolinmono
 
 # Primera semana de marzo 2013
