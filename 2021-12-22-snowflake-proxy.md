@@ -85,7 +85,7 @@ $ nohup ./proxy &
 ### Ver registros
 {% endhighlight %}
  
-Si deseas guardar la salida del proxy en un archivo de registro, por ejemplo, para ver su uso del proxy, puede usar:
+Si deseas guardar la salida del proxy en un archivo de registro —por ejemplo, para monitorear su uso— puedes usar:
 
 {% highlight ruby %}
 $ nohup ./proxy >snowflake.log 2>&1 &
