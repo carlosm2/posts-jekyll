@@ -19,7 +19,7 @@ categories: android apk linux adb
      |[:::]|               
      '-----'
 
-## Export an APK for migration
+## Export an APK for migration to another mobile
 
 I needed to install a language application that was no longer available in the official store or on the manufacturer's website,
 so I had to export it so I could continue using it on a new phone.
