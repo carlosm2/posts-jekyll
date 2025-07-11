@@ -24,8 +24,8 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 
 
 * [aguzate.pdf](https://cacu.tech/guias/guias/aguzate.pdf)
-* 5.1.-Protegidas-en-Internet-15jan.pdf
-* Toolkit-TEDIC_Formato-Digital.pdf
+* [5.1.-Protegidas-en-Internet-15jan.pdf](https://cacu.tech/guias/guias/5.1.-Protegidas-en-Internet-15jan.pdf)
+* [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/guias/Toolkit-TEDIC_Formato-Digital.pdf)
 * Guia-metodologica-Construyendo-una-internet-de-cuidados-y-libre-de-violencias.pdf
 * guia-de-autocidado.pdf
 * 0009_guia_Saferjourno.pdf
