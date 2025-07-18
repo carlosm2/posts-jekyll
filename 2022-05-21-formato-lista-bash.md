@@ -19,7 +19,7 @@ categories: softwarelibre bash sed
                     
 
 
-## Acomodar lista de palabras con sed bash
+## Acomodar lista de palabras con la herramienta sed en bash
 
 Pasos para dar formato a una lista en nahuatl que necesitaba para ser usada en KeepassXC:
 
