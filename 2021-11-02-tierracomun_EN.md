@@ -5,7 +5,7 @@ date:   2021-11-01 12:31:00
 categories: softwarelibre cooperativa
 ---
 
-#Notes on the Tierra Común Technology Cooperative: 
+#Notes about Tierra Común Technology Cooperative: 
 
 
 
