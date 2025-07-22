@@ -66,6 +66,10 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
 * Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
 * Hackfun https://rebel.ar/@hackfun
+* Hackerspace Valencia https://mastodon.social/@Hackerspace_VLC
+* shackspace https://mastodon.social/@shackspace
+* Hackerspace Brussels https://mastodon.online/@HSBXL
+* tinycore lab https://corteximplant.com/@tinycore_lab 
 
 ## Cooperatives
 
