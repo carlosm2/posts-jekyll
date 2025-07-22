@@ -65,10 +65,10 @@ Al sororo rugir del amor
 Y retiemblen sus centros la tierra
 Al sororo rugir del amor
 
-[*] **Vivir Quintana “Canción sin Miedo” Ft Banda Femenil Regional "Mujeres del Viento Florido"**
+[*] **Vivir Quintana “Canción sin Miedo” con Banda Femenil Regional "Mujeres del Viento Florido"**
 
 [https://www.youtube.com/watch?v=CsYQgNF4tJk](https://www.youtube.com/watch?v=CsYQgNF4tJk)
 
-[*] **Vivir Quintana - Canción sin miedo ft. El Palomar**
+[*] **Vivir Quintana - Canción sin miedo con El Palomar**
 
 [https://www.youtube.com/watch?v=VLLyzqkH6cs](https://www.youtube.com/watch?v=VLLyzqkH6cs)
