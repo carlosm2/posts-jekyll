@@ -65,7 +65,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Hacklabor https://chaos.social/@hacklabor
 * Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
 * Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
-* Hackfun https://rebel.ar/@hackfun
+* Hackfun Rosario https://rebel.ar/@hackfun
 * Hackerspace Valencia https://mastodon.social/@Hackerspace_VLC
 * shackspace https://mastodon.social/@shackspace
 * Hackerspace Brussels https://mastodon.online/@HSBXL
@@ -98,7 +98,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Grassroots Economic Organizing https://social.coop/@GEO_Collective
 * CoopCycle https://mastodon.social/@coopcycle
 * Cooperativa Gafarrons https://mastodon.economiasocial.org/@GafarronsCoop 
-* TRADUCOOP https://social.coop/@traducoop
+* Traducoop https://social.coop/@traducoop
 * Co-op Cloud https://social.coop/@coopcloud
 * Institut Coop https://mstdn.ca/@institutcoop
 * Autonomic Co-op https://sunbeam.city/@autonomic
