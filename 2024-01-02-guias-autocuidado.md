@@ -23,12 +23,12 @@ Repositorio nextcloud en Mayfirst.coop:
 Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3x5zbgvz7zegedhspdd2sgyd.onion/
 
 
-* [aguzate.pdf](https://cacu.tech/guias/guias/aguzate.pdf)
-* [5.1.-Protegidas-en-Internet-15jan.pdf](https://cacu.tech/guias/guias/5.1.-Protegidas-en-Internet-15jan.pdf)
-* [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/guias/Toolkit-TEDIC_Formato-Digital.pdf)
+* [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
+* [5.1.-Protegidas-en-Internet-15jan.pdf](https://cacu.tech/guias/5.1.-Protegidas-en-Internet-15jan.pdf)
+* [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/Toolkit-TEDIC_Formato-Digital.pdf)
 * Guia-metodologica-Construyendo-una-internet-de-cuidados-y-libre-de-violencias.pdf
 * guia-de-autocidado.pdf
-* [0009_guia_Saferjourno.pdf](https://cacu.tech/guias/guias/0009_guia_Saferjourno.pdf)
+* [0009_guia_Saferjourno.pdf](https://cacu.tech/guias/0009_guia_Saferjourno.pdf)
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
 * [03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf](https://cacu.tech/guias/03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf)
 * [formas-de-acoso-digital.pdf](https://cacu.tech/guias/formas-de-acoso-digital.pdf)
