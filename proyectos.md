@@ -122,7 +122,7 @@ Cofundé y colaboré durante 9 años:
 
 I have created and manage two channels dedicated to sharing search profiles for missing persons: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
 
-## Localization / Translation projects Free Software and Privacy
+## Contributions to the localization and translation of tools supporting Free Software and digital privacy advocacy.
 
 * Tails [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/) since 2015
 * Tor Project: [https://app.transifex.com/user/profile/cacu/](https://app.transifex.com/user/profile/cacu/)
