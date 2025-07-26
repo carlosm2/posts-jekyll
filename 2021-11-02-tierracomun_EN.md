@@ -64,4 +64,4 @@ categories: softwarelibre cooperativa
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
-* We are part of Patio Coop - [https://patio.coop/](https://patio.coop/)
+* We are members of Patio Coop - [https://patio.coop/](https://patio.coop/)
