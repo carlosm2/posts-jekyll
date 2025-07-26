@@ -62,9 +62,9 @@ To list the applications installed on the phone:
 $ adb shell pm list packages
 {% endhighlight %}
 
-si queremos buscar por ejemplo la aplicación "ubre"
+if we want to search for example the application "uber"
 {% highlight python %}
-$ adb shell pm list packages | grep ubre
+$ adb shell pm list packages | grep uber
 {% endhighlight %}
 
 ## Find the application path
