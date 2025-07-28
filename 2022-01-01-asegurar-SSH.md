@@ -69,7 +69,7 @@ ssh cacu@192.168.0.2
 
 ## Modificar el archivo /etc/ssh/sshd_config
 
-Para asegurar nuestra conexión ssh para para que no entren con root, sean solo 3 intentos en la contraseña, que solo acceda nuestro usuario (y a blue demon por si me pasa algo) y otro puerto que no sea el por defecto:
+Habilataremos lo siguiente ara asegurar nuestra conexión ssh: que no se acceda con permisos root, limiatar a solo 3 intentos con la contraseña, que solo acceda nuestro usuario (y blue demon por si nos pasa algo) y otro puerto que no sea el por defecto:
 {% highlight c++ %}
 sudo vim /etc/ssh/sshd_config
 {% endhighlight %}
