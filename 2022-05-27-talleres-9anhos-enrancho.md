@@ -41,7 +41,7 @@ Si ven el cartel aun no teniamos nombre, por eso dice solamente: "En el nuevo Ha
 
 En ese evento con mi compa chiwy comparti un tallercito de redes sociales libres, no se si haya fotos de eso, por mucho tiempo no tuve celular, entonces no tengo registros visuales de muchas cosas, ademas de la buena practica de no tomar fotos de asistentes al espacio.
 
-El segundo evento fue un Taller de Seguridad Digital que hice con mi colectivo anterior, el **hacklab autónomo** [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)y esta es la liga del taller:
+El segundo evento fue un Taller de Seguridad Digital que hice con mi colectivo anterior, el **hacklab autónomo** [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab) y esta es la liga de ese taller:
 
 [https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/](https://web.archive.org/web/20250411171326/https://ranchoelectronico.org/tallerseguridadigital/)
 
