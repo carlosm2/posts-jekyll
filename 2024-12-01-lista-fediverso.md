@@ -127,6 +127,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Yaal Coop https://toot.aquilenet.fr/@yaal
 * Som Energia Mallorca https://mastodon.economiasocial.org/@SomEnergiaMallorca
 * Catalyst Cooperative https://mastodon.energy/@catalystcoop
+* La Teulada https://mastodon.social/@la_teulada
 
 ## Free Software Projects
 
