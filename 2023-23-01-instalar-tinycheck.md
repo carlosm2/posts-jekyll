@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalar tiny-check en raspberrypi"
+title:  "Instalar tiny-check en raspberrypi (desactualizado)"
 date:   2023-01-21 12:32:00
 categories: softwarelibre autocuidadodigital raspberrypi spyware
 ---
