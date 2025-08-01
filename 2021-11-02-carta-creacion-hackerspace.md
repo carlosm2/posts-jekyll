@@ -5,7 +5,7 @@ date:   2021-11-02 12:32:00
 categories: softwarelibre hackerspace mexico
 ---
 
-Carta enviada a listas de correo para invitar a crear un Hackerspace en ciudad de México
+Carta enviada a listas de correo para invitar a crear un Hackerspace en Ciudad de México en 2013
 
 
                 /||\
