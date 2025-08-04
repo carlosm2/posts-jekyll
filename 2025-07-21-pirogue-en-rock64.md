@@ -1,9 +1,18 @@
+
 ---
 layout: post
 title:  "Instalar PiRogue en pine rock64"
 date:   2025-07-21 12:32:00
 categories: pirogue forensic rock64
 ---
+
+Dispongo de una Single Board Computer PINE ROCK64 [https://pine64.org/devices/rock64/](https://pine64.org/devices/rock64/) en la cual queria instalar la suite PiRogue [https://pts-project.org/](https://pts-project.org/) para lo cual primero necesito instalarle Debian.
+
+De esta dirección se pueden ver las diferentes versiones de sistemas operativos libres que se puede instalar:
+[https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/)
+en mi caso opto por instalar la versión basada en Debian Bookworm (12)
+
+https://armbian.tnahosting.net/archive/rock64/archive/
 
 
 root@rock64:/home/cacu# lsusb
