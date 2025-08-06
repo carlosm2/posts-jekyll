@@ -16,9 +16,6 @@ en mi caso opto por instalar la versión basada en Debian Bookworm (12)
 
 una vez instalado se verá asi:
 
-root@rock64:/home/cacu# lsusb
-Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
-
     _             _    _           
    /_\  _ _ _ __ | |__(_)__ _ _ _  
   / _ \| '_| '  \| '_ \ / _` | ' \ 
@@ -30,9 +27,9 @@ Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless
  IPv4:         (LAN) 192.168.1.79, 10.8.0.1 (WAN) 189.x.x.x
  IPv6:         (WAN) xxx.xxxx.xxxxx.xxxxxx
 
- Performance:  
+pero est SBC no tiene tarjeta WiFi integrada por lo que use la siguiente:
 
- Load:         30%           	Up time:       2 min	
- Memory usage: 46% of 3.87G  	
- CPU temp:     41°C           	 Usage of /:   14% of 29G    	
- RX today:     6 MiB        
+root@rock64:/home/cacu# lsusb
+Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
+
+que ya habia probado exitosamente en otras distribuciones Linux
