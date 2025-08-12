@@ -11,7 +11,9 @@ Dispongo de una Single Board Computer PINE rock64 [https://pine64.org/devices/ro
 De esta dirección web se pueden ver las diferentes versiones de sistemas operativos libres que se puede instalar en esa PINE Rock64:
 [https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/)
 
-en mi caso opto por instalar la versión basada en Debian Bookworm (12
+en mi caso elijo instalar la versión basada en Debian Bookworm (12) porque en la Documentación de PTS Project esta documentado que se puede instalar en sistemas Debian 12:
+
+[https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/](https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/)
 
 una vez instalado se verá asi:
 
