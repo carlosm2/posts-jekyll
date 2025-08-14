@@ -42,3 +42,14 @@ sudo wget -O /etc/apt/trusted.gpg.d/pirogue.gpg   https://pts-project.org/debian
 sudo apt update
 sudo apt install pirogue-base
 
+---
+
+para revisar las conexiones existentes:
+
+root@rock64:/home/cacu# nmcli connection show
+
+NAME                      UUID                    TYPE      DEVICE          
+Wired connection 1        0d5e9649-86ce-masdatos  ethernet  end0            
+lo                        36a9c025-fc84-masdatos  loopback  lo              
+pirogue-isolated-network  c171297d-8af1-masdatos  wifi      wlxa0f3c109b6cf 
+
