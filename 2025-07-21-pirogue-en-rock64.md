@@ -55,4 +55,5 @@ pirogue-isolated-network  c171297d-8af1-masdatos  wifi      wlxa0f3c109b6cf
 
 y verificar la configuración:
 
- pirogue-admin --configuration-tree
+pirogue-admin --configuration-tree
+pirogue-admin --current-config
