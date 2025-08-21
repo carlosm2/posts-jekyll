@@ -349,6 +349,10 @@ va entonces un recuento de talleres donde fui el tallerista u organizador princi
 
 [https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/](https://web.archive.org/web/20250216163140/https://ranchoelectronico.org/talleres-libres-internet/)
 
+[*] Talleres Libres - Redes Sociales Libres
+
+[https://web.archive.org/web/20250426100236/https://ranchoelectronico.org/talleres-comunicacion-popular2/](https://web.archive.org/web/20250426100236/https://ranchoelectronico.org/talleres-comunicacion-popular2/)
+
 [*] Nochechita ranchera - software libre en una cooperativa:
 
 [https://web.archive.org/web/20250515154651/https://ranchoelectronico.org/nochecita/](https://web.archive.org/web/20250515154651/https://ranchoelectronico.org/nochecita/)
