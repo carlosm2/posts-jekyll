@@ -34,7 +34,7 @@ pero esta minicomputadora no tiene tarjeta WiFi integrada por lo que use la sigu
 root@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
-que ya habia probado exitosamente en otras distribuciones Linux
+que ya habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-ROgue en modo Access Point que es la función que mas se adapta a mis necesidades.
 
 Para instalar PiRogue en un sistema base Debian se agregan los repositorios y se ejecuta lo siguiente:
 
