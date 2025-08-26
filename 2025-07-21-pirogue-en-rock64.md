@@ -30,22 +30,26 @@ Una vez instalado se verá asi:
 {% endhighlight %}
 
 pero esta minicomputadora no tiene tarjeta WiFi integrada por lo que use la siguiente:
+
 {% highlight python %}
 root@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
+
 que ya habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-ROgue en modo Access Point que es la función que mas se adapta a mis necesidades.
 
 Para instalar PiRogue en un sistema base Debian se agregan los repositorios y se ejecuta lo siguiente:
 
+{% highlight python %}
 sudo wget -O /etc/apt/sources.list.d/pirogue.list https://pts-project.org/debian-12/pirogue.list
 sudo wget -O /etc/apt/trusted.gpg.d/pirogue.gpg   https://pts-project.org/debian-12/pirogue.gpg
 sudo apt update
 sudo apt install pirogue-base
+{% endhighlight %}
 
 ---
 
-para revisar las conexiones existentes:
+para revisar las conexiones existentes ejecutamos este comando:
 
 root@rock64:/home/cacu# nmcli connection show
 
@@ -54,7 +58,7 @@ Wired connection 1        0d5e9649-86ce-masdatos  ethernet  end0
 lo                        36a9c025-fc84-masdatos  loopback  lo              
 pirogue-isolated-network  c171297d-8af1-masdatos  wifi      wlxa0f3c109b6cf 
 
-y verificar la configuración:
+y para verificar la configuración:
 
 pirogue-admin --configuration-tree
 pirogue-admin --current-config
