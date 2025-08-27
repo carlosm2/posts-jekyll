@@ -14,7 +14,7 @@ De esta dirección web se pueden descargar las diferentes versiones de sistemas 
 [https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/) En mi caso elijo instalar la versión basada en Debian Bookworm (12) porque en la Documentación de PTS Project esta documentado que se puede instalar en sistemas Debian 12:
 [https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/](https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/)
 
-Una vez instalado se verá asi:
+Debian una vez instalado se verá asi:
 
 {% highlight python %}
     _             _    _           
@@ -25,11 +25,11 @@ Una vez instalado se verá asi:
  v25.5.1 for Rock 64 running Armbian Linux 6.12.38-current-rockchip64
 
  Packages:     Debian stable (bookworm)
- IPv4:         (LAN) 192.168.1.79, 10.8.0.1 (WAN) 189.x.x.x
+ IPv4:         (LAN) 192.168.1.x, 10.8.0.1 (WAN) 189.x.x.x
  IPv6:         (WAN) xxx.xxxx.xxxxx.xxxxxx
 {% endhighlight %}
 
-pero esta minicomputadora no tiene tarjeta WiFi integrada por lo que use la siguiente:
+pero esta minicomputadora no tiene tarjeta WiFi integrada, que es necesaria para poder funcionar en modo AP, usé esta USB wifi externa:
 
 {% highlight python %}
 root@rock64:/home/cacu# lsusb
