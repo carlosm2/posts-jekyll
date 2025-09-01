@@ -29,7 +29,7 @@ Debian una vez instalado se verá asi:
  IPv6:         (WAN) xxx.xxxx.xxxxx.xxxxxx
 {% endhighlight %}
 
-pero esta SBC no tiene tarjeta WiFi integrada, que es necesaria para poder funcionar en modo AP, usé esta USB wifi externa:
+pero esta SBC no tiene tarjeta WiFi integrada, la cual es necesaria para poder funcionar en modo AP con PiRogue, usé esta USB wifi externa:
 
 {% highlight python %}
 root@rock64:/home/cacu# lsusb
