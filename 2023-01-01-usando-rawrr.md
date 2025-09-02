@@ -26,7 +26,7 @@ SAFETAG traducido seria:
 
 El Sistema de Auditorías de Seguridad y Plantilla de Evaluación para Grupos de Defensoría
 
-tiene su sitio web con los elementos organizados:
+tiene un sitio web con los elementos organizados:
 
 [https://safetag.org/#allMethods](https://safetag.org/#allMethods)
 
