@@ -18,7 +18,7 @@ Outline es un proyecto de código abierto creado por Jigsaw que proporciona a pe
 Outline permite crear fácilmente un servidor VPN para que todo el mundo pueda acceder al Internet libre y abierto.
 consta de 2 paquetes, el Administrador de Outline y el Cliente de Outline
 Puedes descargar el cliente desde la pagina: [https://getoutline.org](https://getoutline.org/), tiene versiones para Android, Windows, Chrome, IOS, MacOS y Linux.
-Aqui voy a mostrar los pasos para instalar en Debian 11:
+Aqui voy a mostrar los pasos para instalar desde Termninal en Debian 12:
 
 {% highlight php %}
 
