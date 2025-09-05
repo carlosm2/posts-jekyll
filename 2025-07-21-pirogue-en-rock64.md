@@ -27,6 +27,7 @@ Una vez instalado Armbian 12 se verá asi:
  Packages:     Debian stable (bookworm)
  IPv4:         (LAN) 192.168.1.x, 10.8.0.1 (WAN) 189.x.x.x
  IPv6:         (WAN) xxx.xxxx.xxxxx.xxxxxx
+ 
 {% endhighlight %}
 
 pero esta SBC no tiene tarjeta WiFi integrada, la cual es necesaria para poder funcionar en modo AP con PiRogue, usé esta USB wifi externa:
@@ -36,9 +37,16 @@ root@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
 
-que ya habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-ROgue en modo Access Point que es la función que mas se adapta a mis necesidades.
+Esta antena externa USB ya habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-Rogue en modo Access Point que es la función que mas se adapta a mis necesidades; que es el analisis de posible Malware y conexiones maliciosas en un dispositivo.
 
-Para instalar PiRogue en un sistema base Debian se agregan los repositorios y se ejecuta lo siguiente:
+Para instalar PiRogue en un sistema base Debian pirmero se actuliza el sistema:
+
+{% highlight python %}
+sudo apt update
+sudo apt upgrade
+{% endhighlight %}
+
+despues se agregan los siguientes repositorios y se ejecuta lo siguiente:
 
 {% highlight python %}
 sudo wget -O /etc/apt/sources.list.d/pirogue.list https://pts-project.org/debian-12/pirogue.list
