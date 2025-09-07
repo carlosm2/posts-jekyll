@@ -8,7 +8,7 @@ categories: pirogue forensic rock64
 
 El proyecto PiRogue Tool Suite [https://pts-project.org/](https://pts-project.org/) - Open-Source Platform for Mobile Device Forensics and Digital Investigations (Plataforma de código abierto para análisis forense de dispositivos móviles e investigaciones digitales) pone a nuestra disposición algunas herramientas / software para el análisis forense, en mi caso desde hace algunos años necesitaba de algo asi, por lo que me dispuse a instalar una Pi-Rogue.
 
-En la documentación oficial mencionan Raspberry Pis para instalarla, yo solo tengo algunas Raspberry Pis 3B+, la cual solo tiene  1 GB RAM, insuficiente para ejecutar Suricata  por lo que opté por instalar en una Single Board Computer (SBC) PINE rock64 [https://pine64.org/devices/rock64/](https://pine64.org/devices/rock64/) en la cual primero tenia que instalarle Debian 12, mi sistema operativo de cabecera.
+En la documentación oficial mencionan Raspberry Pis para instalarla, yo solo tengo algunas Raspberry Pis 3B+, las cuales solo tienen 1 GB de memoria RAM, insuficiente para ejecutar Suricata  por lo que opté por instalar en una Single Board Computer (SBC) PINE rock64 [https://pine64.org/devices/rock64/](https://pine64.org/devices/rock64/) en la cual primero tenia que instalarle Debian 12, mi sistema operativo de cabecera.
 
 De esta dirección web se pueden descargar las diferentes versiones de Armbian que se pueden instalar en esa PINE Rock64:
 [https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/) En mi caso elijo instalar la versión basada en Debian Bookworm (12) porque en la Documentación de PTS Project esta documentado que se puede instalar en sistemas Debian 12:
