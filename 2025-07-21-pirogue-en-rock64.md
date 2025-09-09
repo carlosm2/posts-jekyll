@@ -33,20 +33,20 @@ Una vez instalado Armbian 12 se verá asi:
 pero esta SBC no tiene tarjeta WiFi integrada, la cual es necesaria para poder funcionar en modo AP con PiRogue, usé esta USB wifi externa:
 
 {% highlight python %}
-root@rock64:/home/cacu# lsusb
+cacu@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
 
 Esta antena externa USB ya habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-Rogue en modo Access Point que es la función que mas se adapta a mis necesidades; que es el analisis de posible Malware y conexiones maliciosas en un dispositivo.
 
-Para instalar PiRogue en un sistema base Debian pirmero se actuliza el sistema:
+Para instalar PiRogue en un sistema base Debian primero se actualiza el sistema:
 
 {% highlight python %}
 sudo apt update
 sudo apt upgrade
 {% endhighlight %}
 
-despues se agregan los siguientes repositorios y se ejecuta lo siguiente:
+despues se agregan los siguientes repositorios:
 
 {% highlight python %}
 sudo wget -O /etc/apt/sources.list.d/pirogue.list https://pts-project.org/debian-12/pirogue.list
@@ -55,18 +55,21 @@ sudo apt update
 sudo apt install pirogue-base
 {% endhighlight %}
 
----
+Una vez instalado podemos revisar si quedó bien instalado y el tipo de configuración y contraseñas de acceso:
+
+{% highlight python %}
+pirogue-admin --configuration-tree
+pirogue-admin --current-config
+{% endhighlight %}
 
 para revisar las conexiones existentes ejecutamos este comando:
 
+{% highlight python %}
 root@rock64:/home/cacu# nmcli connection show
 
 NAME                      UUID                    TYPE      DEVICE          
-Wired connection 1        0d5e9649-86ce-masdatos  ethernet  end0            
-lo                        36a9c025-fc84-masdatos  loopback  lo              
+Wired connection 1        0d5e9649-81ce-masdatos  ethernet  end0            
+lo                        36a9c025-f184-masdatos  loopback  lo              
 pirogue-isolated-network  c171297d-8af1-masdatos  wifi      wlxa0f3c109b6cf 
 
-y para verificar la configuración:
-
-pirogue-admin --configuration-tree
-pirogue-admin --current-config
+{% endhighlight %}
