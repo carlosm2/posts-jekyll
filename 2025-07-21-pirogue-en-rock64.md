@@ -29,7 +29,7 @@ Una vez instalado Armbian 12 se verá asi:
  
 {% endhighlight %}
 
-pero esta SBC no tiene tarjeta WiFi integrada, la cual es necesaria para poder funcionar en modo AP con PiRogue, usé esta USB wifi externa:
+Sin embargo, esta SBC no cuenta con una tarjeta WiFi integrada, la cual es necesaria para funcionar en modo punto de acceso (AP) con PiRogue. Por ello, utilicé un adaptador WiFi USB externo:
 
 {% highlight python %}
 cacu@rock64:/home/cacu# lsusb
