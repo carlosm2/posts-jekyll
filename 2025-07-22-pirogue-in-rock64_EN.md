@@ -13,7 +13,7 @@ De esta dirección web se pueden descargar las diferentes versiones de Armbian q
 [https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/) En mi caso elijo instalar la versión basada en Debian Bookworm (12) porque en la Documentación de PTS Project esta documentado que se puede instalar en sistemas Debian 12:
 [https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/](https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/)
 
-Una vez instalado Armbian 12 se verá asi:
+Once Armbian 12 is installed it will look like this:
 
 {% highlight python %}
     _             _    _           
@@ -29,7 +29,7 @@ Una vez instalado Armbian 12 se verá asi:
  
 {% endhighlight %}
 
-pero esta SBC no tiene tarjeta WiFi integrada, la cual es necesaria para poder funcionar en modo AP con PiRogue, usé esta USB wifi externa:
+However, this SBC does not have a built-in WiFi card, which is required to operate in AP mode with PiRogue. Therefore, I used an external USB WiFi adapter:
 
 {% highlight python %}
 cacu@rock64:/home/cacu# lsusb
