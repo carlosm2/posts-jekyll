@@ -9,8 +9,8 @@ The project PiRogue Tool Suite [https://pts-project.org/](https://pts-project.or
 
 The official documentation mentions Raspberry Pis as a supported option for installation. However, I only have a few Raspberry Pi 3B+ boards, which come with just 1 GB of RAM—insufficient to run Suricata effectively. For that reason, I decided to install it on a Single Board Computer (SBC), the PINE Rock64 (https://pine64.org/devices/rock64/). Before installing Suricata, I first needed to set up Debian 12, which is my favorite operating system.
 
-De esta dirección web se pueden descargar las diferentes versiones de Armbian que se pueden instalar en esa PINE Rock64:
-[https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/) En mi caso elijo instalar la versión basada en Debian Bookworm (12) porque en la Documentación de PTS Project esta documentado que se puede instalar en sistemas Debian 12:
+From this web address you can download the different versions of Armbian that can be installed on that PINE Rock64:
+[https://armbian.tnahosting.net/archive/rock64/archive/](https://armbian.tnahosting.net/archive/rock64/archive/) In my case I choose to install the version based on Debian Bookworm (12) because in the PTS Project Documentation it is documented that it can be installed on Debian 12 systems:
 [https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/](https://pts-project.org/docs/recipes/turn-a-regular-pc-into-a-pirogue/)
 
 Once Armbian 12 is installed it will look like this:
@@ -36,9 +36,9 @@ cacu@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
 
-Esta antena externa USB ya la habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-Rogue en modo Access Point que es la función que mas se adapta a mis necesidades; que es el analisis de posible Malware y conexiones maliciosas en un dispositivo.
+I had already successfully tested this external USB antenna on other Linux distributions, without the need for any additional or special drivers. This makes it possible to install Pi-Rogue in Access Point mode, which best fits my needs: analyzing potential malware threats and malicious connections on a device.
 
-Para instalar PiRogue en un sistema base Debian primero se actualiza el sistema:
+Para instalar PiRogue en un sistema basado en Debian, se recomienda comenzar actualizando el sistema operativo.
 
 {% highlight python %}
 sudo apt update
