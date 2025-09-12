@@ -36,7 +36,7 @@ cacu@rock64:/home/cacu# lsusb
 Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless Adapter
 {% endhighlight %}
 
-Esta antena externa USB ya la habia probado exitosamente en otras distribuciones Linux, que no necesita controladores externos o especiales para funcionar, lo que permite poder instalar Pi-Rogue en modo Access Point que es la función que mas se adapta a mis necesidades; que es el analisis de posible Malware y conexiones maliciosas en un dispositivo.
+Ya había probado exitosamente esta antena USB externa en otras distribuciones Linux, sin necesidad de instalar controladores adicionales o especiales. Esto permite utilizarla para instalar Pi-Rogue en modo Access Point, una función que se adapta perfectamente a mis necesidades: el análisis de posibles amenazas de malware y conexiones maliciosas en un dispositivo.
 
 Para instalar PiRogue en un sistema base Debian primero se actualiza el sistema:
 
