@@ -38,7 +38,7 @@ Bus 002 Device 002: ID 148f:3070 Ralink Technology, Corp. RT2870/RT3070 Wireless
 
 I had already successfully tested this external USB antenna on other Linux distributions, without the need for any additional or special drivers. This makes it possible to install Pi-Rogue in Access Point mode, which best fits my needs: analyzing potential malware threats and malicious connections on a device.
 
-Para instalar PiRogue en un sistema basado en Debian, se recomienda comenzar actualizando el sistema operativo.
+To install PiRogue on a Debian-based system, it is recommended to start by updating the operating system.
 
 {% highlight python %}
 sudo apt update
