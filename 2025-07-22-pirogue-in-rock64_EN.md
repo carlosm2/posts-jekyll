@@ -45,7 +45,7 @@ sudo apt update
 sudo apt upgrade
 {% endhighlight %}
 
-despues se agregan los siguientes repositorios:
+The following repositories are then added:
 
 {% highlight python %}
 sudo wget -O /etc/apt/sources.list.d/pirogue.list https://pts-project.org/debian-12/pirogue.list
