@@ -54,14 +54,14 @@ sudo apt update
 sudo apt install pirogue-base
 {% endhighlight %}
 
-Una vez instalado podemos revisar si quedó bien instalado, el tipo de configuración y las contraseñas de acceso al dashboard:
+Once installed, we can check if it was installed correctly, the type of configuration, and the passwords to access the dashboard:
 
 {% highlight python %}
 pirogue-admin --configuration-tree
 pirogue-admin --current-config
 {% endhighlight %}
 
-para revisar las conexiones existentes ejecutamos este comando:
+To check the existing connections, execute this command:
 
 {% highlight python %}
 root@rock64:/home/cacu# nmcli connection show
