@@ -29,9 +29,9 @@ la impresora te pedirá una contraseña:
 
 utiliza: **6789**
 
-Una vez usada esta contraseña temporal tendras la la opción para reinstalar todo el sistema de fabrica y al reinicio la contraseña será el numero de serie del dispositivo.
+Una vez que hayas utilizado esta contraseña temporal, tendrás la opción de restablecer todo el sistema a los valores de fábrica. Al reiniciar, la nueva contraseña será el número de serie del dispositivo.
 
-La nueva contraseña del administración será el numero de serie de la impresora
+La nueva contraseña de administración será el numero de serie de la impresora
 
 El sistema te pedirá poner nueva contraseña y ahi puedes crear tu nueva contraseña  para poder configurar plenamente tu impresora.
 
