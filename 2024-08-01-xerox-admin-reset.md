@@ -12,14 +12,13 @@ categories: xerox admin setup
   /\  |   | \ \ /  /\ 
  ~  ~ ~~~ ~ ~  ~  ~  ~
 
-Si no tienes la contraseña de algunos equipos Xerox de gama media y ya probaste con el clásico 1111, admin-admin o el numero de serie. 
-Probablemente tengas que resetear el dispositivo.
+Si no tienes la contraseña de algunos equipos Xerox de gama media y ya intentaste con las combinaciones clásicas como **1111**, **admin-admin** o el número de serie, es probable que necesites restablecer el dispositivo.
 
-Para poder resetearlo necesitas paradojicamente la contraseña de administración que puedes obtener de la siguiente manera:
+Sin embargo, para poder realizar el reinicio, paradójicamente, necesitas la contraseña de administrador. Afortunadamente, puedes obtenerla siguiendo estos pasos:
      
 Mantener presionado el boton de Home por 10 segundos
 
-pedirá una contraseña:
+la impresora te pedirá una contraseña:
 
 ──▄▀▀▀▄───────────────
 ──█───█───────────────
@@ -34,6 +33,6 @@ Una vez usada esta contraseña temporal tendras la la opción para reinstalar to
 
 La nueva contraseña del administración será el numero de serie de la impresora
 
-El sistema te pedirá poner nueva contraseña y ahi puedes tener tu nueva contraseña para poder configurar plenamente tu impresora.
+El sistema te pedirá poner nueva contraseña y ahi puedes crear tu nueva contraseña  para poder configurar plenamente tu impresora.
 
 
