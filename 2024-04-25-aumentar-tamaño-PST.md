@@ -17,7 +17,7 @@ categories: outlook mocosoft powershell
            '.    =='^'==     .'
              `'------------'`
 
-Micro$oft Outlook tiene limites de tamaño a 50 GB, lo cual es demasiado y de por si hace dificil manejar comodamente este programa, si tienen
+Micro$oft Outlook tiene limites de tamaño a 50 GB, lo cual es demasiado (porque no es manejable para cualquier sistema de archivos y software manejar un archivo tan grandes)  y de por si hace dificil manejar comodamente este programa, si tienen
 el caso de tener que habilitar un tamaño mayor para que outlook siga funcionando tienen que editar este archivo del registro.
 
 {% highlight ruby %}
