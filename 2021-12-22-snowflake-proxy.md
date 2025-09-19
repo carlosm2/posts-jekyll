@@ -43,7 +43,7 @@ Que básicamente cuando ya tienes tu sistema operativo funcional, (desde hace mu
  
 ### instalar golang 
 
-Buscamos la versi\u00f3n para **LinuxARM64**
+Buscamos la versión para **LinuxARM64**
  
 [https://go.dev/dl/](https://go.dev/dl/)
 
