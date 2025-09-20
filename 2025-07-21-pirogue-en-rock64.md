@@ -4,6 +4,7 @@ title:  "Instalar PiRogue en una PINE Rock64"
 date:   2025-07-21 12:32:00
 categories: pirogue forensic rock64 debian
 ---
+# Instalar PiRogue en una PINE Rock64
 
 El proyecto PiRogue Tool Suite [https://pts-project.org/](https://pts-project.org/) - Open-Source Platform for Mobile Device Forensics and Digital Investigations (Plataforma de código abierto para análisis forense de dispositivos móviles e investigaciones digitales) pone a nuestra disposición algunas herramientas / software para el análisis forense, en mi caso desde hace algunos años necesitaba de algo asi, por lo que me dispuse a instalar una Pi-Rogue.
 
