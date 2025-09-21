@@ -5,7 +5,7 @@ date:   2021-11-02 12:32:00
 categories: softwarelibre hackerspace mexico
 ---
 
-Carta enviada a listas de correo para invitar a crear un Hackerspace en Ciudad de México el 9 de marzo 2013
+# Carta enviada a listas de correo para invitar a crear un Hackerspace en Ciudad de México el 9 de marzo 2013
 
 
                 /||\
@@ -86,4 +86,4 @@ http://www.cibernetx.com/eventos/sedes-de-eventos/147-cooperativa-crater-inverti
 HackLab Autónomo
 Iva, Jaime, Carlosm2 (cacu), Chiwy, Pirra, Ventolinmono
 
-# Primera semana de marzo 2013
+9 de marzo del 2013
