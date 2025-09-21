@@ -4,6 +4,22 @@ title:  "Lista Fediverso - Software Libre, hackerspaces"
 date:   2024-12-01 12:32:00
 categories: fediverso freesoftware hackerspace softwarelibre
 ---
+# Lista Fediverso
+
+           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            
+       ▓▓▓▓▓▓▒▒▒▓▓▓▓▓▒▒▒▓▓▓▓▓▓           
+      ▓▓▓▓▓▒░░░░░░▓░░░░░░▒▓▓▓▓▓          
+      ▓▓▓▓▓░░▒▓▓▓░░░▓▓▓▓░░▓▓▓▓▓          
+      ▓▓▓▓▓░░▓▓▓▓░░░▓▓▓▓░░▓▓▓▓▓          
+      ▓▓▓▓▓░░▓▓▓▓░░░▓▓▓▓░░▓▓▓▓▓          
+      ▓▓▓▓▓░░▓▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓          
+      ▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓           
+       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            
+       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               
+        ▓▓▓▓▓▓                           
+         ▓▓▓▓▓▓▓▓   ▓▓▓                  
+           ▓▓▓▓▓▓▓▓▓▓▓▓       
 
 Una recopilación de cuentas de proyectos de Software Libre - Hackerspaces y Distros en el Fediverso
 An index of Free and Open Source Software projects, Distros and Hackerspaces on the Fediverse
