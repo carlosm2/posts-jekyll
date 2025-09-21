@@ -74,7 +74,7 @@ I collaborate and have collaborated on various projects and collectives focused 
 * I manage ooniprobe-cli on two Raspberry Pis to collect measurements. [https://ooni.org/install/cli](https://ooni.org/install/cli)
 * Peertube video on installing ooniprobe-cli on a raspberrypi 3b+ [https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC](https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC)
 
-## MayFirst Coop Member
+## May First Movement Technology
 
 * Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
 * Board Member: [https://mayfirst.coop/en/who/](https://mayfirst.coop/en/who/)
@@ -82,7 +82,7 @@ I collaborate and have collaborated on various projects and collectives focused 
 
 ## Social Coop Member
 
-* Social.coop is a cooperative corner of the Fediverse [https://wiki.social.coop](https://wiki.social.coop)
+* Social.coop is a cooperative space within the Fediverse, where I have been participating via Loomio since 2018: [https://wiki.social.coop](https://wiki.social.coop)
 
 ## Patio Cooperatives
 
@@ -96,7 +96,9 @@ I collaborate and have collaborated on various projects and collectives focused 
   
 ## Hackerspace Rancho Electrónico
 
-Cofundé y colaboré durante 9 años:
+Fui cofundador de este hackerspace y particip\u00e9 activamente en \u00e9l durante nueve a\u00f1os:
+I was a co-founder of this hackerspace and actively contributed to it for nine years:
+
 * Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
