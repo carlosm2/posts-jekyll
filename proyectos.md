@@ -122,7 +122,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 
 ## Fichas de busqueda de personas desaparecidas
 
-I have created and manage two channels dedicated to sharing search profiles for missing persons: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
+I have created and manage two channels dedicated to sharing search profiles for missing persons of México: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
 
 ## Contributions to the localization and translation of tools supporting Free Software and digital privacy advocacy.
 
