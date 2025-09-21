@@ -6,6 +6,20 @@ categories: pirogue forensic rock64 debian
 ---
 # Install PiRogue on a Pine Rock64
 
+          ▒▒▒              
+       ▒  ▒▒▒  ▒           
+      ▒▒  ▒▒▒  ▒▒          
+      ▒▒▒▒▒▒▒▒▒▒▒          
+   ▓▓▓▓  ▒▒▒▒▒  ▓▓▓▓       
+   ▓▓▓▓▓▓  ▓  ▓▓▓▓▓▓       
+   ▓  ░▓▓▓▓▓▓▓▓▓░  ▓       
+  ██░  ▓▓▓▓▓▓▓▓▓  ░██      
+   ██████  ░  ██████       
+    ███  █████  ███        
+      ███████████          
+          ▓█▓              
+           █          
+
 he project PiRogue Tool Suite [https://pts-project.org/](https://pts-project.org/) - Open-Source Platform for Mobile Device Forensics and Digital Investigations provides us with some tools/software for forensic analysis. In my case, I needed something like this for a few years, so I decided to install a Pi-Rogue.
 
 The official documentation mentions Raspberry Pis as a supported option for installation. However, I only have a few Raspberry Pi 3B+ boards, which come with just 1 GB of RAM—insufficient to run Suricata effectively. For that reason, I decided to install it on a Single Board Computer (SBC), the PINE Rock64 (https://pine64.org/devices/rock64/). Before installing Suricata, I first needed to set up Debian 12, which is my favorite operating system.
