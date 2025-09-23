@@ -18,3 +18,12 @@ A partir de ese laboratorio, me animé a crear una página web para recopilar la
 Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muchas de las paginas que he realizado ya no viven, no siquiera en archive.org). De hecho, también diseñé —en algunos fines de semana— el sitio web que se mantuvo durante al menos siete años como la cara visible del hackerspace Rancho Electrónico, y que permaneció hasta el final.
 
 ## 1. Ingredientes
+
+* medio kilo de garbanzos
+* un monojo de cilantro fresco
+* media cabeza de ajo
+* aceite de oliva
+* un poco de chipotle adobado
+* comino molido
+* alguna espcia del medio oriente que tengan
+* 
