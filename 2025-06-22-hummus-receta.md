@@ -9,8 +9,12 @@ categories: comida receta hummus
 
 ## 0. Diseño de algunos sitios web
 
-La primera vez que voy a documentar en este sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas. Hace algunos años en el [espacio colectivo](https://cacu.tech/softwarelibre/mexico/ranchoelectronico/hackerspace/2022/04/27/talleres-9anhos-enrancho.html) que junto a otras compas cofundé 
-en uno de los momentos mas prolificos de ese espacio tuvimos un laboratorio de comida vegana. De ese proceso ademas hice una página [https://cocina.espora.org/](https://cocina.espora.org/) , una mas de las muchas que he realizado, que por cierto 
-el diseño que duró al menos 5 años en hackerspace rancho electrónico y que estuvo hasta el final fue realizado por mi.
+La primera vez que voy a documentar en mi sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas, pues he llevado a varias reuniones esta versión. 
+
+Hace algunos años, en el [espacio colectivo](https://cacu.tech/softwarelibre/mexico
+ que cofundé junto con otras compas y donde colaboré de distintas formas, en uno de los momentos más prolíficos del proyecto se realizaba un laboratorio de comida vegana los domingos despues de la clase de yoga.
+
+A partir de ese laboratorio, me animé a crear una página web para recopilar las recetas que íbamos utilizando: https://cocina.espora.org/
+Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muchas de las paginas que he realizado ya no viven, no siquiera en archive.org). De hecho, también diseñé —en algunos fines de semana— el sitio web que se mantuvo durante al menos siete años como la cara visible del hackerspace Rancho Electrónico, y que permaneció hasta el final.
 
 ## 1. Ingredientes
