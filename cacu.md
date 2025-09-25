@@ -27,9 +27,5 @@ Pani -pariyutsi, tsikere pepunua
   *  Pixelfed (alternativa libre y federada tipo instagram)
   *  Pixelfed Milpamerica (alternativa libre y federada, tipo instagram)
   *  Peertube Fediverse.tv (alternativa libre y federada tipo youtube)
- 
-  
-  
 
-
-Contacto: 
+* Contacto: 
