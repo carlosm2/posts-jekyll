@@ -26,4 +26,5 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 * un poco de chipotle adobado
 * comino molido
 * alguna espcia del medio oriente que tengan
-* 
+
+## 2. Procedimiento
