@@ -79,7 +79,7 @@ pirogue-admin --current-config
 To check the existing connections, execute this command:
 
 {% highlight python %}
-root@rock64:/home/cacu# nmcli connection show
+cacu@rock64:/home/cacu#sudo nmcli connection show
 
 NAME                      UUID                    TYPE      DEVICE          
 Wired connection 1        0d5e9649-81ce-masdatos  ethernet  end0            
