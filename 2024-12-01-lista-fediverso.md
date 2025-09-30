@@ -26,9 +26,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Free Sofware Distros
 
-* Debian https://framapiaf.org/@debian
-* Mobian https://fosstodon.org/@mobian
-* Qubes OS https://mastodon.social/@QubesOS
+* Debian [https://framapiaf.org/@debian](https://framapiaf.org/@debian)
+* Mobian [https://fosstodon.org/@mobian](https://fosstodon.org/@mobian)
+* Qubes OS [https://mastodon.social/@QubesOS](https://mastodon.social/@QubesOS)
 * Canonical Ubuntu https://ubuntu.social/@ubuntu
 * Ubuntu Studio https://mastodon.art/@ubuntustudio
 * Ubuntu Asahi https://social.treehouse.systems/@ubuntuasahi
