@@ -25,7 +25,7 @@ Pasos para dar formato a una lista en nahuatl que necesitaba para ser usada en K
 
 [https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html](https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html)
 
-tuve que buscar una lista
+tuve que buscar una lista de palabras (wordlist)
 
 Afortunadamente tengo amiguis que estan interesades en idiomas originarios y que le mueven a la compu, entonces le pregunté a un par de los que seguro podria obtener respuestas, ya ubicaba varios diccionarios pero queria una lista de palabras que fuera mas o menos fácil de limpiar para tener los datos de forma que se puedan usar por KeepassXC.
 
