@@ -25,7 +25,7 @@ To format a list in Nahuatl, I had to use KeepassXC.
 
 [https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html](https://cacu.tech/softwarelibre,/nahuatl,/keepassxc/2022/06/21/idioma-nahuatl-keepassxc.html)
 
-I had to look for a list
+First, I had to look for a word list
 
 Fortunately, I have friends who are interested in native languages ​​and who are computer-savvy, so I asked a couple of people who I was sure would be able to provide me with answers. I had already found several dictionaries, but I wanted a word list that was relatively easy to clean so I could have the data in a form that could be used by KeepassXC.
 
