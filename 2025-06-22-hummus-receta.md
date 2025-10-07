@@ -7,7 +7,7 @@ categories: comida receta hummus
 
 # Receta de Hummus con cilantro
 
-## 0. Diseño de algunos sitios web
+## 0. Creación de algunos sitios web
 
 La primera vez que voy a documentar en mi sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas, pues he llevado a varias reuniones esta versión. 
 
