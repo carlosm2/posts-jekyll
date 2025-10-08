@@ -25,10 +25,11 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 * aceite de oliva
 * un poco de chipotle adobado
 * comino molido
+* 1/4 de cebolla
 * alguna espcia del medio oriente que tengan en su cocina
 
 ## 2. Procedimiento
 
-* Cocer las garbanzos, yo uso olla express para que sea mas rápido
+* Cocer las garbanzos con diente de ajo y un trozo de cebolla, yo uso olla express para que sea mas rápido
 * Cortar finamente el ajo, moler comino, yo uso un pequeño mortero para moler el comino.
   
