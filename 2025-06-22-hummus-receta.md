@@ -20,10 +20,10 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 ## 1. Ingredientes
 
 * medio kilo de garbanzos
-* un monojo de cilantro fresco
+* un monojo de cilantro fresco (5 pesos mexicanos)
 * media cabeza de ajo
 * aceite de oliva
-* un poco de chipotle adobado
+* lata de chipotle adobado (105g)
 * comino molido
 * 1/4 de cebolla
 * alguna espcia del medio oriente que tengan en su cocina
@@ -31,5 +31,8 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 ## 2. Procedimiento
 
 * Cocer las garbanzos con diente de ajo y un trozo de cebolla, yo uso olla express para que sea mas rápido
-* Cortar finamente el ajo, moler comino, yo uso un pequeño mortero para moler el comino.
+* Cortar finamente el ajo,
+* Moler el comino, yo uso un pequeño mortero para moler el comino.
+* Desinfectar unas ramas de cilantro
+* Abrir una lata de chiles adobados, pero solo usa 1/4 parte, no hay latas mas chicas
   
