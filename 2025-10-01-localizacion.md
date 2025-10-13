@@ -6,7 +6,7 @@ categories: l10n localizacion traduccion softwarelibre
 ---
 
 
-
+.
 
 
 https://cacu.tech/ecsl2020/#/4
