@@ -29,14 +29,14 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Debian [https://framapiaf.org/@debian](https://framapiaf.org/@debian)
 * Mobian [https://fosstodon.org/@mobian](https://fosstodon.org/@mobian)
 * Qubes OS [https://mastodon.social/@QubesOS](https://mastodon.social/@QubesOS)
-* Canonical Ubuntu https://ubuntu.social/@ubuntu
-* Ubuntu Studio https://mastodon.art/@ubuntustudio
-* Ubuntu Asahi https://social.treehouse.systems/@ubuntuasahi
-* Edubuntu https://ubuntu.social/@edubuntu
-* Kubuntu https://fosstodon.org/@kubuntu
-* Lubuntu https://fosstodon.org/@LubuntuOfficial
-* Xubuntu https://floss.social/@xubuntu
-* Qubes OS https://mastodon.social/@QubesOS
+* Canonical Ubuntu [https://ubuntu.social/@ubuntu](https://ubuntu.social/@ubuntu)
+* Ubuntu Studio [https://mastodon.art/@ubuntustudio](https://mastodon.art/@ubuntustudio)
+* Ubuntu Asahi [https://social.treehouse.systems/@ubuntuasahi](https://social.treehouse.systems/@ubuntuasahi)
+* Edubuntu [https://ubuntu.social/@edubuntu](https://ubuntu.social/@edubuntu)
+* Kubuntu [https://fosstodon.org/@kubuntu](https://fosstodon.org/@kubuntu)
+* Lubuntu [https://fosstodon.org/@LubuntuOfficial](https://fosstodon.org/@LubuntuOfficial)
+* Xubuntu [https://floss.social/@xubuntu](https://floss.social/@xubuntu)
+* Qubes OS [https://mastodon.social/@QubesOS](https://mastodon.social/@QubesOS)
 * Alpine Linux https://fosstodon.org/@alpinelinux
 * PostmarketOS https://fosstodon.org/@postmarketOS
 * Fedora Project https://fosstodon.org/@fedora
