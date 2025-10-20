@@ -37,8 +37,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Lubuntu [https://fosstodon.org/@LubuntuOfficial](https://fosstodon.org/@LubuntuOfficial)
 * Xubuntu [https://floss.social/@xubuntu](https://floss.social/@xubuntu)
 * Qubes OS [https://mastodon.social/@QubesOS](https://mastodon.social/@QubesOS)
-* Alpine Linux https://fosstodon.org/@alpinelinux
-* PostmarketOS https://fosstodon.org/@postmarketOS
+* Alpine Linux [https://fosstodon.org/@alpinelinux](https://fosstodon.org/@alpinelinux)
+* PostmarketOS [https://fosstodon.org/@postmarketOS](https://fosstodon.org/@postmarketOS)
 * Fedora Project https://fosstodon.org/@fedora
 * CalyxOS https://fosstodon.org/@calyxos
 * elementary https://mastodon.social/@elementary
