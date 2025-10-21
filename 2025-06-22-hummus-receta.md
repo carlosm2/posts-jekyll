@@ -35,4 +35,8 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 * Moler el comino, yo uso un pequeño mortero para moler el comino.
 * Desinfectar unas ramas de cilantro
 * Abrir una lata de chiles adobados, pero solo usa 1/4 parte, no hay latas mas chicas
+
+## 3 Siguientes pasos
+
+* quita el agua de los garbanzos codidos, a veces le ayuda enjuagarlos para que tengan mejor sabor
   
