@@ -10,6 +10,8 @@ Hace ya diez años comencé a traducir al español algunos proyectos de software
 
 Justamente hace 10 años me involucre cada vez mas, sobretodo porque fue mi trabajo principal renumerado, el compartir capacitaciones en Seguridad Digital 
 
+https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html
+
 https://cacu.tech/ecsl2020/#/4
 
 https://cacu.tech/loc24/
