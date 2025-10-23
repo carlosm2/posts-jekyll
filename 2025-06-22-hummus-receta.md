@@ -27,7 +27,7 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 * comino molido
 * 1/4 de cebolla
 * alguna espcia del medio oriente que tengan en su cocina
-* verduras para acompañar: 
+* verduras para acompañar: zanahoria, jicama, pepino, apio
 
 ## 2. Procedimiento
 
