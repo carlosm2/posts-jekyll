@@ -17,6 +17,7 @@ categories: comida receta hummus
 * lata de chipotle adobado (105g)
 * comino molido
 * 1/4 de cebolla
+* 3 o 4 limones verdes
 * alguna espcia del medio oriente que tengan en su cocina
 * verduras para acompañar: zanahoria, jicama, pepino, apio
 
@@ -31,7 +32,7 @@ categories: comida receta hummus
 ## 3 Siguientes pasos
 
 * quita el agua de los garbanzos codidos, a veces le ayuda enjuagarlos para que tengan mejor sabor
-* mezcla en una 
+* mezcla en una procesadora de alimenos
 * corta algunas verduras para acompañar el hummus
   
 ## 0. Creación de algunos sitios web
