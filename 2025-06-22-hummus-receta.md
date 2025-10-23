@@ -9,7 +9,7 @@ categories: comida receta hummus
 
 ## 0. Creación de algunos sitios web
 
-La primera vez que voy a documentar en mi sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas, pues he llevado a varias reuniones esta versión. 
+La primera vez que voy a documentar en mi sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas, pues he llevado a varias reuniones esta versión acompañada de unas verduras. 
 
 Hace algunos años, en el [espacio colectivo](https://cacu.tech/softwarelibre/mexico
  que cofundé junto con otras compas y donde colaboré de distintas formas, en uno de los momentos más prolíficos del proyecto se realizaba un laboratorio de comida vegana los domingos despues de la clase de yoga.
@@ -27,6 +27,7 @@ Es una de las muchas páginas que he realizado, y una de las que sobrevive, (muc
 * comino molido
 * 1/4 de cebolla
 * alguna espcia del medio oriente que tengan en su cocina
+* verduras para acompañar: 
 
 ## 2. Procedimiento
 
