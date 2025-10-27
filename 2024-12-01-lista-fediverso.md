@@ -42,9 +42,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Fedora Project [https://fosstodon.org/@fedora](https://fosstodon.org/@fedora)
 * CalyxOS [https://fosstodon.org/@calyxos](https://fosstodon.org/@calyxos)
 * elementary [https://mastodon.social/@elementary](https://mastodon.social/@elementary)
-* Linux Mint https://mastodon.social/@linuxmint
-* NixOS https://chaos.social/@nixos_org
-* Arch Linux https://fosstodon.org/@archlinux
+* Linux Mint [https://mastodon.social/@linuxmint](https://mastodon.social/@linuxmint)
+* NixOS [https://chaos.social/@nixos_org](https://chaos.social/@nixos_org)
+* Arch Linux [https://fosstodon.org/@archlinux](https://fosstodon.org/@archlinux)
 * Linux Mint https://mastodon.social/@linuxmint
 * Alpine Linux https://fosstodon.org/@alpinelinux
 * openSUSE Linux https://fosstodon.org/@opensuse
