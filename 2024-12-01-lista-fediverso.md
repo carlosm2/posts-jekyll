@@ -39,9 +39,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Qubes OS [https://mastodon.social/@QubesOS](https://mastodon.social/@QubesOS)
 * Alpine Linux [https://fosstodon.org/@alpinelinux](https://fosstodon.org/@alpinelinux)
 * PostmarketOS [https://fosstodon.org/@postmarketOS](https://fosstodon.org/@postmarketOS)
-* Fedora Project https://fosstodon.org/@fedora
-* CalyxOS https://fosstodon.org/@calyxos
-* elementary https://mastodon.social/@elementary
+* Fedora Project [https://fosstodon.org/@fedora](https://fosstodon.org/@fedora)
+* CalyxOS [https://fosstodon.org/@calyxos](https://fosstodon.org/@calyxos)
+* elementary [https://mastodon.social/@elementary](https://mastodon.social/@elementary)
 * Linux Mint https://mastodon.social/@linuxmint
 * NixOS https://chaos.social/@nixos_org
 * Arch Linux https://fosstodon.org/@archlinux
