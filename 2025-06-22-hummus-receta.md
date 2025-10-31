@@ -18,7 +18,7 @@ categories: comida receta hummus
 * comino molido
 * 1/4 de cebolla
 * 3 o 4 limones verdes
-* alguna espcia del medio oriente que tengan en su cocina
+* alguna especia del medio oriente que tengan en su cocina (comino, zatar)
 * verduras para acompañar: zanahoria, jicama, pepino, apio
 
 ## 2. Procedimiento
