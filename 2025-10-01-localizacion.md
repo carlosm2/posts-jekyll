@@ -16,5 +16,7 @@ Presentación sobre Localización en Encuentro de Software Libre de Centroameric
 
 https://cacu.tech/ecsl2020/
 
+Presentación sobre localización en Tor Community Day - Lisboa 2024:
+
 https://cacu.tech/loc24/
 
