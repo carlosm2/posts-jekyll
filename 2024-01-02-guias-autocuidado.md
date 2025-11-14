@@ -27,6 +27,7 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [fanzine1_colibres.pdf](fanzine1_colibres.pdf)
 * [fanzine2_colibres.pdf](fanzine2_colibres.pdf)
 * [fanzine3_colibres.pdf](fanzine3_colibres.pdf)
+* [Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf](Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf) 
 * [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
 * [5.1.-Protegidas-en-Internet-15jan.pdf](https://cacu.tech/guias/5.1.-Protegidas-en-Internet-15jan.pdf)
 * [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/Toolkit-TEDIC_Formato-Digital.pdf)
