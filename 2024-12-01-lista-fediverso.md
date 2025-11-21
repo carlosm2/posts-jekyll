@@ -189,3 +189,4 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * CryptPad https://social.xwiki.com/@CryptPad
 * LimeSurvey https://fosstodon.org/@LimeSurvey
 * GTK https://floss.social/@GTK
+* Collabora Office https://mastodon.social/@CollaboraOffice
