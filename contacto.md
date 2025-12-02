@@ -44,7 +44,7 @@ Huella Digital: 9378 A03E AFC8 4464 9AAC DFAD FF88 B674 8FE5 7577
 
 [https://keys.mailvelope.com/pks/lookup?op=get&search=carlos%40tierracomun.org](https://keys.mailvelope.com/pks/lookup?op=get&search=carlos%40tierracomun.org)
 
-# XMPP/Jabber/correo: carlosm(arroba)mayfirst.org 
+# XMPP/Jabber/correo: carlosm(arroba)mail.mayfirst.org 
 
 # Delta Chat: carlos.chat(arroba)mayfirst.org
 
