@@ -10,7 +10,7 @@ Hace ya diez años comencé a traducir al español algunos proyectos de software
 
 Me fui involucrando cada vez mas en localización, sobretodo porque la capacitación en Seguridad Digital ha sido mi trabajo renumerado principal, el ir haciendo localización de herramientas de privacidad fue un paso nautural para seguir aprendiendo, he tenido diferentes etapas, a veces cuando acompaño a mi pareja en el laboratorio me pongo a localizar.
 
-https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html
+En este texto explico un poco mas sobre mi colaboración con Tails: https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html
 
 Presentación sobre Localización en Encuentro de Software Libre de Centroamerica 2020:
 
