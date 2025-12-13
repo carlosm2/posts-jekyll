@@ -12,7 +12,7 @@ Me fui involucrando cada vez mas en localización, sobretodo porque la capacitac
 
 En este texto explico un poco mas sobre mi colaboración con Tails: https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html
 
-Han sido
+Ademas de colaborar con localizacion he socializado, participado en eventos con el fin de compartir esta experiencia y anima a otres a tambien realizar localización
 
 Presentación sobre Localización en Encuentro de Software Libre de Centroamerica 2020:
 
