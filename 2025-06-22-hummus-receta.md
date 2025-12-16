@@ -8,7 +8,7 @@ categories: comida receta hummus
 # Receta de Hummus con cilantro
 
 
-## 1. Ingredientes
+## 1 - Ingredientes
 
 * medio kilo de garbanzos
 * un monojo de cilantro fresco (5 pesos mexicanos)
@@ -18,10 +18,11 @@ categories: comida receta hummus
 * comino molido
 * 1/4 de cebolla
 * 3 o 4 limones verdes
-* alguna especia del medio oriente que tengan en su cocina (comino, zatar)
+* una cucharadita de comuno
+* alguna especia del medio oriente que tengan en su cocina (zatar)
 * verduras para acompañar: zanahoria, jicama, pepino, apio
 
-## 2. Procedimiento
+## 2 - Procedimiento
 
 * Cocer las garbanzos con un diente de ajo y un trozo de cebolla, yo uso olla express para que sea mas rápido. No olvidar quitar el ajo una vez hervidos los garbanzos.
 * Cortar finamente el ajo,
@@ -29,13 +30,13 @@ categories: comida receta hummus
 * Desinfectar unas ramas de cilantro
 * Abrir una lata de chiles adobados, pero solo usa 1/4 parte, no hay latas mas chicas
 
-## 3 Siguientes pasos
+## 3 - Siguientes pasos
 
 * quita el agua de los garbanzos codidos, a veces le ayuda enjuagarlos para que tengan mejor sabor
 * mezcla en una procesadora de alimenos
 * corta algunas verduras para acompañar el hummus
   
-## 0. Creación de algunos sitios web
+## 0 - Creación de algunos sitios web
 
 La primera vez que voy a documentar en mi sitio una receta, será la de hummus حمص بطحينة que me han pedido algunas personas, pues he llevado a varias reuniones esta versión acompañada de unas verduras. 
 
