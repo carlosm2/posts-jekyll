@@ -38,6 +38,8 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
 * [0009_guia_Saferjourno.pdf](https://cacu.tech/guias/0009_guia_Saferjourno.pdf)
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
+* [amartu_zine_parte1_es_COLOR.pdf]
+* [amartu_zine_parte2_es_COLOR.pdf]
 * [03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf](https://cacu.tech/guias/03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf)
 * [formas-de-acoso-digital.pdf](https://cacu.tech/guias/formas-de-acoso-digital.pdf)
 * [01_Guia-de-acompanamiento.pdf](https://cacu.tech/guias/01_Guia-de-acompanamiento.pdf)
