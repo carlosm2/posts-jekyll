@@ -20,7 +20,7 @@ categories: softwarelibre tor snowflake proxy
 @                                                     ###### ###
 @                                             #    ## ###### ###
 @###############################################################
-   septiembre 2021                               diciembre 2021
+   september 2021                                december 2021
 
 ---------------------
 
