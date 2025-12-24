@@ -25,7 +25,7 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 
 * [EMA-editorial.pdf](https://cacu.tech/guias/EMA-editorial.pdf)
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
-* DefendersProtocol_ES.pdf 
+* [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf) 
 * [fanzine2_colibres.pdf](https://cacu.tech/guias/fanzine2_colibres.pdf)
 * [fanzine3_colibres.pdf](https://cacu.tech/guias/fanzine3_colibres.pdf)
 * [documentacion-difusion-de-imagenes.pdf](documentacion-difusion-de-imagenes.pdf)
