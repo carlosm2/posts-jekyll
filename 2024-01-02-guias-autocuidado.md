@@ -28,9 +28,9 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf) 
 * [fanzine2_colibres.pdf](https://cacu.tech/guias/fanzine2_colibres.pdf)
 * [fanzine3_colibres.pdf](https://cacu.tech/guias/fanzine3_colibres.pdf)
-* [documentacion-difusion-de-imagenes.pdf](documentacion-difusion-de-imagenes.pdf)
-* [estrategias-para-una-busqueda-egura.pdf](estrategias-para-una-busqueda-egura.pdf)
-* [Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf](Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf) 
+* [documentacion-difusion-de-imagenes.pdf](https://cacu.tech/guias/documentacion-difusion-de-imagenes.pdf)
+* [estrategias-para-una-busqueda-egura.pdf](https://cacu.tech/guias/estrategias-para-una-busqueda-egura.pdf)
+* [Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf](https://cacu.tech/guias/Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf) 
 * [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
 * [5.1.-Protegidas-en-Internet-15jan.pdf](https://cacu.tech/guias/5.1.-Protegidas-en-Internet-15jan.pdf)
 * [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/Toolkit-TEDIC_Formato-Digital.pdf)
@@ -38,8 +38,8 @@ Sitio Onion: sera el mismo de cacu.tech http://43k3axnu6mjptk5nluycnryqf55djpgu3
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
 * [0009_guia_Saferjourno.pdf](https://cacu.tech/guias/0009_guia_Saferjourno.pdf)
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
-* [amartu_zine_parte1_es_COLOR.pdf]
-* [amartu_zine_parte2_es_COLOR.pdf]
+* [amartu_zine_parte1_es_COLOR.pdf](amartu_zine_parte1_es_COLOR.pdf)
+* [amartu_zine_parte2_es_COLOR.pdf](amartu_zine_parte2_es_COLOR.pdf)
 * [03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf](https://cacu.tech/guias/03_Guia-de-reparacion-del-dano-y-medidas-de-proteccion-1.pdf)
 * [formas-de-acoso-digital.pdf](https://cacu.tech/guias/formas-de-acoso-digital.pdf)
 * [01_Guia-de-acompanamiento.pdf](https://cacu.tech/guias/01_Guia-de-acompanamiento.pdf)
