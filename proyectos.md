@@ -148,7 +148,7 @@ I have created and manage two channels dedicated to sharing search profiles for 
 * WebRTC Its not Magic – Guide to WebRTC financed by Derechos Digitales and Article 19
 Co author [https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf](https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf)
 * Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It
-Co author: [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
+Co author: [https://web.archive.org/web/20240319085706/https://infraestructura.digital](https://web.archive.org/web/20240319085706/https://infraestructura.digital)
 * CriptoCards – Digital Defense Material financed by WebWeWant
 Co author - [https://criptorally.ranchoelectronico.org](https://criptorally.ranchoelectronico.org)
 * Cyber-Women - Digital Security Curricula
