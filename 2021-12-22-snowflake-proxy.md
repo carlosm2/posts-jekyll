@@ -23,7 +23,7 @@ categories: softwarelibre tor snowflake proxy
 
 
 Escrito:  2021-12-24
-Actualizado: 2024-04-01
+Actualizado: 2026-04-01
 
 Hace algunos meses levanté un *standalone proxy snowflake*
 
@@ -63,11 +63,43 @@ y guardamos los cambios con:
 
 $ source ~/.profile
 
-y verificamos la versi\u00f3n:
+y verificamos la versión:
 
 $ cacu@minipi:~$ go version
 $ go version go1.22.1 linux/arm64
- 
+
+### Crear usuario dedicado
+
+Para mayor seguridad y control creamos un usuario dedicado
+
+$ cacu@minipi:~adduser snowflake
+info: Adding user `snowflake' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `snowflake' (1004) ...
+info: Adding new user `snowflake' (1004) with group `snowflake (1004)' ...
+info: Creating home directory `/home/snowflake' ...
+info: Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for snowflake
+Enter the new value, or press ENTER for the default
+	Full Name []: snowflake
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `snowflake' to supplemental / extra groups `users' ...
+info: Adding user `snowflake' to group `users' ...
+
+### cambiamos al usuario recien creado
+
+$ cacu@minipi:~$ su snowflake
+Password:
+
+$ snowflake@minipi:~$
+
 ### clonar codigo
  
 $ git clone https://git.torproject.org/pluggable-transports/snowflake.git
