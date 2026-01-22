@@ -161,6 +161,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Free Software Foundation https://hostux.social/@fsf
 * Framework https://fosstodon.org/@frameworkcomputer
 * Briar Project https://fosstodon.org/@briar
+* GnuPG https://mstdn.social/@GnuPG
+* OpenProject https://fosstodon.org/@openproject
 * Cwtch https://fosstodon.org/@cwtch
 * Suricata https://infosec.exchange/@suricata
 * NetBlocks https://mastodon.social/@netblocks
