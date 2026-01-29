@@ -16,12 +16,11 @@ categories: privacidad softwarelibre guias
 
 Lista de guias actualizadas en español sobre autocuidado digital 
 
-Repositorio nextcloud en Mayfirst.coop:
+Repositorio Nextcloud en Mayfirst Coop:
 
 [https://share.mayfirst.org/s/6q83cGFTjGaB7Ek](https://share.mayfirst.org/s/6q83cGFTjGaB7Ek)
 
 Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/guias
-
 
 * [EMA-editorial.pdf](https://cacu.tech/guias/EMA-editorial.pdf)
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
