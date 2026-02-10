@@ -95,10 +95,11 @@ I colaborate in various projects and collectives that work toward free and open 
 * [Critical Digital Education for all - JAAKLAC initiative](https://jaaklac.org/criticaldigitaleducation/)
 * [Campaña Educación Digital Crítica para todes- JAAKLAC iniciativa](https://jaaklac.org/es/educaciondigitalcritica/)
 * [Lingua Café Voice: a panorama on language justice in the digital age 2024.](https://open.spotify.com/episode/4hbl04WrF6idb07ZiGx4Ed)
+* Community Education Technology: Transforming Digital Autonomy - Cacu, Soledad, Luis Fer -> [https://jaaklac.org/blog/teccomedu-community25/](https://jaaklac.org/blog/teccomedu-community25/)
   
 ## Hackerspace Rancho Electrónico
 
-Fui cofundador de este hackerspace y particip\u00e9 activamente en \u00e9l durante nueve a\u00f1os:
+Fui cofundador de este hackerspace y participé activamente en él durante nueve años:
 I was a co-founder of this hackerspace and actively contributed to it for nine years:
 
 * Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
@@ -111,6 +112,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 [https://web.archive.org/web/20250410162923/https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS](https://web.archive.org/web/20250410162923/https://pretalx.com/mozfest-2022/talk/review/FAHCC89VPE7AFUMUEFLXDDA8CPGNPZBS)
 * Experiences in Sharing Digital Security Workshops in an Autonomous and Open Hackerspace in Mexico - HOPE 2020 Hackers On Planet Earth
 [https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/](https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/)
+
 ## Hacklab Autónomo
 
 * [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)
@@ -149,6 +151,7 @@ I have created and manage two channels dedicated to sharing search profiles for 
 * WebRTC Its not Magic – Guide to WebRTC financed by Derechos Digitales and Article 19
 Co author [https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf](https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf)
 * Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It
+Co author Community Education Technology: Transforming Digital Autonomy [https://jaaklac.org/blog/teccomedu-community25/](Community Education Technology: Transforming Digital Autonomy)
 Co author: [https://web.archive.org/web/20240319085706/https://infraestructura.digital](https://web.archive.org/web/20240319085706/https://infraestructura.digital)
 * CriptoCards – Digital Defense Material financed by WebWeWant
 Co author - [https://criptorally.ranchoelectronico.org](https://criptorally.ranchoelectronico.org)
