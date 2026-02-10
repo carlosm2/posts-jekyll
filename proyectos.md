@@ -11,9 +11,9 @@ permalink: /proyectos/
 ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣
 ╨━━┗┛┗┛━━┗┛┗┛━━┻
 
-Participo en diversos proyectos y colectivos que trabajan por una tecnolog\u00eda libre y abierta, fortalecen la seguridad digital, fomentan el cuidado colectivo y luchan por la justicia clim\u00e1tica.
+Colaboro en diversos proyectos y colectivos que trabajan por una tecnología libre y abierta, fortalecen la seguridad digital, fomentan el cuidado colectivo y luchan por la justicia climática.
 
-I participate in various projects and collectives that work toward free and open technology, strengthen digital security, promote collective care, and advocate for climate justice.
+I colaborate in various projects and collectives that work toward free and open technology, strengthen digital security, promote collective care, and advocate for climate justice.
 
 ## Github Gitlab
 
@@ -58,7 +58,7 @@ I participate in various projects and collectives that work toward free and open
 
 ## The Tor Project
 
-* Usuario Tor Forum: [https://forum.torproject.org/u/cacu](https://forum.torproject.org/u/cacu)
+* Tor Forum Oficial donde contesto dudas de usuaries / Official Tor Forum where I answer user questions: [https://forum.torproject.org/u/cacu](https://forum.torproject.org/u/cacu)
 * Tor Criptocumbion 2019: [https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/](https://blog.torproject.org/event/criptocumbion-en-el-rancho-mexico/)
 * Tor Meetup 2018: [https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/](https://blog.torproject.org/event/tor-meetup-ciudad-de-mexico/)
 * Evaluation of the Global South Strategy: [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
@@ -79,7 +79,8 @@ I participate in various projects and collectives that work toward free and open
 
 * Coop Main Site: [https://mayfirst.coop/en/](https://mayfirst.coop/en/)
 * Board Member: [https://mayfirst.coop/en/who/](https://mayfirst.coop/en/who/)
-* Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)  
+* Usuario Discourse MayFirst [https://comment.mayfirst.org/u/carlosm/summary](https://comment.mayfirst.org/u/carlosm/summary)
+* Participo en la traducción y actualización de la documentación de ayuda / I contribute to translate and improve the help pages: [https://help.mayfirst.org/en/home](https://help.mayfirst.org/en/home)
 
 ## Social Coop Member
 
