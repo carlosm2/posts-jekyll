@@ -5,7 +5,7 @@ date:   2025-10-01 12:32:00
 categories: l10n localizacion traduccion softwarelibre
 ---
 
-        |                   
+        |
    x---(_)---x      
       o/ \o
 
