@@ -154,7 +154,7 @@ Co author [https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf](h
 Co author Community Education Technology: Transforming Digital Autonomy [https://jaaklac.org/blog/teccomedu-community25/](Community Education Technology: Transforming Digital Autonomy)
 Co author: [https://web.archive.org/web/20240319085706/https://infraestructura.digital](https://web.archive.org/web/20240319085706/https://infraestructura.digital)
 * CriptoCards – Digital Defense Material financed by WebWeWant
-Co author - [https://criptorally.ranchoelectronico.org](https://criptorally.ranchoelectronico.org)
+Co author - [https://web.archive.org/web/20250430104341/https://criptorally.ranchoelectronico.org/](https://web.archive.org/web/20250430104341/https://criptorally.ranchoelectronico.org/)
 * Cyber-Women - Digital Security Curricula
 Consultancy, Review - [https://cyber-women.com](https://cyber-women.com/)
   
