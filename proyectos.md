@@ -102,7 +102,7 @@ I colaborate in various projects and collectives that work toward free and open 
 Fui cofundador de este hackerspace y participé activamente en él durante nueve años:
 I was a co-founder of this hackerspace and actively contributed to it for nine years:
 
-* Hackerspace Rancho Electrónico: [https://ranchoelectronico.org/tag/autodefensadigital](https://ranchoelectronico.org/tag/autodefensadigital)
+* Hackerspace Rancho Electrónico: [https://web.archive.org/web/20250321012837/https://ranchoelectronico.org/tag/autodefensadigital/](https://web.archive.org/web/20250321012837/https://ranchoelectronico.org/tag/autodefensadigital/)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
 * DW Bobs 2015: “El premio, para hablar de lo que pasa en México”:
@@ -116,7 +116,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 ## Hacklab Autónomo
 
 * [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)
-* [https://hacklab.espora.org/hacklab.html](https://hacklab.espora.org/hacklab.html)
+* [https://web.archive.org/web/20260104112244/https://hacklab.espora.org/](https://web.archive.org/web/20260104112244/https://hacklab.espora.org/)
 
 ## Hackmitin
 
