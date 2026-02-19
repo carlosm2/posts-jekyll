@@ -5,9 +5,23 @@ date:   2026-02-02 10:32:00
 categories: peertube softwarelibre fediverse
 ---
 
+          /\ o 
+   o     /_ /~~/
+    \      /\/
+     \    /   
+      \  /   
+,-----------------,
+| ,-----------,   |
+| |           | O |
+| |           | O |
+| |           |...|
+| |___________|I#I|
+|_____________dcau|
+
+
 # Video Tutoriales sobre privacidad con Software Libre
 
-Desde hace varios años me dedico a aprender y compartir sobre cuidado digital / seguridad digital / autocuidado colectivo. Por ello, en ocasiones elaboro pequeños tutoriales, especialmente cuando no existen materiales previos, que no están disponibles en español.
+Desde hace varios años me dedico a compartir lo que voy aprendiendo sobre cuidado digital / seguridad digital / autocuidado colectivo. Por ello, en ocasiones elaboro pequeños video tutoriales, especialmente cuando no existen materiales previos, que no están disponibles en español.
 
 En que plataforma tambien es importante, creo firmemente en buscar la descentralización y en los protocolos abiertos, por lo que fue fácil elegir a la comunidad de fediverse.tv para colocar ahi los tutoriales, la gran mayoria de los videos solo están en esa plataforma.
 
