@@ -181,6 +181,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * PET Symposium https://infosec.exchange/@PET_Symposium
 * SecureDrop https://social.freedom.press/@securedrop
 * Inkscape https://mastodon.art/@inkscape
+* DarkTable https://photog.social/@darktable
 * Libre Graphics Meeting https://post.lurk.org/@lgm
 * The Open Source Hardware Association (OSHWA) https://mastodon.social/@oshwassociation
 * Librecast https://chaos.social/@librecast
@@ -192,3 +193,5 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * LimeSurvey https://fosstodon.org/@LimeSurvey
 * GTK https://floss.social/@GTK
 * Collabora Office https://mastodon.social/@CollaboraOffice
+* Flathub https://floss.social/@flathub
+* Gstreamer https://floss.social/@gstreamer
