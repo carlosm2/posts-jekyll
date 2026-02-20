@@ -26,6 +26,8 @@ Desde hace varios años me dedico a compartir lo que voy aprendiendo sobre cuida
 En que plataforma tambien es importante, creo firmemente en buscar la descentralización y en los protocolos abiertos, por lo que fue fácil elegir a la comunidad de fediverse.tv para colocar ahi los tutoriales, la gran mayoria de los videos solo están en esa plataforma.
 
 * [Instalación de PiRogue en una Raspberry Pi 4 - Parte 1](https://fediverse.tv/w/iVZiYVN32YVB4wFMFxf7Ho)
+  Pasos para instalar [PiRogue](https://pts-project.org/) en una Raspberry Pi 4.
+  
 * [Cómo funciona likebutter.app (comolamantequilla)](https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD)
 * [Instalar "comolamantequilla" en una microSD para una raspberry pi](https://fediverse.tv/w/xbYH8kHKozWFVyDyi1zmJ5)
 * [Actualizar Tails via clonación](https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq)
