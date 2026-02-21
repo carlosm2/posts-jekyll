@@ -4,20 +4,17 @@ title:  "Video Tutoriales sobre privacidad con Software Libre"
 date:   2026-02-02 10:32:00
 categories: peertube softwarelibre fediverse
 ---
-
-          /\ o 
-   o     /_ /~~/
-    \      /\/
-     \    /   
-      \  /   
-,-----------------,
-| ,-----------,   |
-| |           | O |
-| |           | O |
-| |           |...|
-| |___________|I#I|
-|_____________dcau|
-
+         \  /
+          \/
+.===============.
+| .-----------. |
+| |           | |
+| |  cacukin  | |
+| |           | |   __
+| '-----------'o|  |o.|
+|===============|  |::|
+|               |  |::|
+'==============='  '--'
 
 # Video Tutoriales sobre privacidad con Software Libre
 
