@@ -187,6 +187,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Librecast https://chaos.social/@librecast
 * KDE https://floss.social/@kde
 * PINE64 EU https://fosstodon.org/@pine64eu
+* MediaWiki https://wikis.world/@mediawiki
 * UBports https://mastodon.social/@ubports
 * LibreWolf https://chaos.social/@librewolf
 * CryptPad https://social.xwiki.com/@CryptPad
