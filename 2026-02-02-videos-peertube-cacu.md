@@ -14,7 +14,7 @@ categories: peertube softwarelibre fediverse
 | '-----------'o|  |o.|
 |===============|  |::|
 |               |  |::|
-'==============='  '--'
+'==============='  '--'https://snowflake.torproject.org/
 
 # Video Tutoriales sobre privacidad con Software Libre
 
@@ -40,8 +40,10 @@ En que plataforma tambien es importante, creo firmemente en buscar la descentral
 ## Agregar Nahuatl al generador de contraseñas de KeepassXC.
 * [https://fediverse.tv/w/m1GYXX3q8H7CVZYhPwVXea](https://fediverse.tv/w/m1GYXX3q8H7CVZYhPwVXea)
 
+## Instalar [ooniprobe-cli](https://ooni.org/install/cli) en una raspberrypi 3B+. 
+* [https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC](https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC)
 
-* [Instalar ooniprobe-cli en raspberrypi 3b+](https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC)
-* [Instalar Tor snowflake proxy en servidor Ubuntu 22.04](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
+## Instalar [Tor Snowflake](https://snowflake.torproject.org/) proxy en servidor Ubuntu 22.04.
+* [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
 
 
