@@ -56,11 +56,11 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
   
 ## Hackerspaces
 
-* Hacklab Logout https://bcn.fedi.cat/users/logout
-* Laboratory B https://vermont.masto.host/@LabB
-* RLAB Hacklab https://mastodon.uy/@rlab
-* Libre Base https://mastodon.uy/@librebase
-* hackershell https://social.anoxinon.de/@hackershell
+* Hacklab Logout [https://bcn.fedi.cat/users/logout](https://bcn.fedi.cat/users/logout)
+* Laboratory B [https://vermont.masto.host/@LabB](https://vermont.masto.host/@LabB)
+* RLAB Hacklab [https://mastodon.uy/@rlab](https://mastodon.uy/@rlab)
+* Libre Base [https://mastodon.uy/@librebase](https://mastodon.uy/@librebase)
+* hackershell [https://social.anoxinon.de/@hackershell](https://social.anoxinon.de/@hackershell)
 * c-base e.V. https://chaos.social/@cbase
 * metalab https://chaos.social/@metalab
 * Hackerspace Pomorze https://0x3c.pl/@hspsh
