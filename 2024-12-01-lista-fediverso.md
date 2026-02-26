@@ -61,19 +61,19 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * RLAB Hacklab [https://mastodon.uy/@rlab](https://mastodon.uy/@rlab)
 * Libre Base [https://mastodon.uy/@librebase](https://mastodon.uy/@librebase)
 * hackershell [https://social.anoxinon.de/@hackershell](https://social.anoxinon.de/@hackershell)
-* c-base e.V. https://chaos.social/@cbase
-* metalab https://chaos.social/@metalab
-* Hackerspace Pomorze https://0x3c.pl/@hspsh
-* RevSpace: Hackerspace Den Haag https://hsnl.social/@revspace
-* hack42 https://chaos.social/@hack42
-* Hackerspace Kraków https://social.hackerspace.pl/@hskrk
-* Knyfyrtel Hackerspace Poznań https://fosstodon.org/@hspoz
-* Electromagnetic Field https://social.emfcamp.org/@emf
-* Leigh Hackspace https://mastodon.social/@leigh_hackspace
-* Cheltenham Hackspace https://mastodonapp.uk/@cheltenham_hackspace
-* hackerspace Brussels https://mastodon.online/@HSBXL
-* Hitchin Hackspace https://techhub.social/@hackhitchin
-* Nottingham Hackspace https://hachyderm.io/@nottinghack
+* c-base e.V. [https://chaos.social/@cbase](https://chaos.social/@cbase)
+* metalab [https://chaos.social/@metalab](https://chaos.social/@metalab)
+* Hackerspace Pomorze [https://0x3c.pl/@hspsh](https://0x3c.pl/@hspsh)
+* RevSpace: Hackerspace Den Haag [https://hsnl.social/@revspace](https://hsnl.social/@revspace)
+* hack42 [https://chaos.social/@hack42](https://chaos.social/@hack42)
+* Hackerspace Kraków [https://social.hackerspace.pl/@hskrk](https://social.hackerspace.pl/@hskrk)
+* Knyfyrtel Hackerspace Poznań [https://fosstodon.org/@hspoz](https://fosstodon.org/@hspoz)
+* Electromagnetic Field [https://social.emfcamp.org/@emf](https://social.emfcamp.org/@emf)
+* Leigh Hackspace [https://mastodon.social/@leigh_hackspace](https://mastodon.social/@leigh_hackspace)
+* Cheltenham Hackspace [https://mastodonapp.uk/@cheltenham_hackspace](https://mastodonapp.uk/@cheltenham_hackspace)
+* hackerspace Brussels [https://mastodon.online/@HSBXL](https://mastodon.online/@HSBXL)
+* Hitchin Hackspace [https://techhub.social/@hackhitchin](https://techhub.social/@hackhitchin)
+* Nottingham Hackspace [https://hachyderm.io/@nottinghack](https://hachyderm.io/@nottinghack)
 * Hackerspace TDvenlo https://hsnl.social/@TDvenlo
 * York Hackspace https://mastodonapp.uk/@yorkhackspace
 * Le BIB Hackerspace https://social.bim.land/@lebib
