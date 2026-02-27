@@ -74,19 +74,19 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * hackerspace Brussels [https://mastodon.online/@HSBXL](https://mastodon.online/@HSBXL)
 * Hitchin Hackspace [https://techhub.social/@hackhitchin](https://techhub.social/@hackhitchin)
 * Nottingham Hackspace [https://hachyderm.io/@nottinghack](https://hachyderm.io/@nottinghack)
-* Hackerspace TDvenlo https://hsnl.social/@TDvenlo
-* York Hackspace https://mastodonapp.uk/@yorkhackspace
-* Le BIB Hackerspace https://social.bim.land/@lebib
-* Calango Hacker Clube https://bolha.us/@calangohc
-* Hacklabor https://chaos.social/@hacklabor
-* Open Labs Hackerspace https://fosstodon.org/@OpenLabsAlbania
-* Hakierspejs (Łódź Hackerspace) https://mas.to/@hslodz
-* Hackfun Rosario https://rebel.ar/@hackfun
-* Hackerspace Valencia https://mastodon.social/@Hackerspace_VLC
-* shackspace https://mastodon.social/@shackspace
-* Hackerspace Brussels https://mastodon.online/@HSBXL
-* tinycore lab https://corteximplant.com/@tinycore_lab
-* LeineLab https://chaos.social/@leinelab
+* Hackerspace TDvenlo [https://hsnl.social/@TDvenlo](https://hsnl.social/@TDvenlo)
+* York Hackspace [https://mastodonapp.uk/@yorkhackspace](https://mastodonapp.uk/@yorkhackspace)
+* Le BIB Hackerspace [https://social.bim.land/@lebib](https://social.bim.land/@lebib)
+* Calango Hacker Clube [https://bolha.us/@calangohc](https://bolha.us/@calangohc)
+* Hacklabor [https://chaos.social/@hacklabor](https://chaos.social/@hacklabor)
+* Open Labs Hackerspace [https://fosstodon.org/@OpenLabsAlbania](https://fosstodon.org/@OpenLabsAlbania)
+* Hakierspejs (Łódź Hackerspace) [https://mas.to/@hslodz](https://mas.to/@hslodz)
+* Hackfun Rosario [https://rebel.ar/@hackfun](https://rebel.ar/@hackfun)
+* Hackerspace Valencia [https://mastodon.social/@Hackerspace_VLC](https://mastodon.social/@Hackerspace_VLC)
+* shackspace [https://mastodon.social/@shackspace](https://mastodon.social/@shackspace)
+* Hackerspace Brussels [https://mastodon.online/@HSBXL](https://mastodon.online/@HSBXL)
+* Tinycore lab [https://corteximplant.com/@tinycore_lab](https://corteximplant.com/@tinycore_lab)
+* LeineLab [https://chaos.social/@leinelab](https://chaos.social/@leinelab)
 
 ## Cooperatives
 
