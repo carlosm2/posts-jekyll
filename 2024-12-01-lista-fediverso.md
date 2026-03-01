@@ -45,14 +45,14 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Linux Mint [https://mastodon.social/@linuxmint](https://mastodon.social/@linuxmint)
 * NixOS [https://chaos.social/@nixos_org](https://chaos.social/@nixos_org)
 * Arch Linux [https://fosstodon.org/@archlinux](https://fosstodon.org/@archlinux)
-* Linux Mint https://mastodon.social/@linuxmint
-* Alpine Linux https://fosstodon.org/@alpinelinux
-* openSUSE Linux https://fosstodon.org/@opensuse
-* AlmaLinux https://fosstodon.org/@almalinux
-* Asahi Linux https://social.treehouse.systems/@AsahiLinux
-* CentOS https://fosstodon.org/@centos
-* Rocky Linux https://fosstodon.org/@rockylinux
-* Whonix https://fosstodon.org/@whonix
+* Linux Mint [https://mastodon.social/@linuxmint](https://mastodon.social/@linuxmint)
+* Alpine Linux [https://fosstodon.org/@alpinelinux](https://fosstodon.org/@alpinelinux)
+* openSUSE Linux [https://fosstodon.org/@opensuse](https://fosstodon.org/@opensuse)
+* AlmaLinux [https://fosstodon.org/@almalinux](https://fosstodon.org/@almalinux)
+* Asahi Linux [https://social.treehouse.systems/@AsahiLinux](https://social.treehouse.systems/@AsahiLinux)
+* CentOS [https://fosstodon.org/@centos](https://fosstodon.org/@centos)
+* Rocky Linux [https://fosstodon.org/@rockylinux](https://fosstodon.org/@rockylinux)
+* Whonix [https://fosstodon.org/@whonix](https://fosstodon.org/@whonix)
   
 ## Hackerspaces
 
