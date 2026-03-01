@@ -90,11 +90,11 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Cooperatives
 
-* Tierra Comun coop https://social.coop/@tierra_comun
-* May First Movement Technology https://social.coop/@mayfirst
-* coopnews https://social.coop/@coopnews
-* Patio Coops https://social.coop/@patio
-* CoopNews https://social.coop/@coopnews
+* Tierra Comun Coop [https://social.coop/@tierra_comun](https://social.coop/@tierra_comun)
+* May First Movement Technology [https://social.coop/@mayfirst](https://social.coop/@mayfirst)
+* CoopNews [https://social.coop/@coopnews](https://social.coop/@coopnews)
+* Patio Coops [https://social.coop/@patio](https://social.coop/@patio)
+* CoopNews [https://social.coop/@coopnews](https://social.coop/@coopnews)
 * Sutty https://todon.nl/@sutty
 * Olatukoop https://mastodon.eus/@Olatukoop
 * Autonomic Co-op https://sunbeam.city/@autonomic
