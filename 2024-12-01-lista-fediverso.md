@@ -95,14 +95,14 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * CoopNews [https://social.coop/@coopnews](https://social.coop/@coopnews)
 * Patio Coops [https://social.coop/@patio](https://social.coop/@patio)
 * CoopNews [https://social.coop/@coopnews](https://social.coop/@coopnews)
-* Sutty https://todon.nl/@sutty
-* Olatukoop https://mastodon.eus/@Olatukoop
-* Autonomic Co-op https://sunbeam.city/@autonomic
-* Talaios kooperatiba https://mastodon.eus/@Talaioskoop
-* KoopFabrika https://mastodon.eus/@koopfabrika
-* Koop57 Euskal Herria https://mastodon.eus/@koop57eh
-* Coòpolis https://mastodon.economiasocial.org/@coopolis
-* Ponent Coopera https://mastodon.economiasocial.org/@ponentcoopera
+* Sutty [https://todon.nl/@sutty](https://todon.nl/@sutty)
+* Olatukoop [https://mastodon.eus/@Olatukoop](https://mastodon.eus/@Olatukoop)
+* Autonomic Co-op [https://sunbeam.city/@autonomic](https://sunbeam.city/@autonomic)
+* Talaios kooperatiba [https://mastodon.eus/@Talaioskoop](https://mastodon.eus/@Talaioskoop)
+* KoopFabrika [https://mastodon.eus/@koopfabrika](https://mastodon.eus/@koopfabrika)
+* Koop57 Euskal Herria [https://mastodon.eus/@koop57eh]
+* Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
+* Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
 * Jamgo, cooperativa tecnològica https://mastodon.social/@jamgo
 * Talaios kooperatiba https://mastodon.eus/@Talaioskoop
 * KoopFabrika https://mastodon.eus/@koopfabrika
