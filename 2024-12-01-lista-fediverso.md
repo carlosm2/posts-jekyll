@@ -103,13 +103,13 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Koop57 Euskal Herria [https://mastodon.eus/@koop57eh]
 * Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
 * Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
-* Jamgo, cooperativa tecnològica https://mastodon.social/@jamgo
-* Talaios kooperatiba https://mastodon.eus/@Talaioskoop
-* KoopFabrika https://mastodon.eus/@koopfabrika
-* Koop57 Euskal Herria https://mastodon.eus/@koop57eh
-* Coòpolis https://mastodon.economiasocial.org/@coopolis
-* Ponent Coopera https://mastodon.economiasocial.org/@ponentcoopera
-* Jamgo, cooperativa tecnològica https://mastodon.social/@jamgo
+* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)
+* Talaios kooperatiba [https://mastodon.eus/@Talaioskoop](https://mastodon.eus/@Talaioskoop)
+* KoopFabrika [https://mastodon.eus/@koopfabrika](https://mastodon.eus/@koopfabrika)
+* Koop57 Euskal Herria [https://mastodon.eus/@koop57eh](https://mastodon.eus/@koop57eh)
+* Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
+* Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
+* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)
 * Olatukoop https://mastodon.eus/@Olatukoop	
 * Cooperativa femProcomuns https://mastodon.economiasocial.org/@femprocomuns
 * Grassroots Economic Organizing https://social.coop/@GEO_Collective
