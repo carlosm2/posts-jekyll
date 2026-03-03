@@ -28,13 +28,13 @@ En que plataforma tambien es importante, creo firmemente en buscar la descentral
 ##  Cómo funciona likebutter.app (comolamantequilla) de Guardian Project.
 * [https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD](https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD)
 
-## Instalar "comolamantequilla" (likebutter.app) en una microSD para usar en una raspberry pi. 
+## Instalar "comolamantequilla" [likebutter.app](https://likebutter.app/es/) en una microSD para usar en una raspberry pi. 
 * [https://fediverse.tv/w/xbYH8kHKozWFVyDyi1zmJ5](https://fediverse.tv/w/xbYH8kHKozWFVyDyi1zmJ5)
 
 ## Actualizar memoria USB Tails via clonación.
 * [https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq](https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq)
 
-## Instalar Cliente AppImage de Outline VPN en Sistema Operativo Debian.
+## Instalar Cliente AppImage de [Outline VPN](https://getoutline.org/) en Sistema Operativo Debian.
 * [https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr](https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr)
   
 ## Agregar Nahuatl al generador de contraseñas de KeepassXC.
