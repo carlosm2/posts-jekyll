@@ -110,12 +110,12 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
 * Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
 * Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)
-* Olatukoop https://mastodon.eus/@Olatukoop	
-* Cooperativa femProcomuns https://mastodon.economiasocial.org/@femprocomuns
-* Grassroots Economic Organizing https://social.coop/@GEO_Collective
-* CoopCycle https://mastodon.social/@coopcycle
-* Cooperativa Gafarrons https://mastodon.economiasocial.org/@GafarronsCoop 
-* Traducoop https://social.coop/@traducoop
+* Olatukoop [https://mastodon.eus/@Olatukoop](https://mastodon.eus/@Olatukoop)	
+* Cooperativa femProcomuns [https://mastodon.economiasocial.org/@femprocomuns](https://mastodon.economiasocial.org/@femprocomuns)
+* Grassroots Economic Organizing [https://social.coop/@GEO_Collective](https://social.coop/@GEO_Collective)
+* CoopCycle [https://mastodon.social/@coopcycle](https://mastodon.social/@coopcycle)
+* Cooperativa Gafarrons [https://mastodon.economiasocial.org/@GafarronsCoop](https://mastodon.economiasocial.org/@GafarronsCoop) 
+* Traducoop [https://social.coop/@traducoop](https://social.coop/@traducoop)
 * Co-op Cloud https://social.coop/@coopcloud
 * Institut Coop https://mstdn.ca/@institutcoop
 * Autonomic Co-op https://sunbeam.city/@autonomic
