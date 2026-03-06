@@ -116,13 +116,13 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * CoopCycle [https://mastodon.social/@coopcycle](https://mastodon.social/@coopcycle)
 * Cooperativa Gafarrons [https://mastodon.economiasocial.org/@GafarronsCoop](https://mastodon.economiasocial.org/@GafarronsCoop) 
 * Traducoop [https://social.coop/@traducoop](https://social.coop/@traducoop)
-* Co-op Cloud https://social.coop/@coopcloud
-* Institut Coop https://mstdn.ca/@institutcoop
-* Autonomic Co-op https://sunbeam.city/@autonomic
-* Cambá https://mastodon.online/@cambacoop
-* Cooperativa femProcomuns https://mastodon.economiasocial.org/@femprocomuns
-* Grassroots Economic Organizing https://social.coop/@GEO_Collective
-* CoopCycle https://mastodon.social/@coopcycle
+* Co-op Cloud [https://social.coop/@coopcloud](https://social.coop/@coopcloud)
+* Institut Coop [https://mstdn.ca/@institutcoop](https://mstdn.ca/@institutcoop)
+* Autonomic Co-op [https://sunbeam.city/@autonomic](https://sunbeam.city/@autonomic)
+* Cambá [https://mastodon.online/@cambacoop](https://mastodon.online/@cambacoop)
+* Cooperativa femProcomuns [https://mastodon.economiasocial.org/@femprocomuns](https://mastodon.economiasocial.org/@femprocomuns)
+* Grassroots Economic Organizing [https://social.coop/@GEO_Collective](https://social.coop/@GEO_Collective)
+* CoopCycle [https://mastodon.social/@coopcycle](https://mastodon.social/@coopcycle)
 * Cooperativa Gafarrons https://mastodon.economiasocial.org/@GafarronsCoop 
 * TRADUCOOP https://social.coop/@traducoop
 * Co-op Cloud https://social.coop/@coopcloud
