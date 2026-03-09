@@ -134,16 +134,16 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Xarxa Ateneus Cooperatius XAC [https://mastodon.social/@AteneusCoopCat](https://mastodon.social/@AteneusCoopCat)
 * La Manufacture coopérative [https://mastodon.social/@manucoop](https://mastodon.social/@manucoop)
 * TeleCoop [https://framapiaf.org/@telecoop](https://framapiaf.org/@telecoop)
-* SILICOOP https://mastodon.tetaneutral.net/@silicoop
-* Les-Tilleuls.coop https://mastodon.online/@cooptilleuls
-* La Turbine.coop https://piaille.fr/@TurbineCoop
-* Ouvaton Coop https://mastodon.ouvaton.coop/@ouvaton
-* Village One Cooperative https://toot.village.one/@VillageOneCoop
-* Hypha Worker Co-op https://cosocial.ca/@hyphacoop
-* Yaal Coop https://toot.aquilenet.fr/@yaal
-* Som Energia Mallorca https://mastodon.economiasocial.org/@SomEnergiaMallorca
-* Catalyst Cooperative https://mastodon.energy/@catalystcoop
-* La Teulada https://mastodon.social/@la_teulada
+* SILICOOP [https://mastodon.tetaneutral.net/@silicoop](https://mastodon.tetaneutral.net/@silicoop)
+* Les-Tilleuls.coop [https://mastodon.online/@cooptilleuls](https://mastodon.online/@cooptilleuls)
+* La Turbine.coop [https://piaille.fr/@TurbineCoop](https://piaille.fr/@TurbineCoop)
+* Ouvaton Coop [https://mastodon.ouvaton.coop/@ouvaton](https://mastodon.ouvaton.coop/@ouvaton)
+* Village One Cooperative [https://toot.village.one/@VillageOneCoop](https://toot.village.one/@VillageOneCoop)
+* Hypha Worker Co-op [https://cosocial.ca/@hyphacoop](https://cosocial.ca/@hyphacoop)
+* Yaal Coop [https://toot.aquilenet.fr/@yaal](https://toot.aquilenet.fr/@yaal)
+* Som Energia Mallorca [https://mastodon.economiasocial.org/@SomEnergiaMallorca](https://mastodon.economiasocial.org/@SomEnergiaMallorca)
+* Catalyst Cooperative [https://mastodon.energy/@catalystcoop](https://mastodon.energy/@catalystcoop)
+* La Teulada [https://mastodon.social/@la_teulada](https://mastodon.social/@la_teulada)
 
 ## Free Software Projects
 
