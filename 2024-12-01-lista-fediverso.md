@@ -128,12 +128,12 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Co-op Cloud [https://social.coop/@coopcloud](https://social.coop/@coopcloud)
 * Institut Coop [https://mstdn.ca/@institutcoop](https://mstdn.ca/@institutcoop)
 * Autonomic Co-op [https://sunbeam.city/@autonomic](https://sunbeam.city/@autonomic)
-* Cambá https://mastodon.online/@cambacoop
-* Nubo Coop https://hostux.social/@nubo_coop
-* Ateneu CoopCamp https://mastodon.social/@ateneucoopcamp
-* Xarxa Ateneus Cooperatius XAC https://mastodon.social/@AteneusCoopCat
-* La Manufacture coopérative https://mastodon.social/@manucoop
-* TeleCoop https://framapiaf.org/@telecoop
+* Cambá [https://mastodon.online/@cambacoop](https://mastodon.online/@cambacoop)
+* Nubo Coop [https://hostux.social/@nubo_coop](https://hostux.social/@nubo_coop)
+* Ateneu CoopCamp [https://mastodon.social/@ateneucoopcamp](https://mastodon.social/@ateneucoopcamp)
+* Xarxa Ateneus Cooperatius XAC [https://mastodon.social/@AteneusCoopCat](https://mastodon.social/@AteneusCoopCat)
+* La Manufacture coopérative [https://mastodon.social/@manucoop](https://mastodon.social/@manucoop)
+* TeleCoop [https://framapiaf.org/@telecoop](https://framapiaf.org/@telecoop)
 * SILICOOP https://mastodon.tetaneutral.net/@silicoop
 * Les-Tilleuls.coop https://mastodon.online/@cooptilleuls
 * La Turbine.coop https://piaille.fr/@TurbineCoop
