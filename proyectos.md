@@ -72,7 +72,7 @@ I colaborate in various projects and collectives that work toward free and open 
 * Citizen Lab List contributor: [https://github.com/citizenlab/test-lists](https://github.com/citizenlab/test-lists)
 * Localization OONI: [https://app.transifex.com/otf/ooni-explorer/dashboard/](https://app.transifex.com/otf/ooni-explorer/dashboard/)
 * ooniprobe-cli Workshop Debian Day 2022: [https://web.archive.org/web/20250330050434/https://ranchoelectronico.org/debian-day-2022/](https://web.archive.org/web/20250330050434/https://ranchoelectronico.org/debian-day-2022/)
-* I manage ooniprobe-cli on two Raspberry Pis to collect measurements. [https://ooni.org/install/cli](https://ooni.org/install/cli)
+* I run ooniprobe-cli on two Raspberry Pis to collect measurements with different ISPs. [https://ooni.org/install/cli](https://ooni.org/install/cli)
 * Peertube video on installing ooniprobe-cli on a raspberrypi 3b+ [https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC](https://fediverse.tv/w/q8Ln9bejoyJKMaNachwRfC)
 
 ## May First Movement Technology
@@ -84,7 +84,7 @@ I colaborate in various projects and collectives that work toward free and open 
 
 ## Social Coop Member
 
-* Social.coop is a cooperative space within the Fediverse, where I have been participating via Loomio since 2018: [https://wiki.social.coop](https://wiki.social.coop)
+* Social.coop is a cooperative space within the Fediverse, where I have been participating via Loomio and mastodon instance since 2018: [https://wiki.social.coop](https://wiki.social.coop)
 
 ## Patio Cooperatives
 
@@ -126,7 +126,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 
 ## Fichas de busqueda de personas desaparecidas
 
-I have created and manage two channels dedicated to sharing search profiles for missing persons of México: one on Telegram and another on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
+I have created and manage two channels dedicated to sharing search profiles for missing persons of México: one on Telegram and another one on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
 
 ## Contributions to the localization and translation of tools supporting Free Software and digital privacy advocacy.
 
@@ -145,6 +145,7 @@ I have created and manage two channels dedicated to sharing search profiles for 
 * Security without Borders: [https://app.transifex.com/security-without-borders/](https://app.transifex.com/security-without-borders/)
 * OpenPGP Keys: [https://app.transifex.com/otf/hagrid/dashboard/](https://app.transifex.com/otf/hagrid/dashboard/)
 * Wordlist for KeepassXC in nahuatl (indigenous language) [https://github.com/carlosm2/lista-nahuatl](https://github.com/carlosm2/lista-nahuatl)
+* Privacy Guides: [https://es.crowdin.com/profile/cacum2](https://es.crowdin.com/profile/cacum2)
 
 ## Publications
 
