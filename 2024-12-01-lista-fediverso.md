@@ -147,11 +147,11 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 
 ## Free Software Projects
 
-* Guardian Project: https://social.librem.one/@guardianproject 
-* F-Droid https://floss.social/@fdroidorg
-* The Tor Project: https://mastodon.social/@torproject
-* Codeberg https://social.anoxinon.de/@Codeberg
-* Nextcloud https://mastodon.xyz/@nextcloud
+* Guardian Project: [https://social.librem.one/@guardianproject](https://social.librem.one/@guardianproject ) 
+* F-Droid [https://floss.social/@fdroidorg](https://floss.social/@fdroidorg)
+* The Tor Project: [https://mastodon.social/@torproject](https://mastodon.social/@torproject)
+* Codeberg [https://social.anoxinon.de/@Codeberg](https://social.anoxinon.de/@Codeberg)
+* Nextcloud [https://mastodon.xyz/@nextcloud](https://mastodon.xyz/@nextcloud)
 * SecureDrop https://social.freedom.press/@securedrop
 * Zetlr https://fosstodon.org/@zettlr
 * Tella - Document & Protect https://infosec.exchange/@tella
