@@ -152,13 +152,13 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * The Tor Project: [https://mastodon.social/@torproject](https://mastodon.social/@torproject)
 * Codeberg [https://social.anoxinon.de/@Codeberg](https://social.anoxinon.de/@Codeberg)
 * Nextcloud [https://mastodon.xyz/@nextcloud](https://mastodon.xyz/@nextcloud)
-* SecureDrop https://social.freedom.press/@securedrop
-* Zetlr https://fosstodon.org/@zettlr
-* Tella - Document & Protect https://infosec.exchange/@tella
-* Rocket.Chat https://fosstodon.org/@RocketChat
-* Libera Chat https://fosstodon.org/@liberachat
-* Zulip https://fosstodon.org/@zulip
-* Free Software Foundation https://hostux.social/@fsf
+* SecureDrop [https://social.freedom.press/@securedrop](https://social.freedom.press/@securedrop)
+* Zetlr [https://fosstodon.org/@zettlr](https://fosstodon.org/@zettlr)
+* Tella - Document & Protect [https://infosec.exchange/@tella](https://infosec.exchange/@tella)
+* Rocket.Chat [https://fosstodon.org/@RocketChat](https://fosstodon.org/@RocketChat)
+* Libera Chat [https://fosstodon.org/@liberachat](https://fosstodon.org/@liberachat)
+* Zulip [https://fosstodon.org/@zulip](https://fosstodon.org/@zulip)
+* Free Software Foundation [https://hostux.social/@fsf](https://hostux.social/@fsf)
 * Framework https://fosstodon.org/@frameworkcomputer
 * Briar Project https://fosstodon.org/@briar
 * GnuPG https://mstdn.social/@GnuPG
