@@ -4,7 +4,7 @@ title:  "Increase PST Outlook validity"
 date:   2024-04-26 12:32:00
 categories: outlook mocosoft powershell
 ---
-## Increase PST size validity
+## Increase outlook PST size validity
         __                      __
      .-'  `'.._...-----..._..-'`  '-.
     /                                \
@@ -31,10 +31,10 @@ el caso de tener que habilitar un tamaño mayor para que outlook siga funcionand
 
 {% endhighlight %}
 
-se puede hacer con Powershell 
+it can be done with Powershell 
 [https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4](https://learn.microsoft.com/es-es/powershell/scripting/overview?view=powershell-7.4)
 
-antes de editar hay que respaldar el registro.
+before editing, you have to do a backup.
 
 {% highlight ruby %}
 
