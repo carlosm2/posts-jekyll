@@ -12,7 +12,7 @@ categories: l10n localizacion traduccion softwarelibre
 ║╚╗╔╝╚╗║╚═╝║║║║║
 ╚═╝╚══╝╚═══╝╚╝╚╝
 
-Hace ya mas de diez años comencé a traducir al español algunos proyectos de software libre del idioma inglés a español, inicié colaborando en el proyecto Tails. En ese entonces (en 2012) conocí a varias desarrolladoras del proyecto, personas a las que les tengo cariño. Quise colaborar de alguna manera con algo y la unica cosa que se me ocurria podia ser capaz (en ese momento) fue ayudar en localización a español, en ese entonces casi nadie sabia de la existencia del proyecto Tails. Años despues cada software que me era util para las capacitaciones en Seguridad Digital - Cuidados Digitales, me ponia a buscar donde se podia colaborar cuando el software o la documentación no estaban completamente traducidas. Aunque en algunos proyectos solo dejaba (dejé) unas frases traducidas, en otros pocos si he colaborado por mas tiempo y de forma mas significativa.
+Hace ya mas de diez años comencé a traducir al español algunos proyectos de software libre del idioma inglés a español, inicié colaborando en el proyecto Tails. En ese entonces (en 2012) conocí a varias desarrolladoras del proyecto, personas a las que les tengo cariño y he sido afortunado de seguir viendolas de vez en vez. Quise colaborar de alguna manera con algo y la unica cosa que se me ocurria podia ser capaz (en ese momento) fue ayudar en localización a español. Años despues cada software que me era util para las capacitaciones en Seguridad Digital - Cuidados Digitales, me ponia a buscar donde se podia colaborar cuando el software o la documentación no estaban completamente traducidas. Aunque en algunos proyectos solo dejaba (dejé) unas frases traducidas, en otros pocos proyectos si he colaborado por mas tiempo y de forma mas significativa.
 
 Me fui involucrando cada vez mas en localización, a razon de los procesos de capacitación en Seguridad Digital que ha sido mi trabajo renumerado principal desde hace una decada, el ir haciendo localización de herramientas de privacidad ha sido un paso natural para seguir aprendiendo, de esa manera leo la mayor parte de la documentación oficial, entonces ubico cosas de otros sistemas operativos o casos de uso que de otro modo no leeria.
 
@@ -26,4 +26,6 @@ Presentación desde sitio onion: [http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgn
 Presentación sobre localización en Tor Community Day - Lisboa 2024: [https://cacu.tech/loc24/](https://cacu.tech/loc24/)
 Presentación desde sitio onion: [http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/loc24/](http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/loc24/)
 
-work in progress / en progreso.
+Una lista de algunos proyectos de localización donde colaboro:
+
+
