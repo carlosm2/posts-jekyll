@@ -4,7 +4,7 @@ title:  "Aumentar validez del tamaño del PST Outlook"
 date:   2024-04-25 12:32:00
 categories: outlook mocosoft powershell
 ---
-## Aumentar validez del tamaño del archivo PST de Outlook
+## Cómo aumentar el límite de tamaño del archivo PST de Outlook
         __                      __
      .-'  `'.._...-----..._..-'`  '-.
     /                                \
