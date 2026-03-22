@@ -4,7 +4,7 @@ title:  "Aumentar validez del tamaño del PST Outlook"
 date:   2024-04-25 12:32:00
 categories: outlook mocosoft powershell
 ---
-## Aumentar validez del tamaño del PST Outlook
+## Aumentar validez del tamaño del archivo PST de Outlook
         __                      __
      .-'  `'.._...-----..._..-'`  '-.
     /                                \
@@ -17,8 +17,7 @@ categories: outlook mocosoft powershell
            '.    =='^'==     .'
              `'------------'`
 
-Micro$oft Outlook tiene limites de tamaño a 50 GB, lo cual es demasiado (porque no es manejable para cualquier sistema de archivos y software manejar un archivo tan grandes)  y de por si hace dificil manejar comodamente este programa, si tienen
-el caso de tener que habilitar un tamaño mayor para que outlook siga funcionando tienen que editar este archivo del registro.
+Microsoft Outlook tiene un límite de tamaño de 50 GB, lo que resulta excesivo y dificulta su gestión tanto para el sistema de archivos como para cualquier software que deba manejar archivos de ese tamaño. Si necesitan aumentar este límite para que Outlook funcione correctamente, deberán editar el siguiente archivo del registro.
 
 {% highlight ruby %}
 
