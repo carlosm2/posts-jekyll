@@ -63,12 +63,12 @@ In my case, I'm going to edit the Outlook 2016 registry.
 
 {% endhighlight %}
 
-Agregar un nuevo **DWORD** (32 Bit) Value con el nombre **MaxLargeFileSize** 
+Add a new **DWORD** (32 Bit) Value with the name **MaxLargeFileSize** 
 Value Data: 102400 Decimal (100GB)
 
-Agregar un nuevo **DWORD** (32 Bit) Value con el nombre **WarnLargeFileSize** 
+Add a new **DWORD** (32 Bit) Value with the name **WarnLargeFileSize** 
 Value Data: 97280 Decimal (95GB)
 
-y listo. 
+and done. 
 
 
