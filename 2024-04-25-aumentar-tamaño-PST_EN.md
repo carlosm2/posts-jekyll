@@ -39,13 +39,13 @@ before editing, you have to do a backup.
 {% highlight ruby %}
 
 
-# Especifica la ruta la llave del registro que quieres respaldar
+# Specify the path to the registry key you want to back up.
 $registryKey = "HKLM:\Software\YourSoftware"
 
-# Especifica la ruta donde quieres guardar el .reg file
+# Specify the path where you want to save the .reg file
 $backupFilePath = "C:\Backup\registry_backup.reg"
 
-# Exporta la llave del registro .reg file
+# Export the registry key from the .reg file
 Export-CimInstance -ClassName StdRegProv -Namespace root\default -MethodName ExportKey -Arguments @{
     hDefKey = "HKEY_LOCAL_MACHINE"
     sSubKeyName = $registryKey
@@ -54,8 +54,8 @@ Export-CimInstance -ClassName StdRegProv -Namespace root\default -MethodName Exp
 
 {% endhighlight %}
 
-una vez respaldado el registro podemos editarlo para poder aumentar el tamaño por defecto del archivo PST
-en mi caso voy a editar el registro de Outlook 2016
+Once the registry is backed up, we can edit it to increase the default PST file size.
+In my case, I'm going to edit the Outlook 2016 registry.
 
 {% highlight ruby %}
 
