@@ -3,7 +3,7 @@ layout: post
 title:  "Lista Fediverso - Software Libre, hackerspaces"
 date:   2024-12-01 12:32:00
 categories: fediverso freesoftware hackerspace softwarelibre
----
+---https://www.youtube.com/watch?v=31gGSGwNNj4
 # Lista Fediverso
 
            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               
@@ -163,11 +163,11 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Briar Project [https://fosstodon.org/@briar](https://fosstodon.org/@briar)
 * GnuPG [https://mstdn.social/@GnuPG](https://mstdn.social/@GnuPG)
 * OpenProject [https://fosstodon.org/@openproject](https://fosstodon.org/@openproject)
-* Cwtch https://fosstodon.org/@cwtch
-* Suricata https://infosec.exchange/@suricata
-* NetBlocks https://mastodon.social/@netblocks
-* Gajim https://fosstodon.org/@gajim
-* Mastodon https://mastodon.social/@Mastodon
+* Cwtch [https://fosstodon.org/@cwtch](https://fosstodon.org/@cwtch)
+* Suricata [https://infosec.exchange/@suricata](https://infosec.exchange/@suricata)
+* NetBlocks [https://mastodon.social/@netblocks](https://mastodon.social/@netblocks)
+* Gajim [https://fosstodon.org/@gajim](https://fosstodon.org/@gajim)
+* Mastodon [https://mastodon.social/@Mastodon](https://mastodon.social/@Mastodon)
 * Python for Data Science https://mastodon.social/@Python4DataScience
 * FediForum https://mastodon.social/@fediforum
 * Public Knowledge Project https://mastodon.social/@PublicKnowledgeProject
