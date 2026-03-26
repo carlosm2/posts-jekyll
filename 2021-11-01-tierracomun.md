@@ -65,5 +65,6 @@ categories: softwarelibre cooperativa mexico
 * Entrevista a Omar Valencia de Tierra Común sobre Autoprotección Digital: [https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html](https://www.ivoox.com/e06t01-aula-abierta-sobre-autoproteccion-digital-omar-audios-mp3_rf_46712593_1.html)
 
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
+* Mapeo de Tecnologias libres: [https://telar1.gitlab.io/comunidadtecnologiaslibres/](https://telar1.gitlab.io/comunidadtecnologiaslibres/#)
 
 * Somos parte de Patio Coop - [https://patio.coop/](https://patio.coop/)
