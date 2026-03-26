@@ -65,3 +65,5 @@ categories: softwarelibre cooperativa
 * Tech Coops List Github: [https://github.com/hng/tech-coops](https://github.com/hng/tech-coops)
 
 * We are members of Patio Coop - [https://patio.coop/](https://patio.coop/)
+
+* Free Technology Map - Latam - [https://telar1.gitlab.io/comunidadtecnologiaslibres/](https://telar1.gitlab.io/comunidadtecnologiaslibres/)
