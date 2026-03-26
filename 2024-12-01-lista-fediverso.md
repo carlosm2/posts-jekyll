@@ -168,9 +168,9 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * NetBlocks [https://mastodon.social/@netblocks](https://mastodon.social/@netblocks)
 * Gajim [https://fosstodon.org/@gajim](https://fosstodon.org/@gajim)
 * Mastodon [https://mastodon.social/@Mastodon](https://mastodon.social/@Mastodon)
-* Python for Data Science https://mastodon.social/@Python4DataScience
-* FediForum https://mastodon.social/@fediforum
-* Public Knowledge Project https://mastodon.social/@PublicKnowledgeProject
+* Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
+* FediForum [https://mastodon.social/@fediforum](https://mastodon.social/@fediforum)
+* Public Knowledge Project [https://mastodon.social/@PublicKnowledgeProject](https://mastodon.social/@PublicKnowledgeProject)
 * Creative Commons https://mastodon.social/@creativecommons
 * Invest in Open Infrastructure https://indieweb.social/@investinopen
 * Center for Open Science https://fosstodon.org/@CenterforOpenScience
