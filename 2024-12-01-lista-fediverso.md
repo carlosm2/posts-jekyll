@@ -171,13 +171,13 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
 * FediForum [https://mastodon.social/@fediforum](https://mastodon.social/@fediforum)
 * Public Knowledge Project [https://mastodon.social/@PublicKnowledgeProject](https://mastodon.social/@PublicKnowledgeProject)
-* Creative Commons https://mastodon.social/@creativecommons
-* Invest in Open Infrastructure https://indieweb.social/@investinopen
-* Center for Open Science https://fosstodon.org/@CenterforOpenScience
-* Open Future Foundation https://eupolicy.social/@openfuture
-* The Citizen Lab https://mastodon.social/@citizenlab
-* IFEX https://mastodon.ngo/@ifex
-* Mozilla https://mastodon.social/@mozillaofficial
+* Creative Commons [https://mastodon.social/@creativecommons](ttps://mastodon.social/@creativecommons)
+* Invest in Open Infrastructure [https://indieweb.social/@investinopen](https://indieweb.social/@investinopen)
+* Center for Open Science [https://fosstodon.org/@CenterforOpenScience](https://fosstodon.org/@CenterforOpenScience)
+* Open Future Foundation [https://eupolicy.social/@openfuture](https://eupolicy.social/@openfuture)
+* The Citizen Lab [https://mastodon.social/@citizenlab](https://mastodon.social/@citizenlab)
+* IFEX [https://mastodon.ngo/@ifex](https://mastodon.ngo/@ifex)
+* Mozilla [https://mastodon.social/@mozillaofficial](https://mastodon.social/@mozillaofficial)
 * PET Symposium https://infosec.exchange/@PET_Symposium
 * SecureDrop https://social.freedom.press/@securedrop
 * Inkscape https://mastodon.art/@inkscape
