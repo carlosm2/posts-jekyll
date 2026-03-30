@@ -14,7 +14,7 @@ categories: peertube softwarelibre fediverse
 | '-----------'o|  |o.|
 |===============|  |::|
 |               |  |::|
-'==============='  '--'https://snowflake.torproject.org/
+'==============='  '--'
 
 # Video Tutoriales sobre privacidad con Software Libre
 
