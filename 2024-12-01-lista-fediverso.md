@@ -103,7 +103,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Koop57 Euskal Herria [https://mastodon.eus/@koop57eh]
 * Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
 * Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
-* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)
+* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)https://www.nmas.com.mx/estado-de-mexico/maria-jose-martinez-desaparece-al-salir-casa-con-gatos-en-tecamac-edomex-que-sabemos/
 * Talaios kooperatiba [https://mastodon.eus/@Talaioskoop](https://mastodon.eus/@Talaioskoop)
 * KoopFabrika [https://mastodon.eus/@koopfabrika](https://mastodon.eus/@koopfabrika)
 * Koop57 Euskal Herria [https://mastodon.eus/@koop57eh](https://mastodon.eus/@koop57eh)
@@ -178,12 +178,12 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * The Citizen Lab [https://mastodon.social/@citizenlab](https://mastodon.social/@citizenlab)
 * IFEX [https://mastodon.ngo/@ifex](https://mastodon.ngo/@ifex)
 * Mozilla [https://mastodon.social/@mozillaofficial](https://mastodon.social/@mozillaofficial)
-* PET Symposium https://infosec.exchange/@PET_Symposium
-* SecureDrop https://social.freedom.press/@securedrop
-* Inkscape https://mastodon.art/@inkscape
-* DarkTable https://photog.social/@darktable
-* Libre Graphics Meeting https://post.lurk.org/@lgm
-* The Open Source Hardware Association (OSHWA) https://mastodon.social/@oshwassociation
+* PET Symposium [https://infosec.exchange/@PET_Symposium](https://infosec.exchange/@PET_Symposium)
+* SecureDrop [https://social.freedom.press/@securedrop](https://social.freedom.press/@securedrop)
+* Inkscape [https://mastodon.art/@inkscape](https://mastodon.art/@inkscape)
+* DarkTable [https://photog.social/@darktable](https://photog.social/@darktable)
+* Libre Graphics Meeting [https://post.lurk.org/@lgm](https://post.lurk.org/@lgm)
+* The Open Source Hardware Association (OSHWA) [https://mastodon.social/@oshwassociation](https://mastodon.social/@oshwassociation)
 * Librecast https://chaos.social/@librecast
 * KDE https://floss.social/@kde
 * PINE64 EU https://fosstodon.org/@pine64eu
