@@ -22,6 +22,8 @@ Repositorio Nextcloud en Mayfirst Coop:
 
 Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/guias
 
+* [Taking-care-of-us-Spanish.pdf](Taking-care-of-us-Spanish.pdf)
+* [kit_id_versionfinal_por_andamosflotando2023.pdf](kit_id_versionfinal_por_andamosflotando2023.pdf)
 * [EMA-editorial.pdf](https://cacu.tech/guias/EMA-editorial.pdf)
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
 * [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf) 
