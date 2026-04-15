@@ -171,7 +171,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
 * FediForum [https://mastodon.social/@fediforum](https://mastodon.social/@fediforum)
 * Public Knowledge Project [https://mastodon.social/@PublicKnowledgeProject](https://mastodon.social/@PublicKnowledgeProject)
-* Creative Commons [https://mastodon.social/@creativecommons](ttps://mastodon.social/@creativecommons)
+* Creative Commons [https://mastodon.social/@creativecommons](https://mastodon.social/@creativecommons)
 * Invest in Open Infrastructure [https://indieweb.social/@investinopen](https://indieweb.social/@investinopen)
 * Center for Open Science [https://fosstodon.org/@CenterforOpenScience](https://fosstodon.org/@CenterforOpenScience)
 * Open Future Foundation [https://eupolicy.social/@openfuture](https://eupolicy.social/@openfuture)
