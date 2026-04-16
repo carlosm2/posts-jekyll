@@ -68,6 +68,4 @@ Value Data: 102400 Decimal (100GB)
 Add a new **DWORD** (32 Bit) Value with the name **WarnLargeFileSize** 
 Value Data: 97280 Decimal (95GB)
 
-and done. 
-
-
+and that's all.
