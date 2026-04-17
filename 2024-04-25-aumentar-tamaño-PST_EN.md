@@ -17,7 +17,7 @@ categories: outlook mocosoft powershell
            '.    =='^'==     .'
              `'------------'`
 
-Microsoft Outlook has a 50 GB size limit, which is excessive and makes it difficult to manage both for the file system and any software handling files of that size. If you need to increase this limit to keep Outlook running properly, you will need to edit the following registry file.
+Microsoft Outlook has a 50 GB size limit, which is excessive and makes it difficult to manage for both the file system and any software that needs to handle files of that size. However, I encountered a case where this limit needed to be increased for Outlook to continue functioning correctly. This required editing the following [Windows Registry file](https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users).
 
 {% highlight ruby %}
 
