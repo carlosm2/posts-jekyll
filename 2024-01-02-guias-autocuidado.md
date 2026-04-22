@@ -29,6 +29,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf) 
 * [fanzine2_colibres.pdf](https://cacu.tech/guias/fanzine2_colibres.pdf)
 * [fanzine3_colibres.pdf](https://cacu.tech/guias/fanzine3_colibres.pdf)
+* [CG-_-Manual-Tecnicas_final.pdf](CG-_-Manual-Tecnicas_final.pdf) 
 * [documentacion-difusion-de-imagenes.pdf](https://cacu.tech/guias/documentacion-difusion-de-imagenes.pdf)
 * [estrategias-para-una-busqueda-egura.pdf](https://cacu.tech/guias/estrategias-para-una-busqueda-egura.pdf)
 * [Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf](https://cacu.tech/guias/Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf) 
