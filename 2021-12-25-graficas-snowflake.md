@@ -24,7 +24,7 @@ categories: softwarelibre tor snowflake proxy
 
 ---------------------
 
-En mi archivo de salida de *snowflake proxy* se veía un incremento en actividad y no solo ahí sino también en el consumo de recursos de todo el sistema operativo.
+En mi archivo de salida de *[snowflake proxy](https://snowflake.torproject.org/)* se veía un incremento en actividad y no solo ahí sino también en el consumo de recursos de todo el sistema operativo.
 
 {% highlight c++ %}
 
