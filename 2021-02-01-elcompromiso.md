@@ -64,12 +64,11 @@ No me manden a lo oscuro a morir como un traidor
 
  audio en versión invidious:
  
-[https://yewtu.be/watch?v=LZt0AaOXKMI](https://yewtu.be/watch?v=LZt0AaOXKMI)
+[https://invidious.nerdvpn.de/watch?v=tJlX7LyjRvw](https://invidious.nerdvpn.de/watch?v=tJlX7LyjRvw)
  
- **Invidious** [https://github.com/iv-org/invidious](https://github.com/iv-org/invidious) es un software que ayuda a ver/escuchar videos sin comerciales, rastreadores y sin javascript, en este caso usando el que esta hospedado por la colectiva snopyta.org
+ **Invidious** [https://github.com/iv-org/invidious](https://github.com/iv-org/invidious) es un software que ayuda a ver/escuchar videos sin comerciales, rastreadores y sin javascript de Youtube.
 
-
- audio/video
+audio/video
 
 [https://vimeo.com/44610832](https://vimeo.com/44610832)
 
