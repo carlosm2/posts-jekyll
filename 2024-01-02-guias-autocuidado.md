@@ -25,6 +25,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [Taking-care-of-us-Spanish.pdf](Taking-care-of-us-Spanish.pdf)
 * [kit_id_versionfinal_por_andamosflotando2023.pdf](kit_id_versionfinal_por_andamosflotando2023.pdf)
 * [EMA-editorial.pdf](https://cacu.tech/guias/EMA-editorial.pdf)
+* [CG-_-Manual-Tecnicas_final.pdf](CG-_-Manual-Tecnicas_final.pdf)
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
 * [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf) 
 * [fanzine2_colibres.pdf](https://cacu.tech/guias/fanzine2_colibres.pdf)
