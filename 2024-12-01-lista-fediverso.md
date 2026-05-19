@@ -193,6 +193,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * CryptPad [https://social.xwiki.com/@CryptPad](https://social.xwiki.com/@CryptPad)
 * LimeSurvey [https://fosstodon.org/@LimeSurvey](https://fosstodon.org/@LimeSurvey)
 * GTK [https://floss.social/@GTK](https://floss.social/@GTK)
+* Ardour [https://fosstodon.org/@ardour](https://fosstodon.org/@ardour)
 * Collabora Office [https://mastodon.social/@CollaboraOffice](https://mastodon.social/@CollaboraOffice)
 * Flathub [https://floss.social/@flathub](https://floss.social/@flathub)
 * Gstreamer [https://floss.social/@gstreamer](https://floss.social/@gstreamer)
