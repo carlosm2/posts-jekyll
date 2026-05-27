@@ -128,6 +128,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Co-op Cloud [https://social.coop/@coopcloud](https://social.coop/@coopcloud)
 * Institut Coop [https://mstdn.ca/@institutcoop](https://mstdn.ca/@institutcoop)
 * Autonomic Co-op [https://sunbeam.city/@autonomic](https://sunbeam.city/@autonomic)
+* Artisans Cooperative [https://social.coop/@coopartisans](https://social.coop/@coopartisans)
 * Cambá [https://mastodon.online/@cambacoop](https://mastodon.online/@cambacoop)
 * Nubo Coop [https://hostux.social/@nubo_coop](https://hostux.social/@nubo_coop)
 * Ateneu CoopCamp [https://mastodon.social/@ateneucoopcamp](https://mastodon.social/@ateneucoopcamp)
