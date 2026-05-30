@@ -6,3 +6,5 @@ categories: comida mexico prehispanico
 ---
 
 # Receta de tamal de frijol
+
+Hay ritualidades que 
