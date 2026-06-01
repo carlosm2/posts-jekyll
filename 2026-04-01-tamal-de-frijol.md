@@ -8,3 +8,5 @@ categories: comida mexico prehispanico
 # Receta de tamal de frijol
 
 Hay ritualidades que 
+
+https://es.wikipedia.org/wiki/Tamal
