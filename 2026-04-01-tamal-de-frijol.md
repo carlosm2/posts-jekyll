@@ -7,6 +7,6 @@ categories: comida mexico prehispanico
 
 # Receta de tamal de frijol
 
-Hay ritualidades que 
+Cada 2 de noviembre, dia de muertos para muchas personas mexicanas mi mamá hacia tamales de frijol para sus queridos ya fallecidos,
 
 https://es.wikipedia.org/wiki/Tamal
