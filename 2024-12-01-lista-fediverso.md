@@ -103,7 +103,8 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Koop57 Euskal Herria [https://mastodon.eus/@koop57eh]
 * Coòpolis [https://mastodon.economiasocial.org/@coopolis](https://mastodon.economiasocial.org/@coopolis)
 * Ponent Coopera [https://mastodon.economiasocial.org/@ponentcoopera](https://mastodon.economiasocial.org/@ponentcoopera)
-* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)https://www.nmas.com.mx/estado-de-mexico/maria-jose-martinez-desaparece-al-salir-casa-con-gatos-en-tecamac-edomex-que-sabemos/
+* Jamgo, cooperativa tecnològica [https://mastodon.social/@jamgo](https://mastodon.social/@jamgo)
+* Jam Coop [https://mastodon.social/@jamcoop](https://mastodon.social/@jamcoop)
 * Talaios kooperatiba [https://mastodon.eus/@Talaioskoop](https://mastodon.eus/@Talaioskoop)
 * KoopFabrika [https://mastodon.eus/@koopfabrika](https://mastodon.eus/@koopfabrika)
 * Koop57 Euskal Herria [https://mastodon.eus/@koop57eh](https://mastodon.eus/@koop57eh)
