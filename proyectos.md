@@ -64,6 +64,7 @@ I colaborate in various projects and collectives that work toward free and open 
 * Evaluation of the Global South Strategy: [https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf](https://blog.torproject.org/furthering-our-mission-in-the-global-south/The%20Tor%20Project-GSS%20Evaluation-for-sharing.pdf)
 * Somos partners de Training (Capacitación) de Tor Project: [https://community.torproject.org/training/partners/](https://community.torproject.org/training/partners/)
 * Tor's Open Hack Days (Mexico City) 2018 - Onion Services Workshop [https://blog.torproject.org/event/tors-open-hack-days-mexico-city/](https://blog.torproject.org/event/tors-open-hack-days-mexico-city/)
+* I have 2 raspberrypis running Tor Snowflake to help users bypass censorship, they are called mazatl, (deer in nahuatl). [https://todon.nl/@cacu/116127449457659545](https://todon.nl/@cacu/116127449457659545)
 * Pasos Instalación snowflake: [https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html](https://cacu.tech/softwarelibre/tor/snowflake/proxy/2024/04/01/snowflake-proxy.html)
 * Peertube Video: Instalar Tor snowflake proxy en servidor Ubuntu 22.04 [https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan](https://fediverse.tv/w/qnVVHitSyrk5c6zDDtEDan)
 
