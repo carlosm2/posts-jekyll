@@ -43,6 +43,7 @@ I colaborate in various projects and collectives that work toward free and open 
 * Forum on Internet Freedom in Africa 2023: [https://guardianproject.info/2023/11/03/fifa2023-report/](https://guardianproject.info/2023/11/03/fifa2023-report/)
 * Dia da Comunidade do Tor - Universidade NOVA de Lisboa 2024 [https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/](https://web.archive.org/web/20250323002024/https://privacylx.org/events/2024-05-25-tor-community/)
 * Feria de Lenguas Indígenas Digitales 2025 [https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/](https://web.archive.org/web/20250320022223/https://rising.globalvoices.org/cumbre2025/feria/)
+* The Butter Box and Engine Room teams joined forces at the Digital Mayan Fair 2026 in Chiapas, México [https://likebutter.app/blog/butterbox-mayan-style](https://likebutter.app/blog/butterbox-mayan-style)
 * Peertube video on likebutter.app: [https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD](https://fediverse.tv/w/jHcj1BajoKSZw3EMjLcjYD)
 
 ## Tails
@@ -128,6 +129,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 ## Fichas de busqueda de personas desaparecidas
 
 I have created and manage two channels dedicated to sharing search profiles for missing persons of México: one on Telegram and another one on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
+[https://mast.lat/@busquedamx](https://mast.lat/@busquedamx)
 
 ## Contributions to the localization and translation of tools supporting Free Software and digital privacy advocacy.
 
