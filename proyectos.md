@@ -101,9 +101,7 @@ I colaborate in various projects and collectives that work toward free and open 
   
 ## Hackerspace Rancho Electrónico
 
-Fui cofundador de este hackerspace y participé activamente en él durante nueve años:
-I was a co-founder of this hackerspace and actively contributed to it for nine years:
-
+Fui cofundador de este hackerspace y participé activamente en él durante nueve años / I was a co-founder of this hackerspace and actively contributed to it for nine years:
 * Hackerspace Rancho Electrónico: [https://web.archive.org/web/20250321012837/https://ranchoelectronico.org/tag/autodefensadigital/](https://web.archive.org/web/20250321012837/https://ranchoelectronico.org/tag/autodefensadigital/)
 * Texto de invitación a crear el Hackerspace: [https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html](https://cacu.tech/softwarelibre/hackerspace/mexico/2021/11/02/carta-creacion-hackerspace.html)
 * Recuento de talleres hechos durante mi participación: [https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html](https://cacu.tech/softwarelibre,/mexico,/ranchoelectronico/2022/04/27/talleres-9anhos-enrancho.html)
@@ -115,7 +113,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 * Experiences in Sharing Digital Security Workshops in an Autonomous and Open Hackerspace in Mexico - HOPE 2020 Hackers On Planet Earth
 [https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/](https://web.archive.org/web/20240203000542/https://xiii.hope.net/hope2020/talk/RRLPYT/)
 
-## Hacklab Autónomo
+## Hacklab Autónomo / Hacklab ZAM
 
 * [https://we.riseup.net/hacklab](https://we.riseup.net/hacklab)
 * [https://web.archive.org/web/20260104112244/https://hacklab.espora.org/](https://web.archive.org/web/20260104112244/https://hacklab.espora.org/)
@@ -128,8 +126,7 @@ I was a co-founder of this hackerspace and actively contributed to it for nine y
 
 ## Fichas de busqueda de personas desaparecidas
 
-I have created and manage two channels dedicated to sharing search profiles for missing persons of México: one on Telegram and another one on Mastodon. I regularly review and update the published profiles, which are automatically deleted from both platforms after three months or when the person is found.
-[https://mast.lat/@busquedamx](https://mast.lat/@busquedamx)
+I created and manage two channels dedicated to sharing missing persons profiles from México: one on [Telegram](https://t.me/busquedapersonasMx) and another on [Mastodon]((https://mast.lat/@busquedamx)). I regularly review and update the published profiles, which are automatically removed from both platforms after three months or once the person is found.
 
 ## Contributions to the localization and translation of tools supporting Free Software and digital privacy advocacy.
 
