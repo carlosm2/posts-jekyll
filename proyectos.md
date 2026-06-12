@@ -152,8 +152,9 @@ I created and manage two channels dedicated to sharing missing persons profiles 
 * WebRTC Its not Magic – Guide to WebRTC financed by Derechos Digitales and Article 19
 Co author [https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf](https://www.derechosdigitales.org/wp-content/uploads/webrtc_en.pdf)
 * Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It
-Co author Community Education Technology: Transforming Digital Autonomy [https://jaaklac.org/blog/teccomedu-community25/](Community Education Technology: Transforming Digital Autonomy)
-Co author: [https://web.archive.org/web/20240319085706/https://infraestructura.digital](https://web.archive.org/web/20240319085706/https://infraestructura.digital)
+ Co author [https://tierracomun.org/infraestrucuradigital/Propuesta_de_un_Modelo_Cooperativo_Infraestructura_Digital.pdf](https://tierracomun.org/infraestrucuradigital/Propuesta_de_un_Modelo_Cooperativo_Infraestructura_Digital.pdf)
+* Community Education Technology: Transforming Digital Autonomy
+ Co author [https://jaaklac.org/blog/teccomedu-community25/](Community Education Technology, Transforming Digital Autonomy)
 * CriptoCards – Digital Defense Material financed by WebWeWant
 Co author - [https://web.archive.org/web/20250430104341/https://criptorally.ranchoelectronico.org/](https://web.archive.org/web/20250430104341/https://criptorally.ranchoelectronico.org/)
 * Cyber-Women - Digital Security Curricula
