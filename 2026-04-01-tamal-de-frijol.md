@@ -7,6 +7,6 @@ categories: comida mexico prehispanico
 
 # Receta de tamal de frijol
 
-Cada 2 de noviembre, dia de muertos para muchas personas mexicanas mi mamá hacia tamales de frijol para sus queridos ya fallecidos,
+Cada 2 de noviembre es dia de muertos para muchas personas mexicanas, mi mamá hacia tamales de frijol para sus queridos ya fallecidos, era practicamente el unico dia que se hacian esos tamales, de hecho varias actividades rituales se realizan estos dias, una de ellas al menos en mi pueblo y familia es la hechura de esos tamales.
 
 https://es.wikipedia.org/wiki/Tamal
