@@ -28,7 +28,7 @@ categories: softwarelibre autocuidadodigital raspberrypi spyware
 
 ## Tinycheck
 
-(Desactualizado)
+(Desactualizado, el software ya no esta disponible)
 
 Traducción de la descripción:
 
