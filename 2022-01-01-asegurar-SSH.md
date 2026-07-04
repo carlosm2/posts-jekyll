@@ -7,7 +7,7 @@ categories: raspberrypi ssh
 
 # Asegurar conexión SSH de una raspberrry pi
 
-(aunque aplica para cualquier servidor)
+(aunque aplica para cualquier servidor linux)
 
    
    ┈┈┈╱▏┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈
