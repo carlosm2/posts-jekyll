@@ -7,10 +7,12 @@ categories: linux windows usb
 
 # Pasos para poder identificar la versión de Windows que tiene un instalador USB Windows desde Linux
 
-Si tienes una memoria USB con un instalador de windows aparecera con el nombre: **ESD-USB** pero si de casualidad tienes 
+Si tienes una memoria USB con un instalador de windows aparecera con el nombre: **ESD-USB** pero si de casualidad tienes dos o mas USBs y de diferentes versiones de instalador
+de Micro$oft Windows
 
+{% highlight ruby %}
 
-root@tech:/media/cacu/ESD-USB/sources# wiminfo install2.swm
+cacu@tech:/media/cacu/ESD-USB/sources#sudo wiminfo install2.swm
 WIM Information:
 ----------------
 Path:           install2.swm
@@ -87,3 +89,5 @@ Name:                   Windows 11 Education
 Description:            Windows 11 Education
 Display Name:           Windows 11 Education
 Display Description:    Windows 11 Education
+
+{% endhighlight %}
