@@ -18,7 +18,7 @@ Lista de guias actualizadas en español sobre autocuidado digital
 
 Repositorio Nextcloud en Mayfirst Coop:
 
-https://share.mayfirst.org/s/XjxDB59X6MTwbRZ
+[https://share.mayfirst.org/s/XjxDB59X6MTwbRZ](https://share.mayfirst.org/s/XjxDB59X6MTwbRZ)
 
 Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/guias
 
