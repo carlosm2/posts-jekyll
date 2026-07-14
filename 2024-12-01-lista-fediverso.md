@@ -181,7 +181,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Center for Open Science [https://fosstodon.org/@CenterforOpenScience](https://fosstodon.org/@CenterforOpenScience)
 * Open Future Foundation [https://eupolicy.social/@openfuture](https://eupolicy.social/@openfuture)
 * The Citizen Lab [https://mastodon.social/@citizenlab](https://mastodon.social/@citizenlab)
-* IFEX [https://mastodon.ngo/@ifex](https://mastodon.ngo/@ifex)
+* Zammad [https://mastodon.social/@zammad_hq](https://mastodon.social/@zammad_hq)
 * Kaidan [https://fosstodon.org/@kaidan](https://fosstodon.org/@kaidan)
 * Mozilla [https://mastodon.social/@mozillaofficial](https://mastodon.social/@mozillaofficial)
 * PET Symposium [https://infosec.exchange/@PET_Symposium](https://infosec.exchange/@PET_Symposium)
