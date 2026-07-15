@@ -37,7 +37,7 @@ categories: comida receta hummus
 ## 2 - Procedimiento
 
 * Cocer las garbanzos con un diente de ajo y un trozo de cebolla, yo uso olla express para que sea mas rápido. No olvidar quitar el ajo una vez hervidos los garbanzos.
-* Cortar finamente el ajo.
+* Cortar finamente la parte que queda del ajo (3 o 4 dientes)
 * Moler el comino, yo uso un pequeño mortero para molerlo.
 * Desinfectar unas ramas de cilantro.
 * Abrir una lata de chiles adobados, pero solo usa 1/4 parte, no hay latas mas chicas por donde habito.
