@@ -10,11 +10,17 @@ categories: linux windows usb
 Si tienes una memoria USB con un instalador de windows aparecera con el nombre: **ESD-USB** pero si de casualidad tienes dos o mas USBs y de diferentes versiones de instalador
 de Micro$oft Windows será dificil saber cual es el instalador de Windows versión 10 y version 11, y el tipo de instalador que tienes. Por lo que puedes instalar en tu sistema Linux el siguiente programa:
 
+{% highlight ruby %}
 sudo apt install wintools
+{% endhighlight %}
 
 para luego insertar tu USB, montarlo en tu sistema y dirigirte a:
 
+{% highlight ruby %}
+
 cd /media/tuusuario/ESD-USB/sources/
+
+{% endhighlight %}
 
 ahi en sources puedes ejecutar:
 
