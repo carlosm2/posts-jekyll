@@ -86,6 +86,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * shackspace [https://mastodon.social/@shackspace](https://mastodon.social/@shackspace)
 * Hackerspace Brussels [https://mastodon.online/@HSBXL](https://mastodon.online/@HSBXL)
 * Tinycore lab [https://corteximplant.com/@tinycore_lab](https://corteximplant.com/@tinycore_lab)
+* Raconet [https://fem.elbarri.online/@raconet](https://fem.elbarri.online/@raconet)
 * LeineLab [https://chaos.social/@leinelab](https://chaos.social/@leinelab)
 
 ## Cooperatives
