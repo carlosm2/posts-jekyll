@@ -64,4 +64,4 @@ Categories=Utilities;
 
 y listo.
 
-También recién publiqué un video en el Fediverso con los pasos: [https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr](https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr)
+También recién publiqué un video en Peertube del Fediverso con los pasos: [https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr](https://fediverse.tv/w/eSmfP1zaS3oLxNrbonetRr)
