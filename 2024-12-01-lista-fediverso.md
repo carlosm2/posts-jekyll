@@ -189,6 +189,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Inkscape [https://mastodon.art/@inkscape](https://mastodon.art/@inkscape)
 * DarkTable [https://photog.social/@darktable](https://photog.social/@darktable)
 * Libre Graphics Meeting [https://post.lurk.org/@lgm](https://post.lurk.org/@lgm)
+* Meshtatic [https://mastodon.social/@meshtastic](https://mastodon.social/@meshtastic)
 * The Open Source Hardware Association (OSHWA) [https://mastodon.social/@oshwassociation](https://mastodon.social/@oshwassociation)
 * Librecast [https://chaos.social/@librecast](https://chaos.social/@librecast)
 * KDE [https://floss.social/@kde](https://floss.social/@kde)
