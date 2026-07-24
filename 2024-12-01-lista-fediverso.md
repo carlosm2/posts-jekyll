@@ -197,6 +197,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * PINE64 EU [https://fosstodon.org/@pine64eu](https://fosstodon.org/@pine64eu)
 * MediaWiki [https://wikis.world/@mediawiki](https://wikis.world/@mediawiki)
 * UBports [https://mastodon.social/@ubports](https://mastodon.social/@ubports)
+* LINux on MOBile [https://linuxmobile.social/@linmob](https://linuxmobile.social/@linmob)
 * LibreWolf [https://chaos.social/@librewolf](https://chaos.social/@librewolf)
 * CryptPad [https://social.xwiki.com/@CryptPad](https://social.xwiki.com/@CryptPad)
 * LimeSurvey [https://fosstodon.org/@LimeSurvey](https://fosstodon.org/@LimeSurvey)
