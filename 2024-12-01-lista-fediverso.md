@@ -193,6 +193,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Meshtatic [https://mastodon.social/@meshtastic](https://mastodon.social/@meshtastic)
 * The Open Source Hardware Association (OSHWA) [https://mastodon.social/@oshwassociation](https://mastodon.social/@oshwassociation)
 * Librecast [https://chaos.social/@librecast](https://chaos.social/@librecast)
+* PDF Arranger [https://fosstodon.org/@pdfarranger](https://fosstodon.org/@pdfarranger)
 * KDE [https://floss.social/@kde](https://floss.social/@kde)
 * PINE64 EU [https://fosstodon.org/@pine64eu](https://fosstodon.org/@pine64eu)
 * MediaWiki [https://wikis.world/@mediawiki](https://wikis.world/@mediawiki)
