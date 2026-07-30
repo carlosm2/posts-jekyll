@@ -188,6 +188,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * PET Symposium [https://infosec.exchange/@PET_Symposium](https://infosec.exchange/@PET_Symposium)
 * SecureDrop [https://social.freedom.press/@securedrop](https://social.freedom.press/@securedrop)
 * Inkscape [https://mastodon.art/@inkscape](https://mastodon.art/@inkscape)
+* Servo [https://floss.social/@servo](https://floss.social/@servo)
 * DarkTable [https://photog.social/@darktable](https://photog.social/@darktable)
 * Libre Graphics Meeting [https://post.lurk.org/@lgm](https://post.lurk.org/@lgm)
 * Meshtatic [https://mastodon.social/@meshtastic](https://mastodon.social/@meshtastic)
