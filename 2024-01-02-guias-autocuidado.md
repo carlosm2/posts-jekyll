@@ -16,7 +16,7 @@ categories: privacidad softwarelibre guias
 
 Lista de guias actualizadas en español sobre autocuidado digital 
 
-Repositorio Nextcloud en Mayfirst Coop:
+Repositorio Nextcloud en May First Movement Coop:
 
 [https://share.mayfirst.org/s/XjxDB59X6MTwbRZ](https://share.mayfirst.org/s/XjxDB59X6MTwbRZ)
 
