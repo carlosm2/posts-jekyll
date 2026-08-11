@@ -40,6 +40,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [Toolkit-TEDIC_Formato-Digital.pdf](https://cacu.tech/guias/Toolkit-TEDIC_Formato-Digital.pdf)
 * [Guia-metodologica-Construyendo-una-internet-de-cuidados-y-libre-de-violencias.pdf](Guia-metodologica-Construyendo-una-internet-de-cuidados-y-libre-de-violencias.pdf)
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
+* guia-revision-telefonos.pdf
 * [0009_guia_Saferjourno.pdf](https://cacu.tech/guias/0009_guia_Saferjourno.pdf)
 * [guia-de-autocidado.pdf](https://cacu.tech/guias/guia-de-autocidado.pdf)
 * [amartu_zine_parte1_es_COLOR.pdf](amartu_zine_parte1_es_COLOR.pdf)
