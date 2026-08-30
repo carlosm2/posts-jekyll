@@ -38,7 +38,7 @@ categories: softwarelibre cooperativa mexico
 
 * Proyecto de investigación en Open Collective: [https://opencollective.com/cooperativa-tierra-comun1](https://opencollective.com/cooperativa-tierra-comun1)
 
-* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
+* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://web.archive.org/web/20250418182748/https://infraestructura.digital/](https://web.archive.org/web/20250418182748/https://infraestructura.digital/)
 
 * Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
 
