@@ -40,8 +40,6 @@ categories: softwarelibre cooperativa mexico
 
 * Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://web.archive.org/web/20250418182748/https://infraestructura.digital/](https://web.archive.org/web/20250418182748/https://infraestructura.digital/)
 
-* Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
-
 * Somos mencionadas en esta texto: Guía para seguir comunicándonos ante bloqueos de internet [https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf](https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf)
 
 * Somos mencionadas en esta texto: Soberanía Tecnológica, Volumen 2. [https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/](https://blogs.sindominio.net/blog/soberania-tecnologica-volumen-2/)
