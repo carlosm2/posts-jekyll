@@ -38,7 +38,7 @@ categories: softwarelibre cooperativa
 
 * Open Collective Research Project: [https://opencollective.com/cooperativa-tierra-comun1](https://opencollective.com/cooperativa-tierra-comun1)
 
-* Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It [https://infraestructura.digital/index-en.html](https://infraestructura.digital/index-en.html)
+* Proposal for a Cooperative Model for Digital Infrastructure and Recommendations to Adopt It [https://web.archive.org/web/20250103023842/https://infraestructura.digital/index-en.html](https://web.archive.org/web/20250103023842/https://infraestructura.digital/index-en.html)
 
 * We are mentioned in this text: Guide to continue communicating in the face of internet blockages [https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf](https://www.digitaldefenders.org/wp-content/uploads/2022/09/2207-ISG_final-es.pdf)
 
