@@ -32,7 +32,7 @@ categories: softwarelibre cooperativa
 
 * Knowledge Dialogue: Interview with the Tierra Común cooperative (en ingles): [https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt](https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt)
 
-* Post on "La coperacha" mexico: [https://lacoperacha.org.mx/cooperativa-tierra-comun/](https://lacoperacha.org.mx/cooperativa-tierra-comun/)
+* Post on the media: La coperacha, mexico: [https://lacoperacha.org.mx/cooperativa-tierra-comun/](https://lacoperacha.org.mx/cooperativa-tierra-comun/)
 
 * Data Sovereignty and Alternative Development Models (en ingles) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
 
