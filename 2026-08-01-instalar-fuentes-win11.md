@@ -5,7 +5,7 @@ date:   2026-08-01 12:32:00
 categories: windows windows11 fuentes fonts
 ---
 
-# Instalar fuentes en Windows 11, si leiste bien
+# Instalar fuentes en Windows 11
 
 Algo tan básico en cualquier sistema operativo, es dificil de hacer en Windows 11 :(
 
