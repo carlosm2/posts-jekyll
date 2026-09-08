@@ -29,7 +29,7 @@ I colaborate in various projects and collectives that work toward free and open 
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
 * Knowledge Dialogue: Interview with the Tierra Común cooperative (EN): [https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt](https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt)
 * Data Sovereignty and Alternative Development Models (EN) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
-* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://infraestructura.digital/](https://infraestructura.digital/)
+* Propuesta de un Modelo Cooperativo para Infraestructura Digital y Recomendaciones para Adoptarlo [https://archive.org/details/propuesta-de-un-modelo-cooperativo-infraestructura-digital/](https://archive.org/details/propuesta-de-un-modelo-cooperativo-infraestructura-digital/)
 * A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 * Digital Security for Journalists site: [https://autodefensa.tierracomun.org/](https://autodefensa.tierracomun.org/)
 * Alianzas, notas prensa, otros textos: [https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html](https://cacu.tech/softwarelibre/2021/11/01/tierracomun.html)
