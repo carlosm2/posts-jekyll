@@ -11,11 +11,12 @@ Algo tan básico en cualquier sistema operativo, me resulto muy difícil de hace
 En casi todos los sistemas operativos con un doble click o copiando las fuentes "fuentesans.ttf" al directorio de fuentes del sistema y listo, pero recién apoyé a una persona usuaria a instalar fuentes en Windows 11, pero me costó trabajo realizarlo, me daba error de instalación, como si las fuentes no fueran validas, asi que verifique con otras fuentes confiables y que se habian instalado bien en Windows 10 para descartar que fueran fuentes dañadas. Los paso para lograr intalar las fuentes son los siguiente:
 
 {% highlight ruby %} 
-## Copiar fuente al directorio: 
+
+## Copiar fuente al siguiente directorio: 
 
 C:\USERS\miusuarie\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS
 
-## Instalar para
+## Instalar la fuente
 
 que son, boton derecho -> mas opciones -> intalar para todos usuarios -> contraseña admin
 
