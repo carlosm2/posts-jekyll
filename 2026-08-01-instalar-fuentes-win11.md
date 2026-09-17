@@ -18,6 +18,10 @@ C:\USERS\miusuarie\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS
 
 ## Instalar la fuente
 
-que son, boton derecho -> mas opciones -> intalar para todos usuarios -> contraseña admin
+* localizar la fuente 
+* boton derecho del mouse
+*  mas opciones
+*  instalar para todos los usuarios
+*  pedira contraseña admin
 
 {% endhighlight %}
