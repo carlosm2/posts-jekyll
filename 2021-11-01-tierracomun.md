@@ -48,7 +48,7 @@ categories: softwarelibre cooperativa mexico
 
 * Peace Brigades International -Seguridad para defender: [https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn](https://seguridadparadefender.org/org/cooperativa-tierra-com%C3%BAn)
 
-* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
+* A Cooperativa “Tierra Común” do México se une à Aliança para Criptografia na América Latina e Caribe: [https://web.archive.org/web/20240422055228/https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/](https://web.archive.org/web/20240422055228/https://ac-lac.org/pt/a-cooperativa-tierra-comun-do-mexico-se-une-a-alianca-para-criptografia-na-america-latina-e-caribe/)
 
 * Cooperativa Tierra Común - Invitación al Miércoles Rosa: [https://redtdt.org.mx/archivos/10701](https://redtdt.org.mx/archivos/10701)
 
