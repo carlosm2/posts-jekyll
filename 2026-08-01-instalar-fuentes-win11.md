@@ -20,8 +20,12 @@ C:\USERS\miusuarie\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS
 
 * localizar la fuente 
 * boton derecho del mouse
-*  mas opciones
-*  instalar para todos los usuarios
-*  pedira contraseña admin
+* mas opciones
+* instalar para todos los usuarios
+* pedirá contraseña admin
+
+## Probar fuente
+
+Abrir cualquier programa como Gimp o LibreOffice para ver si esta instalada la fuente que acabamos de instalar y probarla.
 
 {% endhighlight %}
