@@ -7,10 +7,11 @@ categories: linux windows usb
 
 # Pasos para poder identificar la versión de Windows que tiene un instalador USB Windows desde Linux
 
-Si tienes una memoria USB con un instalador de windows aparecera con el nombre: **ESD-USB** pero si de casualidad tienes dos o mas USBs y de diferentes versiones de instalador
-de Micro$oft Windows será dificil saber cual es el instalador de Windows versión 10 y version 11, y el tipo de instalador que tienes. Por lo que puedes instalar en tu sistema Linux el siguiente programa para averiguarlo:
+Si tienes una memoria USB con un instalador de windows aparecerá con el nombre: **ESD-USB** en todos los sistemas operativos, pero si de casualidad tienes dos o mas USBs y de diferentes versiones de instalador de Micro$oft Windows será difícil saber cual es el instalador de Windows versión 10 y versión 11, y el tipo de instalador que tienes. En sistema linux puedes instalar el siguiente programa para averiguar de forma sencilla y sin tener que bootear con esas memorias USB:
 
-{% highlight ruby %}
+{% highlight ruby %
+
+# instala el siguiente programa
 sudo apt install wintools
 {% endhighlight %}
 
@@ -27,6 +28,7 @@ ahi en sources puedes ejecutar:
 {% highlight ruby %}
 
 cacu@tech:/media/cacu/ESD-USB/sources#sudo wiminfo install2.swm
+
 WIM Information:
 ----------------
 Path:           install2.swm
@@ -107,3 +109,4 @@ Display Description:    Windows 11 Education
 {% endhighlight %}
 
 Esto te mostrara las versiónes de Windows que tiene cada USB, si es win 10, 11, Educatión, el lenguage, etc.
+Ya ahora si puedes ponerle una estampita con el nombre para no equivocarte.
