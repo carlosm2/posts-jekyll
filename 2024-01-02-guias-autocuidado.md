@@ -59,6 +59,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/guias/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
 * [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
 * [calmarno.pdf](https://cacu.tech/guias/calmarno.pdf)
+* [Guia_Ema.pdf](https://cacu.tech/guias/Guia_Ema.pdf)
 * [ciberherbolaria_seguridadigital.pdf](https://cacu.tech/guias/ciberherbolaria_seguridadigital.pdf)
 * [Codeando_fanzine_Anamhoo.pdf](https://cacu.tech/guias/Codeando_fanzine_Anamhoo.pdf)
 * [Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf](https://cacu.tech/guias/Colectivo-Disonancia-Autodefensa-Digital-Protesta.pdf)
