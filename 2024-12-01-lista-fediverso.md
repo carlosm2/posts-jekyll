@@ -53,6 +53,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * CentOS [https://fosstodon.org/@centos](https://fosstodon.org/@centos)
 * Rocky Linux [https://fosstodon.org/@rockylinux](https://fosstodon.org/@rockylinux)
 * Whonix [https://fosstodon.org/@whonix](https://fosstodon.org/@whonix)
+* CachyOS [https://fosstodon.org/@CachyOS](https://fosstodon.org/@CachyOS)
   
 ## Hackerspaces
 
