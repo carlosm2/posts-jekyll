@@ -9,7 +9,7 @@ categories: linux windows usb
 
 Si tienes una memoria USB con un instalador de Windows al insertarla aparecerá con el nombre: **ESD-USB** en todos los sistemas operativos, pero si de casualidad tienes dos o mas USBs y de diferentes versiones de instalador de Micro$oft Windows será difícil saber cual es el instalador de Windows versión 10 y versión 11, y el tipo de instalador que tienes. En sistema linux puedes instalar el siguiente programa para averiguar de forma sencilla y sin tener que bootear con esas memorias USB:
 
-{% highlight ruby %
+{% highlight ruby %}
 
 # instala el siguiente programa
 sudo apt install wintools
