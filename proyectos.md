@@ -52,7 +52,7 @@ I colaborate in various projects and collectives that work toward free and open 
 * Tails Weblate User: [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/)
 * Tails Reveal Slides: [https://cacu.tech/tails/](https://cacu.tech/tails/)
 * Localización / Localization:
-  [https://translate.tails.boum.org/user/cacu/](https://translate.tails.boum.org/user/cacu/)
+  [https://translate.tails.net/user/cacu/](https://translate.tails.net/user/cacu/)
   [https://hosted.weblate.org/user/carlosm2/](https://hosted.weblate.org/user/carlosm2/)
 * Video peertube sobre actualización via clonación: [https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq](https://fediverse.tv/w/7Wbimi2VKNadJkWZNvnUsq)
 * Mas notas sobre mi colaboración en Tails: [https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html](https://cacu.tech/softwarelibre,/l10n,/privacidad,/tails/2022/12/11/colaboracion-tails.html)
