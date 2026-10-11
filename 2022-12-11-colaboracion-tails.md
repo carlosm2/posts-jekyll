@@ -55,9 +55,9 @@ Algunos **reportes** de Tails sobre mi colaboración en outreach, training, test
 
 [https://web.archive.org/web/20210509143923/https://tails.boum.org/news/report_2019_07/](https://web.archive.org/web/20210509143923/https://tails.boum.org/news/report_2019_07/)
 
-[https://tails.boum.org/news/report_2020_06/](https://tails.boum.org/news/report_2020_06/)
+[https://web.archive.org/web/20210308150849/https://tails.boum.org/news/report_2020_06/](https://web.archive.org/web/20210308150849/https://tails.boum.org/news/report_2020_06/)
 
-[https://tails.boum.org/news/report_2018_04/](https://tails.boum.org/news/report_2018_04/)
+[https://web.archive.org/web/20210507121956/https://tails.boum.org/news/report_2018_04/](https://web.archive.org/web/20210507121956/https://tails.boum.org/news/report_2018_04/)
 
 [https://tails.boum.org/news/report_2017_10/](https://tails.boum.org/news/report_2017_10/)
 
