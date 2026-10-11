@@ -59,9 +59,9 @@ Algunos **reportes** de Tails sobre mi colaboración en outreach, training, test
 
 [https://web.archive.org/web/20210507121956/https://tails.boum.org/news/report_2018_04/](https://web.archive.org/web/20210507121956/https://tails.boum.org/news/report_2018_04/)
 
-[https://tails.boum.org/news/report_2017_10/](https://tails.boum.org/news/report_2017_10/)
+[https://web.archive.org/web/20220520205921/https://tails.boum.org/news/report_2017_10/](https://web.archive.org/web/20220520205921/https://tails.boum.org/news/report_2017_10/)
 
-Evento para **Traduccion**, localización de Tails en México:
+Evento para Traducción / localización de Tails en México:
 
 [https://web.archive.org/web/20250327022653/https%3A%2F%2Franchoelectronico.org%2Fcolaboremos-en-la-traduccion-de-tails%2F](https://web.archive.org/web/20250327022653/https%3A%2F%2Franchoelectronico.org%2Fcolaboremos-en-la-traduccion-de-tails%2F)
 
