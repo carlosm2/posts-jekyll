@@ -51,9 +51,9 @@ y el usuario de la Cooperativa Tierra Común:
 
 Algunos **reportes** de Tails sobre mi colaboración en outreach, training, testing:
 
-[https://tails.boum.org/news/report_2019_04/](https://tails.boum.org/news/report_2019_04/)
+[https://web.archive.org/web/20220131032543/https://tails.boum.org/news/report_2019_04/](https://web.archive.org/web/20220131032543/https://tails.boum.org/news/report_2019_04/)
 
-[https://tails.boum.org/news/report_2019_07/](https://tails.boum.org/news/report_2019_07/)
+[https://web.archive.org/web/20210509143923/https://tails.boum.org/news/report_2019_07/](https://web.archive.org/web/20210509143923/https://tails.boum.org/news/report_2019_07/)
 
 [https://tails.boum.org/news/report_2020_06/](https://tails.boum.org/news/report_2020_06/)
 
