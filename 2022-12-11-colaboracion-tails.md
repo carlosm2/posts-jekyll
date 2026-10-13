@@ -47,7 +47,7 @@ y mi usuario en las plataformas de localización:
 
 y el usuario de la Cooperativa Tierra Común:
 
-[https://translate.tails.boum.org/user/tierra_comun_coop/](https://translate.tails.boum.org/user/tierra_comun_coop/)
+[https://translate.tails.net/user/tierra_comun_coop/](https://translate.tails.net/user/tierra_comun_coop/)
 
 Algunos **reportes** de Tails sobre mi colaboración en outreach, training, testing:
 
