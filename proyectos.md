@@ -25,7 +25,7 @@ I colaborate in various projects and collectives that work toward free and open 
 ## Cooperativa Tierra Común
 
 * Tierra Común Coop [https://tierracomun.coop](https://tierracomun.org/)
-* Open Tech Technology Fund - Rapid Response Partners [https://www.opentech.fund/funds/rapid-response-fund/](https://www.opentech.fund/funds/rapid-response-fund/)
+* Open Tech Technology Fund - Rapid Response Trusted Partners [https://www.opentech.fund/funds/rapid-response-fund/](https://www.opentech.fund/funds/rapid-response-fund/)
 * Diálogo de saberes: entrevista con la Cooperativa Tierra Común: [https://www.tierracomun.net/blog/dialogodesaberes1](https://www.tierracomun.net/blog/dialogodesaberes1)
 * Knowledge Dialogue: Interview with the Tierra Común cooperative (EN): [https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt](https://www.tierracomun.net/blog/5h5xtd9rb0vh55k1t5evuk18upd54t-pmznt)
 * Data Sovereignty and Alternative Development Models (EN) [https://botpopuli.net/data-sovereignty-and-alternative-development-models/](https://botpopuli.net/data-sovereignty-and-alternative-development-models/)
