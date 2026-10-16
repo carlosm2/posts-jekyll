@@ -9,6 +9,8 @@ categories: likebutter raspberrypi freesoftware guardianproject
 
 Originally posted at: [https://likebutter.app/blog/butterbox-mayan-style](https://likebutter.app/blog/butterbox-mayan-style)
 
+Spanish Versión: [https://likebutter.app/es/blog/butterbox-mayan-style](https://likebutter.app/es/blog/butterbox-mayan-style)
+
 The Butter Box and Engine Room teams joined forces at the Digital Mayan Fair 2026 in Chiapas, México, and we showed up with a clear misión: run guided usability tests with Mayan community members, gather firsthand feedback, and deploy Butter kits with selected candidates ready to close the digital divide in their communities.
 
 For those who don't know, Butter helps where internet is unreliable or simply nonexistent, bringing a digital communication channel, a content distribution platform, and an offline app store, all packed into one portable, easy-to-use device. ¡Todo en uno!
