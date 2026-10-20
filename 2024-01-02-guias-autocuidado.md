@@ -22,8 +22,8 @@ Repositorio Nextcloud en May First Movement Coop:
 
 Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/guias
 
-* [Taking-care-of-us-Spanish.pdf](Taking-care-of-us-Spanish.pdf)
-* [kit_id_versionfinal_por_andamosflotando2023.pdf](kit_id_versionfinal_por_andamosflotando2023.pdf)
+* [Taking-care-of-us-Spanish.pdf](https://cacu.tech/guias/Taking-care-of-us-Spanish.pdf)
+* [kit_id_versionfinal_por_andamosflotando2023.pdf](https://cacu.tech/guias/kit_id_versionfinal_por_andamosflotando2023.pdf)
 * [EMA-editorial.pdf](https://cacu.tech/guias/EMA-editorial.pdf)
 * [CG-_-Manual-Tecnicas_final.pdf](https://cacu.tech/CG-_-Manual-Tecnicas_final.pdf)
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
