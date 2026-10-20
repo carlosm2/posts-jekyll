@@ -174,6 +174,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Suricata [https://infosec.exchange/@suricata](https://infosec.exchange/@suricata)
 * NetBlocks [https://mastodon.social/@netblocks](https://mastodon.social/@netblocks)
 * Gajim [https://fosstodon.org/@gajim](https://fosstodon.org/@gajim)
+* Luanti [https://floss.social/@Luanti](https://floss.social/@Luanti)
 * Mastodon [https://mastodon.social/@Mastodon](https://mastodon.social/@Mastodon)
 * The Calyx Institute [https://mastodon.social/@calyxinstitute](https://mastodon.social/@calyxinstitute)
 * Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
