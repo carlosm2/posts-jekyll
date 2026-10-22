@@ -13,7 +13,7 @@ categories: softwarelibre, l10n, privacidad, tails
 
 En este texto les comparto un poco sobre las colaboraciones voluntarias en **Tails**:
 
-[https://tails.boum.org/](https://tails.boum.org/) 
+[https://tails.net](https://tails.net) 
 
 Tails es un sistema operativo portátil que te protege de la vigilancia y la censura. [(mas información)](https://tails.boum.org/about/index.es.html)
 
