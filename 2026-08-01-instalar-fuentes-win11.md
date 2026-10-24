@@ -19,7 +19,7 @@ C:\USERS\miusuarie\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS
 ## Instalar la fuente
 
 * localizar la fuente 
-* boton derecho del mouse
+* boton derecho del raton para desplegar menú secundario
 * mas opciones
 * instalar para todos los usuarios
 * pedirá contraseña admin
