@@ -26,12 +26,11 @@ We talked about Butter the way it deserves to be talked about, casually, honestl
 
 The next day, we brought that story into the workshop. It became our opening example, a live, real-world illustration of how a Butter Box running on a power bank can keep people connected and informed when the grid goes down. No internet, no problem. The blackout lasted two hours. The impression it left? Much longer.
 
-Day One: El Taller (The Workshop)
+# Day One: El Taller (The Workshop)
 
 More than 30 participants joined our workshop on day one, where we introduced the full Butter Box ecosystem and then handed it over to the audience to test live. We carefully observed new users interacting with the platform for the first time — identifying pain points, technical hiccups, and the features people gravitated toward most. Watching someone use your product for the first time, with fresh eyes? No tiene precio. Priceless.
-Day Two: El Booth
 
-the butter booth The Butter Box booth
+# Day Two: El Booth
 
 Our two-hour booth on day two brought an even bigger crowd, members of the Global Voices community, local groups from across the region, and plenty of curious faces. We demoed Butter live, handed out stickers featuring the Spanish version of our website, and ran polls to rate the system's features. The booth got muy, muy busy, the good kind of busy. The kind that tells you you're onto something real.
 Taking Home More Than Souvenirs
