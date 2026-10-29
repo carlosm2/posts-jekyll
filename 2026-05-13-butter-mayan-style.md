@@ -11,7 +11,7 @@ Originally posted at: [https://likebutter.app/blog/butterbox-mayan-style](https:
 
 Spanish Versión: [https://likebutter.app/es/blog/butterbox-mayan-style](https://likebutter.app/es/blog/butterbox-mayan-style)
 
-The Butter Box and Engine Room teams joined forces at the Digital Mayan Fair 2026 in Chiapas, México, and we showed up with a clear misión: run guided usability tests with Mayan community members, gather firsthand feedback, and deploy Butter kits with selected candidates ready to close the digital divide in their communities.
+The [Butter Box](https://likebutter.app/) and [Engine Room](https://www.theengineroom.org/) teams joined forces at the [Digital Mayan Fair 2026](https://rising.globalvoices.org/adlm26/feria-de-lenguas-mayenses-digitales/) in Chiapas, México, and we showed up with a clear misión: run guided usability tests with Mayan community members, gather firsthand feedback, and deploy Butter kits with selected candidates ready to close the digital divide in their communities.
 
 For those who don't know, Butter helps where internet is unreliable or simply nonexistent, bringing a digital communication channel, a content distribution platform, and an offline app store, all packed into one portable, easy-to-use device. ¡Todo en uno!
 The Universe Gave Us the Perfect Demo Opportunity
