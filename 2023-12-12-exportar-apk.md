@@ -21,7 +21,7 @@ categories: android apk linux adb
 
 ## Exportar un APK para migrarlo a otro teléfono
 
-Tenia la necesidad de instalar una aplicación de idiomas que ya no estaba disponible en la tienda oficial (Play Store) ni en la pagina del fabricante, asi que tuve que exportarlo para poder seguir utilizandolo en un nuevo teléfono.
+Tenia la necesidad de instalar una aplicación de idiomas que ya no estaba disponible en la tienda oficial (Play Store) ni en la pagina del desarrollador, así que tuve que exportarlo para poder seguir utilizandolo en un nuevo teléfono.
 
 ## Paso 1 - Habilita la depuración de adb en tu dispositivo
 
