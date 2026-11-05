@@ -12,5 +12,8 @@ Cada 2 de noviembre es [día de muertos](https://es.wikipedia.org/wiki/D%C3%ADa_
 Buscando su origen, he visto que se relaciona al centro de México, que es de donde soy originario, de los pueblos nahuas.
 
 # Ingredientes
+
+* medio kilo de frijol ayecote morado 
+Otros nombres: Ayocote, tecómari, botil, frijolón, patola, tacahuaquetl, frijol torta (Phaseolus coccineus L.) - [https://www.biodiversidad.gob.mx/diversidad/alimentos/frijoles](https://www.biodiversidad.gob.mx/diversidad/alimentos/frijoles)
  
 https://es.wikipedia.org/wiki/Tamal
