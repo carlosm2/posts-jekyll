@@ -199,6 +199,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Librecast [https://chaos.social/@librecast](https://chaos.social/@librecast)
 * PDF Arranger [https://fosstodon.org/@pdfarranger](https://fosstodon.org/@pdfarranger)
 * KDE [https://floss.social/@kde](https://floss.social/@kde)
+* KDE España [https://floss.social/@kde_espana](https://floss.social/@kde_espana)
 * PINE64 EU [https://fosstodon.org/@pine64eu](https://fosstodon.org/@pine64eu)
 * MediaWiki [https://wikis.world/@mediawiki](https://wikis.world/@mediawiki)
 * UBports [https://mastodon.social/@ubports](https://mastodon.social/@ubports)
