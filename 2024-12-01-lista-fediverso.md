@@ -178,6 +178,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Mastodon [https://mastodon.social/@Mastodon](https://mastodon.social/@Mastodon)
 * The Calyx Institute [https://mastodon.social/@calyxinstitute](https://mastodon.social/@calyxinstitute)
 * Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
+* CoMaps [https://floss.social/@CoMaps](https://floss.social/@CoMaps)
 * FediForum [https://mastodon.social/@fediforum](https://mastodon.social/@fediforum)
 * Public Knowledge Project [https://mastodon.social/@PublicKnowledgeProject](https://mastodon.social/@PublicKnowledgeProject)
 * Creative Commons [https://mastodon.social/@creativecommons](https://mastodon.social/@creativecommons)
