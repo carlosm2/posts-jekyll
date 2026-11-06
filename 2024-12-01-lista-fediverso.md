@@ -211,4 +211,6 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Movim [https://piaille.fr/@movim](https://piaille.fr/@movim)
 * Collabora Office [https://mastodon.social/@CollaboraOffice](https://mastodon.social/@CollaboraOffice)
 * Flathub [https://floss.social/@flathub](https://floss.social/@flathub)
+* PipeWire Project [https://fosstodon.org/@pipewire](https://fosstodon.org/@pipewire)
+* OpenAndroidInstaller [https://fosstodon.org/@openandroidinstaller](https://fosstodon.org/@openandroidinstaller)
 * Gstreamer [https://floss.social/@gstreamer](https://floss.social/@gstreamer)
