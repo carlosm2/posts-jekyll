@@ -15,5 +15,7 @@ Buscando su origen, he visto que se relaciona al centro de México, que es de do
 
 * medio kilo de frijol ayecote morado 
 Otros nombres: Ayocote, tecómari, botil, frijolón, patola, tacahuaquetl, frijol torta (Phaseolus coccineus L.) - [https://www.biodiversidad.gob.mx/diversidad/alimentos/frijoles](https://www.biodiversidad.gob.mx/diversidad/alimentos/frijoles)
+* medio kilo de masa de maiz de tortillas
+  Pueden ir a una tortilleria a conseguir esa masa aun no hecha tortilla.
  
 https://es.wikipedia.org/wiki/Tamal
