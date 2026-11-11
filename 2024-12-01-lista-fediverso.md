@@ -212,6 +212,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Ardour [https://fosstodon.org/@ardour](https://fosstodon.org/@ardour)
 * Movim [https://piaille.fr/@movim](https://piaille.fr/@movim)
 * Codeberg [https://social.anoxinon.de/@Codeberg](https://social.anoxinon.de/@Codeberg)
+* LibreOffice [https://fosstodon.org/@libreoffice](https://fosstodon.org/@libreoffice)
 * Collabora Office [https://mastodon.social/@CollaboraOffice](https://mastodon.social/@CollaboraOffice)
 * OnlyOffice [https://fosstodon.org/@ONLYOFFICE](https://fosstodon.org/@ONLYOFFICE)
 * Flathub [https://floss.social/@flathub](https://floss.social/@flathub)
