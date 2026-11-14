@@ -26,6 +26,19 @@ Hice esta presentación, que como casi siempre en mis procesos, esta en constant
 
 [https://cacu.tech/inframaliciosa/](https://cacu.tech/inframaliciosa/)
 
+## Temario
+
+* Infraestructura de Internet
+* Pishing
+* Identificando Pishing
+* Clasificación - Decidir cuando investigar
+* Habilidades Interpersonales y cuidados
+* Seguridad Operacional - Manejo Seguro de enlaces e infraestructura
+* Investigación Pasiva: Análisis de URL, los nombres de host y direcciones IP
+* Investigación Pasiva: Análisis de los encabezados de correo electrónico
+* Analisis activo: algunas herramientas
+* Documentación de los hallazgos
+
 Utilicé Reveal.js para crear la presentación, dejando casi todo el texto en formato Markdown para facilitar su edición. La cargué en GitLab-Riseup para permitir la colaboración de autores, quienes pueden hacer mejoras y sugerencias allí:
 
 [https://0xacab.org/cacukin/inframaliciosa](https://0xacab.org/cacukin/inframaliciosa)
