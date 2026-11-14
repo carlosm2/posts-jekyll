@@ -18,9 +18,9 @@ categories:
     `---''---`
 
 
-Gracias a una beca [https://infuse.quest](https://infuse.quest) tuve la oportunidad de adquirir conocimientos de manera estructurada y secuencial sobre herramientas, protocolos y medidas de seguridad para detectar infraestructuras maliciosas.
-Conté con la guía de un mentor que facilitó el proceso, permitiéndome expresar mis dudas y aprender de alguien con experiencia en el tema. Regularmente, en otros espacios y temas, disfruto compartir lo que voy aprendiendo. 
-En este caso, una parte del programa al que apliqué requería precisamente eso: socializar el conocimiento recién adquirido.
+Gracias a una beca [https://infuse.quest](https://infuse.quest) vía [Internews](https://www.internews.org/) tuve la oportunidad de adquirir conocimientos de manera estructurada y secuencial sobre herramientas, protocolos y medidas de seguridad para detectar infraestructuras maliciosas.
+Conté con la guía de un mentor (Fabián Ziffze) que facilitó este proceso, permitiéndome expresar mis dudas y aprender de alguien con experiencia en el tema, los temas del taller estaban ya estructurados, una vez terminado el taller pude incorporar algunas sugerencias y ejemplos en el github del proyecto. 
+Regularmente en espacios de aprendizaje disfruto compartir lo que voy adquiriendo. En este caso, una parte del programa al que apliqué requería precisamente eso: socializar el conocimiento recién adquirido. Por lo que convoque a personas relacionadas a otras organizaciones y movimientos sociales para una larga sesión de 4 horas con pizza intermedia, ademas de suficiente café en un espacio que amigas me prestaron.
 
 Hice esta presentación, que como casi siempre en mis procesos, esta en constante actualización:
 
