@@ -20,9 +20,9 @@ categories: tails bitlocker cifrado
           `=':-..-'`
  
 
-Trabajo muy seguido con computadoras Windows 10, dichas computadoras por una buena politica de privacidad y seguridad están cifradas con [Bitlocker](https://es.wikipedia.org/wiki/BitLocker_Drive_Encryption).
+Trabajo muy seguido con computadoras Windows 10, 11, dichas computadoras por una buena política de privacidad y seguridad están cifradas con [Bitlocker](https://es.wikipedia.org/wiki/BitLocker_Drive_Encryption).
 
-Tenia una instalación corrupta del sistema y necesitaba rescatar archivos y como siempre a la mano tengo una USB Tails asi que me puse a leer sobre descifrar bitlocker desde GNU/Linux en donde vi que existe documentación y un paquete: [dislocker](https://github.com/Aorimn/dislocker) pero no fue necesario, antes de intentar esta forma lo hice desde mi USB Tails.
+Tenia una instalación corrupta del sistema y necesitaba rescatar archivos y como siempre a la mano tengo una USB Tails así que me puse a leer sobre descifrar bitlocker desde GNU/Linux en donde vi que existe documentación y un paquete: [dislocker](https://github.com/Aorimn/dislocker) pero no fue necesario, antes de intentar esta forma lo hice desde mi USB Tails porque se puede realizar desde el mismo..
 
 **Paso 1** Cargar inicio desde Tails 
 [https://tails.net/doc/first_steps/start/pc/index.es.html](https://tails.net/doc/first_steps/start/pc/index.es.html)
@@ -32,7 +32,7 @@ Tenia una instalación corrupta del sistema y necesitaba rescatar archivos y com
 
 **Paso 3** En nautilus (explorador de archivos) dar click en donde dice "Otras ubicaciones" para seleccionar nuestro disco duro cifrado que aparecerá con un icono de un candado.
 
-**Paso 4** Nos pedirá la contraseña numerica de Bitlocker, la tecleamos con los **guiones incluidos**, despues pedira la contraseña de administración que habilitamos al inicio. Y listo.
+**Paso 4** Nos pedirá la contraseña numérica de Bitlocker, la tecleamos con los **guiones incluidos**, después pedirá la contraseña de administración que habilitamos al inicio. Y listo.
 
 
 
