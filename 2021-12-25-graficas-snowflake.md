@@ -23,8 +23,9 @@ categories: softwarelibre tor snowflake proxy
    septiembre 2021                              diciembre 2021
 
 ---------------------
+Mantengo de forma habitual al menos una microcomputadora [Raspberry Pi](https://www.raspberrypi.com/) operando como proxy [Snowflake de la red Tor](https://snowflake.torproject.org/). A continuación presento el comportamiento observado de este nodo durante diciembre de 2021.
 
-En mi archivo de salida de *[snowflake proxy](https://snowflake.torproject.org/)* se veía un incremento en actividad y no solo ahí sino también en el consumo de recursos de todo el sistema operativo.
+En mi archivo de salida de *[snowflake proxy](https://snowflake.torproject.org/)* se observaba un incremento en actividad y no solo ahí sino también en el consumo de recursos de todo el sistema operativo.
 
 {% highlight c++ %}
 
@@ -37,6 +38,7 @@ less nohup.out | grep --color=always "Traffic throughput"
 less nohup.out | grep --color=always "Traffic throughput" > trafico.txt
 
 {% endhighlight %}
+
 Esto me daba los datos de las conexiones activas y sus días-horas, pero también muchos otros datos como la cantidad de kbs transferidos, pero quería únicamente saber la cantidad de conexiones en el día y su incremento durante el tiempo de mi muestra de **107 dias**.
 
 {% highlight c++ %}
