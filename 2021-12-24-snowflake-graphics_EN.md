@@ -24,6 +24,8 @@ categories: softwarelibre tor snowflake proxy
 
 ---------------------
 
+I regularly maintain at least one [Raspberry Pi](https://www.raspberrypi.com/) microcomputer operating as a [Snowflake proxy for the Tor network](https://snowflake.torproject.org/). Below is the observed behavior of this node during December 2021.
+
 In my *[snowflake proxy](https://snowflake.torproject.org/)* output file I saw an increase in activity, not only there but also in the resource consumption of the entire operating system.
 
 {% highlight c++ %}
