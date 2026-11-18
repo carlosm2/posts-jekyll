@@ -177,6 +177,7 @@ An index of Free and Open Source Software projects, Distros and Hackerspaces on 
 * Luanti [https://floss.social/@Luanti](https://floss.social/@Luanti)
 * Gimp [https://floss.social/@GIMP](https://floss.social/@GIMP)
 * Mastodon [https://mastodon.social/@Mastodon](https://mastodon.social/@Mastodon)
+* OBS [https://mastodon.social/@OBSProject](https://mastodon.social/@OBSProject)
 * The Calyx Institute [https://mastodon.social/@calyxinstitute](https://mastodon.social/@calyxinstitute)
 * Python for Data Science [https://mastodon.social/@Python4DataScience](https://mastodon.social/@Python4DataScience)
 * CoMaps [https://floss.social/@CoMaps](https://floss.social/@CoMaps)
