@@ -29,6 +29,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [fanzine1_colibres.pdf](https://cacu.tech/guias/fanzine1_colibres.pdf)
 * [DefendersProtocol_ES.pdf](https://cacu.tech/guias/DefendersProtocol_ES.pdf)
 * [Poster-Cuidando-Nuestro-Cuerpo-Territorio-Digital.pdf](https://cacu.tech/Poster-Cuidando-Nuestro-Cuerpo-Territorio-Digital.pdf)
+* [Manual-practico-de-seguridad-digital-La-violencia-de-genero-en-linea-contra-las-mujeres-y-ninas.pdf](Manual-practico-de-seguridad-digital-La-violencia-de-genero-en-linea-contra-las-mujeres-y-ninas.pdf) 
 * [fanzine2_colibres.pdf](https://cacu.tech/guias/fanzine2_colibres.pdf)
 * [fanzine3_colibres.pdf](https://cacu.tech/guias/fanzine3_colibres.pdf)
 * [CG-_-Manual-Tecnicas_final.pdf](https://cacu.tech/CG-_-Manual-Tecnicas_final.pdf)
