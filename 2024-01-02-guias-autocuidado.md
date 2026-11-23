@@ -57,6 +57,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [guiapracticaviolenciagenerodigital.pdf](https://cacu.tech/guiapracticaviolenciagenerodigital.pdf)
 * [art19_2020_infografia-AplicacionesSegurasMujeres.pdf](https://cacu.tech/guias/art19_2020_infografia-AplicacionesSegurasMujeres.pdf)
 * [art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-generacion-gestion-contrasenas_v2.pdf)
+* [ymca_guia_sobre_violencias_de_genero_digitales_para_la_generacion_z_vf_compressed.pdf](ymca_guia_sobre_violencias_de_genero_digitales_para_la_generacion_z_vf_compressed.pdf)
 * [art19_2020_infografia-ProtocoloSeguridad-1.pdf](https://cacu.tech/guias/art19_2020_infografia-ProtocoloSeguridad-1.pdf)
 * [art19_2020_infografia-Seguridad-Mensajeria_v2.pdf](https://cacu.tech/guias/art19_2020_infografia-Seguridad-Mensajeria_v2.pdf)
 * [calmarno.pdf](https://cacu.tech/guias/calmarno.pdf)
