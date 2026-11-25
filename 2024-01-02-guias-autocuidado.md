@@ -35,6 +35,7 @@ Sitio Onion: sera el mismo de cacu.tech http://dwtxl2f7x64kp4zhcrhcebixtwb25s446
 * [CG-_-Manual-Tecnicas_final.pdf](https://cacu.tech/CG-_-Manual-Tecnicas_final.pdf)
 * [Glosario-Codigo-Violeta-2026.pdf](https://cacu.tech/Glosario-Codigo-Violeta-2026.pdf)
 * [documentacion-difusion-de-imagenes.pdf](https://cacu.tech/guias/documentacion-difusion-de-imagenes.pdf)
+* [guiaentornosdigitales.pdf](guiaentornosdigitales.pdf) 
 * [estrategias-para-una-busqueda-egura.pdf](https://cacu.tech/guias/estrategias-para-una-busqueda-egura.pdf)
 * [Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf](https://cacu.tech/guias/Sembrarpara_Resistir_metodologiasdeseguridadyproteccionintegral_HOP.pdf) 
 * [aguzate.pdf](https://cacu.tech/guias/aguzate.pdf)
