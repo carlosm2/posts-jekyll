@@ -3,7 +3,7 @@ layout: post
 title:  "Lista Fediverso - Software Libre, hackerspaces"
 date:   2024-12-01 12:32:00
 categories: fediverso freesoftware hackerspace softwarelibre
----https://www.youtube.com/watch?v=31gGSGwNNj4
+---
 # Lista Fediverso
 
            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               
